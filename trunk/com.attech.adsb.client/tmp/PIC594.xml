@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>PIC594</Callsign>
+    <Address>8880F9</Address>
+    <FlightLevel>72.75</FlightLevel>
+    <Speed>285.78000000000003</Speed>
+    <Heading>26.24049949645996</Heading>
+    <VerticalRate>24.9375</VerticalRate>
+    <Longtitude>106.5462646484375</Longtitude>
+    <Latitude>10.897602081298828</Latitude>
+    <TimeOfDay>3030.921875</TimeOfDay>
+    <InitialTime>1596133701392</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701392</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

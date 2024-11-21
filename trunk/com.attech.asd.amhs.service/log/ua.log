@@ -1,0 +1,122 @@
+2020-07-12 04:04:00,139 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 04:04:04,761 INFO   [Executor] Initializing 
+2020-07-12 04:04:05,111 INFO   [SocketHandler] Socket server 192.168.22.148:7749 is initialized 
+2020-07-12 04:04:05,111 INFO   [ThreadManager] Start all thread 
+2020-07-12 04:04:05,111 INFO   [SocketHandler] Start listenning 
+2020-07-12 04:04:05,114 WARN   [SocketHandler] Socket server 192.168.22.148:7749 failed to start listenning 
+2020-07-12 04:04:05,116 ERROR  [SocketHandler] java.net.BindException: Cannot assign requested address: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.bind(ServerSocket.java:329)
+	at com.attech.asd.amhs.service.socket.SocketServer.listenning(SocketServer.java:62)
+	at com.attech.asd.amhs.service.socket.SocketServer.run(SocketServer.java:48)
+ 
+2020-07-12 04:04:05,228 INFO   [ThreadManager] Thread 1:VVNBZPZX is starting. 
+2020-07-12 04:04:05,291 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 04:04:47,816 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 04:04:47,816 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 11:35:31,108 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 11:35:35,610 INFO   [Executor] Initializing 
+2020-07-12 11:35:35,913 INFO   [SocketHandler] Socket server 192.168.22.148:7749 is initialized 
+2020-07-12 11:35:35,913 INFO   [ThreadManager] Start all thread 
+2020-07-12 11:35:35,914 INFO   [SocketHandler] Start listenning 
+2020-07-12 11:35:35,959 INFO   [ThreadManager] Thread 1:VVNBZPZX is starting. 
+2020-07-12 11:35:35,960 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 11:36:18,142 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 11:36:18,142 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 11:36:39,097 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 11:46:07,492 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 11:46:10,821 INFO   [Executor] Initializing 
+2020-07-12 11:46:11,125 INFO   [SocketHandler] Socket server 192.168.22.148:7749 is initialized 
+2020-07-12 11:46:11,125 INFO   [ThreadManager] Start all thread 
+2020-07-12 11:46:11,125 INFO   [SocketHandler] Start listenning 
+2020-07-12 11:46:11,156 INFO   [ThreadManager] Thread 1:VVNBZPZX is starting. 
+2020-07-12 11:46:11,172 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 11:46:41,183 INFO   [Executor] Notify status to all client 
+2020-07-12 11:46:41,183 DEBUG  [ThreadManager] 1:STOPPED 0(msg) null null 
+2020-07-12 11:46:53,309 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 11:46:53,309 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 11:48:23,596 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 11:48:40,271 INFO   [Executor] Initializing 
+2020-07-12 11:48:40,534 INFO   [SocketHandler] Socket server 192.168.22.148:7749 is initialized 
+2020-07-12 11:48:40,534 INFO   [ThreadManager] Start all thread 
+2020-07-12 11:48:40,534 INFO   [SocketHandler] Start listenning 
+2020-07-12 11:48:40,597 INFO   [ThreadManager] Thread 1:VVNBZPZX is starting. 
+2020-07-12 11:48:55,581 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 11:49:10,620 INFO   [Executor] Notify status to all client 
+2020-07-12 11:49:38,709 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 11:49:38,709 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 11:50:45,732 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 11:51:28,458 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 11:51:28,458 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 11:52:46,363 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 11:53:28,475 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 11:53:28,475 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 13:29:58,167 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 13:30:40,358 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 13:30:40,359 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 13:31:07,591 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 13:31:36,409 DEBUG  [logging] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2020-07-12 13:31:52,519 INFO   [Executor] Initializing 
+2020-07-12 13:31:52,767 INFO   [SocketHandler] Socket server 192.168.22.148:7749 is initialized 
+2020-07-12 13:31:52,768 INFO   [ThreadManager] Start all thread 
+2020-07-12 13:31:52,768 INFO   [SocketHandler] Start listenning 
+2020-07-12 13:31:52,813 INFO   [ThreadManager] Thread 1:VVNBZPZX is starting. 
+2020-07-12 13:31:55,016 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 13:32:06,088 INFO   [Executor] Notify status to all client 
+2020-07-12 13:32:07,986 DEBUG  [ThreadManager] 1:STOPPED 0(msg) null null 
+2020-07-12 13:32:18,921 INFO   [Executor] Notify status to all client 
+2020-07-12 13:33:20,759 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 13:34:05,277 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 13:34:05,278 DEBUG  [ReceivingThread] Waiting 
+2020-07-12 13:35:19,601 INFO   [ReceivingThread] Thread 1:VVNBZPZX started 
+2020-07-12 13:36:01,724 ERROR  [ReceivingThread] com.isode.x400.highlevel.NotBoundException: Cannot connect to server
+	at com.isode.x400.highlevel.P7BindSession.bind(P7BindSession.java:99)
+	at com.attech.asd.amhs.service.Connection.connect(Connection.java:92)
+	at com.attech.asd.amhs.service.ReceivingThread.updatingMessage(ReceivingThread.java:127)
+	at com.attech.asd.amhs.service.ReceivingThread.run(ReceivingThread.java:82)
+ 
+2020-07-12 13:36:01,725 DEBUG  [ReceivingThread] Waiting 

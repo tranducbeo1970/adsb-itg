@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>FIN27</Callsign>
+    <Address>461F0B</Address>
+    <FlightLevel>123.25</FlightLevel>
+    <Speed>332.86</Speed>
+    <Heading>109.27950286865234</Heading>
+    <VerticalRate>-0.625</VerticalRate>
+    <Longtitude>106.07215118408203</Longtitude>
+    <Latitude>11.058565139770508</Latitude>
+    <TimeOfDay>3021.75</TimeOfDay>
+    <InitialTime>1596133687187</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133687187</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

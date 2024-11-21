@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>SLK962</Callsign>
+    <Address>76CD87</Address>
+    <FlightLevel>350.25</FlightLevel>
+    <Speed>449.02</Speed>
+    <Heading>33.77000045776367</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>108.81004333496094</Longtitude>
+    <Latitude>10.012431144714355</Latitude>
+    <TimeOfDay>3031.65625</TimeOfDay>
+    <InitialTime>1596133701878</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701878</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

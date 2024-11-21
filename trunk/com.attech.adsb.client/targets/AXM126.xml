@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AXM126</Callsign>
+    <Address>75027D</Address>
+    <FlightLevel>330.25</FlightLevel>
+    <Speed>0.0</Speed>
+    <Heading>0.0</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>105.43440246582031</Longtitude>
+    <Latitude>9.115827560424805</Latitude>
+    <TimeOfDay>1753.6015625</TimeOfDay>
+    <InitialTime>1596131742226</InitialTime>
+    <NIC>6</NIC>
+    <NAC>7</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131742226</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

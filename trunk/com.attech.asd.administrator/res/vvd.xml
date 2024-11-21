@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VVDs>
+    <VVD name="VVD20CAMSON" color="#FF8080" type="POLYGON" levelmin="16000" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="21.508333" x="106.672226" size="0"/>
+        <Point y="21.508333" x="106.975" size="0"/>
+        <Point y="21.411112" x="106.975" size="0"/>
+        <Point y="21.411112" x="106.577774" size="0"/>
+        <Point y="21.508333" x="106.672226" size="0"/>
+    </VVD>
+    <VVD name="VVD21MIEUMON" color="#FF8080" type="POLYGON" levelmin="5000" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="20.877777" x="105.70389" size="0"/>
+        <Point y="20.768333" x="105.71972" size="0"/>
+        <Point y="20.87889" x="105.59111" size="0"/>
+        <Point y="20.762777" x="105.59194" size="0"/>
+        <Point y="20.877777" x="105.70389" size="0"/>
+    </VVD>
+    <VVD name="VVD22KHAMDUC" color="#FF8080" type="POLYGON" levelmin="8000" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="15.630555" x="108.066666" size="0"/>
+        <Point y="15.225" x="108.03333" size="0"/>
+        <Point y="15.25" x="107.775" size="0"/>
+        <Point y="15.616667" x="107.85833" size="0"/>
+        <Point y="15.630555" x="108.066666" size="0"/>
+    </VVD>
+    <VVD name="VVD23" color="#FF8080" type="CIRCLE" levelmin="1000" radius="5.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.695" x="106.74" size="0"/>
+    </VVD>
+    <VVD name="VVD24" color="#FF8080" type="CIRCLE" levelmin="1000" radius="5.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.903334" x="106.71167" size="0"/>
+    </VVD>
+    <VVD name="VVD25" color="#FF8080" type="CIRCLE" levelmin="1000" radius="5.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.67" x="106.58833" size="0"/>
+    </VVD>
+    <VVD name="VVD26" color="#FF8080" type="CIRCLE" levelmin="1000" radius="5.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.883333" x="106.6" size="0"/>
+    </VVD>
+    <VVD name="VVD27" color="#FF8080" type="CIRCLE" levelmin="1200" radius="3.0" enabled="true" weight="1" z-index="0">
+        <Point y="15.983334" x="108.280556" size="0"/>
+    </VVD>
+    <VVD name="VVD28" color="#FF8080" type="CIRCLE" levelmin="1200" radius="3.0" enabled="true" weight="1" z-index="0">
+        <Point y="15.916667" x="108.333336" size="0"/>
+    </VVD>
+    <VVD name="VVD29" color="#FF8080" type="CIRCLE" levelmin="600" radius="3.0" enabled="true" weight="1" z-index="0">
+        <Point y="16.042223" x="108.39306" size="0"/>
+    </VVD>
+    <VVD name="VVD30" color="#FF8080" type="CIRCLE" levelmin="600" radius="3.0" enabled="true" weight="1" z-index="0">
+        <Point y="15.966666" x="108.4" size="0"/>
+    </VVD>
+    <VVD name="VVD31" color="#FF8080" type="CIRCLE" levelmin="800" radius="8.0" enabled="true" weight="1" z-index="0">
+        <Point y="15.75" x="108.75" size="0"/>
+    </VVD>
+    <VVD name="VVD32MAYTAO" color="#FF8080" type="POLYGON" levelmin="16000" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.861111" x="107.441666" size="0"/>
+        <Point y="10.766666" x="107.541664" size="0"/>
+        <Point y="10.788889" x="107.681946" size="0"/>
+        <Point y="10.654166" x="107.681946" size="0"/>
+        <Point y="10.659722" x="107.505554" size="0"/>
+        <Point y="10.763889" x="107.40417" size="0"/>
+        <Point y="10.85" x="107.425" size="0"/>
+    </VVD>
+    <VVD name="VTV" color="#FF8080" type="CIRCLE" levelmin="800" radius="30.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.369445" x="107.09778" size="0"/>
+    </VVD>
+</VVDs>

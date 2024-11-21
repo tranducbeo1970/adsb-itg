@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airport name="DA NANG" path="res/dan/airport.xml" displayCircle="true" displayArc="true" enabled="true" selected="true">
+    <Point y="17.998056" x="106.219444" size="0"/>
+    <Regions type="PROC">
+        <RegionGroup type="TMA" name="TMA">
+            <Region name="SID-02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>THAKA</Point>
+                    <Point>CR303</Point>
+                    <Point>CR301</Point>
+                    <Point>CR300</Point>
+                    <Point>CRA</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR303</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR301</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>RABIN</Point>
+                    <Point>FURAL</Point>
+                    <Point>CR300</Point>
+                </RegionLine>
+                <Ref>res/cra/proc.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="TMA">
+        <RegionGroup type="TMA" name="TMA">
+            <Region name="TMA Da Nang 1" type="TMA" enabled="true" displayName="true" selected="false"/>
+        </RegionGroup>
+    </Regions>
+    <Regions type="RWY">
+        <RegionGroup type="RWY" name="RWY">
+            <Region name="DN17L" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="0">
+                    <Point>DN17L</Point>
+                </RegionLine>
+                <Ref>res/dan/rwy.xml</Ref>
+            </Region>
+            <Region name="DN35R" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DN35R</Point>
+                </RegionLine>
+                <Ref>res/dan/rwy.xml</Ref>
+            </Region>
+            <Region name="DN17R" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="2">
+                    <Point>DN17R</Point>
+                </RegionLine>
+                <Ref>res/dan/rwy.xml</Ref>
+            </Region>
+            <Region name="DN35L" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="3">
+                    <Point>DN35L</Point>
+                </RegionLine>
+                <Ref>res/dan/rwy.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="FIX">
+        <RegionGroup type="FIX" name="FIX">
+            <Region name="FIX POINTS" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>DAN-FIX-CAHEO</Point>
+                    <Point>DAN-FIX-KANGU</Point>
+                    <Point>DAN-FIX-SAMBO</Point>
+                    <Point>DAN-FIX-TAMKY</Point>
+                    <Point>DAN-FIX-TAHUA</Point>
+                    <Point>DAN-FIX-TANNA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX POINTS NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>DAN-FIX-CAHEO</Point>
+                    <Point>DAN-FIX-KANGU</Point>
+                    <Point>DAN-FIX-SAMBO</Point>
+                    <Point>DAN-FIX-TAMKY</Point>
+                    <Point>DAN-FIX-TAHUA</Point>
+                    <Point>DAN-FIX-TANNA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>DAN-VISP-TP.HUE</Point>
+                    <Point>DAN-VISP-LANGCO</Point>
+                    <Point>DAN-VISP-CL.CHAM</Point>
+                    <Point>DAN-VISP-CUADAI</Point>
+                    <Point>DAN-VISP-V.PHUOC</Point>
+                    <Point>DAN-VISP-BANA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>DAN-VISP-TP.HUE</Point>
+                    <Point>DAN-VISP-LANGCO</Point>
+                    <Point>DAN-VISP-CL.CHAM</Point>
+                    <Point>DAN-VISP-CUADAI</Point>
+                    <Point>DAN-VISP-V.PHUOC</Point>
+                    <Point>DAN-VISP-BANA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+</Airport>

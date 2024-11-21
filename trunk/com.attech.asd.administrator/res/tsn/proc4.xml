@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="TRN" x="105.7055" y="10.0833"/>
+	<Point name="MISAN" x="106.0500" y="10.4805"/>
+	<Point name="TS858" x="106.3913" y="10.8452"/>
+	<Point name="TS856" x="106.6705" y="10.9241"/>
+	<Point name="BASON" x="106.0011" y="10.5850"/>
+	<Point name="TS858" x="106.3913" y="10.8452"/>
+	<Point name="TSC01" x="106.6836" y="10.8791"/>
+	<Point name="TSC02" x="106.6830" y="10.8805"/>
+	<Point name="TS854" x="106.6994" y="10.8383"/>
+	<Point name="TS852" x="106.7005" y="10.8352"/>
+	<Point name="RW07R" x="106.6433" y="10.8136"/>
+	<Point name="RW07L" x="106.6369" y="10.8149"/>
+</ListPoints>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>ANA816</Callsign>
+    <Address>86CED2</Address>
+    <FlightLevel>369.75</FlightLevel>
+    <Speed>496.1</Speed>
+    <Heading>12.369500160217285</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>103.40264892578125</Longtitude>
+    <Latitude>6.104120254516602</Latitude>
+    <TimeOfDay>3014.7890625</TimeOfDay>
+    <InitialTime>1596133676541</InitialTime>
+    <NIC>8</NIC>
+    <NAC>0</NAC>
+    <SIL>0</SIL>
+    <LastUpdateInMil>1596133676541</LastUpdateInMil>
+    <Mode3A>2162</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<Configuration status='off'>
+    <Properties>
+        <Property name='logFilePath'>logs/asd.log</Property>
+    </Properties>
+    <Appenders>
+        <Console name='Console' target='SYSTEM_OUT'>
+            <PatternLayout pattern='%m%n'/>
+        </Console>
+        <File name='File' fileName='${logFilePath}'>
+            <PatternLayout>
+                <Pattern>%d %-5p %m%n</Pattern>
+            </PatternLayout>
+        </File>
+        <SMTP name='Email' subject='JAX-WS Hello World Tutorial Web Service' to='matthew.pfluger@plexus.com' from='noreply-AgileUserManager@plexus.com'
+              smtpHost='intranet-smtp.plexus.com' smtpPort='25' bufferSize='10000'>
+            <PatternLayout>
+                <Header>One or more errors occurred!  Please see the full log file at: ${logFilePath}.%n</Header>
+                <Pattern>%d %-5p %m%n</Pattern>
+            </PatternLayout>
+        </SMTP>
+    </Appenders>
+    <Loggers>
+        <Root level='debug'>
+            <AppenderRef ref='File'/>
+            <AppenderRef ref='Console'/>
+            <!--AppenderRef ref='Email'/-->
+        </Root>
+    </Loggers>
+</Configuration>

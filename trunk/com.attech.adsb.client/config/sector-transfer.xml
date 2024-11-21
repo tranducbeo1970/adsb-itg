@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SectorRelation>
+    <Sector name="SECTOR2-HN">
+        <RelateSector>SECTOR1-HN</RelateSector>
+        <RelateSector>SECTOR3-HN</RelateSector>
+    </Sector>
+</SectorRelation>

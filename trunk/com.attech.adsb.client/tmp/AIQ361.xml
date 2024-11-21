@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AIQ361</Callsign>
+    <Address>880449</Address>
+    <FlightLevel>390.0</FlightLevel>
+    <Speed>440.22</Speed>
+    <Heading>158.30099487304688</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>102.7121810913086</Longtitude>
+    <Latitude>5.170803070068359</Latitude>
+    <TimeOfDay>3019.5078125</TimeOfDay>
+    <InitialTime>1596133682627</InitialTime>
+    <NIC>6</NIC>
+    <NAC>7</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133682627</LastUpdateInMil>
+    <Mode3A>714</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

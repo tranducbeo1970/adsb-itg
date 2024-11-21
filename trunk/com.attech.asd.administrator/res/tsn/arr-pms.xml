@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListPoints>
+	<Point name="ARR07-PMS-0-1" x="105.9767" y="10.8997"/>
+	<Point name="ARR07-PMS-0-3" x="106.02" y="10.85"/>
+	<Point name="ARR07-PMS-0-5" x="106.08" y="10.8"/>
+	<Point name="ARR07-PMS-0-7" x="106.2" y="10.7747"/>
+	<Point name="ARR07-PMS-0-9" x="106.38" y="10.77"/>
+	<Point name="ARR07-PMS-0-11" x="106.6456" y="10.8164"/>
+	<Point name="ARR07-PMS-0-13" x="106.6908" y="10.5611"/>
+	<Point name="ARR07-PMS-0-15" x="106.6286" y="10.4481"/>
+	<Point name="ARR07-PMS-0-17" x="106.8533" y="10.1792"/>
+	<Point name="ARR07-PMS-1-1" x="106.3872" y="10.77"/>
+	<Point name="ARR07-PMS-1-3" x="106.0747" y="10.4564"/>
+	<Point name="ARR25-PMS-0-1" x="107.0961" y="10.3167"/>
+	<Point name="ARR25-PMS-0-3" x="106.9153" y="10.5156"/>
+	<Point name="ARR25-PMS-0-5" x="106.8431" y="10.7156"/>
+	<Point name="ARR25-PMS-0-7" x="106.6456" y="10.8164"/>
+	<Point name="ARR25-PMS-0-9" x="106.8461" y="10.9486"/>
+	<Point name="ARR25-PMS-0-11" x="106.7867" y="11.3125"/>
+	<Point name="ARR25-PMS-0-13" x="106.9442" y="11.4178"/>
+	<Point name="ARR25-PMS-1-1" x="106.8431" y="10.7156"/>
+	<Point name="ARR25-PMS-1-3" x="106.8567" y="10.8894"/>
+	<Point name="ARR25-PMS-1-5" x="106.8461" y="10.9486"/>
+	<Point name="ARR25-PMS-2-1" x="107.3183" y="10.8953"/>
+	<Point name="ARR25-PMS-2-3" x="107.2033" y="10.8858"/>
+	<Point name="ARR25-PMS-2-5" x="107.1692" y="11.0058"/>
+	<Point name="ARR25-PMS-2-7" x="107.2717" y="11.0728"/>
+	<Point name="ARR-PMS-ARC-75" x="106.6455" y="10.8163"/>
+</ListPoints>

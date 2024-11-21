@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="ASD_2020"/>
+        <group name="asgmcs">
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/gui/trafficList/TrafficListDlg.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/service/ServiceBase.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/graphic/Painter.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/service/FlightPlanService.java</file>
+        </group>
+        <group name="ADS-B Integrator">
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/Run.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/graphic/Painter.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/Common.java</file>
+        </group>
+        <group name="dev">
+            <file>file:/F:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.adsb.client/src/com/attech/adsb/client/gui/Main.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.adsb.client/src/com/attech/adsb/client/common/Common.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.adsb.client/src/com/attech/adsb/client/common/service/FlightControlService.java</file>
+            <file>file:/F:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.adsb.client/src/com/attech/adsb/client/common/TargetManager.java</file>
+        </group>
+        <group name="asd-2020">
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.adsb.client/src/com/attech/adsb/client/Run.java</file>
+        </group>
+        <group name="adsb-itg"/>
+        <group name="adsb-itg-09092021"/>
+        <group name="sms-tool"/>
+        <group>
+            <file>file:/adsb-itg/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/service/FlightControlService.java</file>
+            <file>file:/adsb-itg/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/service/AircraftService.java</file>
+            <file>file:/adsb-itg/trunk/com.attech.adsb.client/src/com/attech/adsb/client/common/service/ServiceBase.java</file>
+        </group>
+    </open-files>
+</project-private>

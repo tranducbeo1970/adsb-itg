@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AFR258</Callsign>
+    <Address>394A03</Address>
+    <FlightLevel>101.0</FlightLevel>
+    <Speed>307.56</Speed>
+    <Heading>112.52999877929688</Heading>
+    <VerticalRate>-5.125</VerticalRate>
+    <Longtitude>106.20398712158203</Longtitude>
+    <Latitude>10.996463775634766</Latitude>
+    <TimeOfDay>1753.7734375</TimeOfDay>
+    <InitialTime>1596131741720</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131741720</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

@@ -1,0 +1,87 @@
+2023-01-09 17:00:32,179 INFO   [Run] PROGRAM START 
+2023-01-09 17:00:37,876 INFO   [Main] Set zoom level to 300:1.9865723 
+2023-01-09 17:00:37,948 INFO   [Main] Set zoom level to 300:1.9865723 
+2023-01-09 17:00:38,687 INFO   [VVDsGraphic] Set display VVD20CAMSON to false 
+2023-01-09 17:00:38,689 INFO   [VVDsGraphic] Set display VVD21MIEUMON to false 
+2023-01-09 17:00:38,689 INFO   [VVDsGraphic] Set display VVD22KHAMDUC to false 
+2023-01-09 17:00:38,690 INFO   [VVDsGraphic] Set display VVD23 to false 
+2023-01-09 17:00:38,691 INFO   [VVDsGraphic] Set display VVD24 to false 
+2023-01-09 17:00:38,692 INFO   [VVDsGraphic] Set display VVD25 to false 
+2023-01-09 17:00:38,693 INFO   [VVDsGraphic] Set display VVD26 to false 
+2023-01-09 17:00:38,695 INFO   [VVDsGraphic] Set display VVD27 to false 
+2023-01-09 17:00:38,696 INFO   [VVDsGraphic] Set display VVD28 to false 
+2023-01-09 17:00:38,696 INFO   [VVDsGraphic] Set display VVD29 to false 
+2023-01-09 17:00:38,696 INFO   [VVDsGraphic] Set display VVD30 to false 
+2023-01-09 17:00:38,697 INFO   [VVDsGraphic] Set display VVD31 to false 
+2023-01-09 17:00:38,697 INFO   [VVDsGraphic] Set display VVD32MAYTAO to false 
+2023-01-09 17:00:38,698 INFO   [VVDsGraphic] Set display VTV to false 
+2023-01-09 17:00:38,722 INFO   [VVPsGraphic] Set display VVP1 to false 
+2023-01-09 17:00:38,723 INFO   [VVPsGraphic] Set display VVP2 to false 
+2023-01-09 17:00:38,723 INFO   [VVPsGraphic] Set display VVP3 to false 
+2023-01-09 17:00:38,726 INFO   [VVPsGraphic] Set display VVP4 to false 
+2023-01-09 17:00:38,740 INFO   [VVRsGraphic] Set display VVR19 to false 
+2023-01-09 17:00:38,748 INFO   [VVRsGraphic] Set display VVR33 to false 
+2023-01-09 17:00:38,748 INFO   [VVRsGraphic] Set display VVR33_1 to false 
+2023-01-09 17:00:38,750 INFO   [VVRsGraphic] Set display VVR34 to false 
+2023-01-09 17:00:38,755 INFO   [VVRsGraphic] Set display VVR35 to false 
+2023-01-09 17:00:38,757 INFO   [VVRsGraphic] Set display VVR36 to false 
+2023-01-09 17:00:38,758 INFO   [VVRsGraphic] Set display VVR37 to false 
+2023-01-09 17:00:38,759 INFO   [VVRsGraphic] Set display VVR38 to false 
+2023-01-09 17:00:38,760 INFO   [VVRsGraphic] Set display VVR39 to false 
+2023-01-09 17:00:38,761 INFO   [VVRsGraphic] Set display VVR40 to false 
+2023-01-09 17:00:38,761 INFO   [VVRsGraphic] Set display KV80 to false 
+2023-01-09 17:00:38,762 INFO   [VVRsGraphic] Set display KV81 to false 
+2023-01-09 17:00:38,763 INFO   [VVRsGraphic] Set display KV82 to false 
+2023-01-09 17:00:38,763 INFO   [VVRsGraphic] Set display KV83 to false 
+2023-01-09 17:00:38,764 INFO   [VVRsGraphic] Set display KV86 to false 
+2023-01-09 17:00:38,764 INFO   [VVRsGraphic] Set display KVDinh to false 
+2023-01-09 17:00:38,765 INFO   [VVRsGraphic] Set display KV465 to false 
+2023-01-09 17:00:38,766 INFO   [VVRsGraphic] Set display KV465a to false 
+2023-01-09 17:00:38,767 INFO   [VVRsGraphic] Set display KV466 to false 
+2023-01-09 17:00:38,770 INFO   [VVRsGraphic] Set display KV467 to false 
+2023-01-09 17:00:38,771 INFO   [VVRsGraphic] Set display KV468 to false 
+2023-01-09 17:00:38,772 INFO   [VVRsGraphic] Set display KV469 to false 
+2023-01-09 17:00:38,774 INFO   [VVRsGraphic] Set display KV469b to false 
+2023-01-09 17:00:38,774 INFO   [VVRsGraphic] Set display KV469c to false 
+2023-01-09 17:00:38,775 INFO   [VVRsGraphic] Set display KV470 to false 
+2023-01-09 17:00:38,776 INFO   [VVRsGraphic] Set display KV460 to false 
+2023-01-09 17:00:38,779 INFO   [VVRsGraphic] Set display KV461 to false 
+2023-01-09 17:00:38,779 INFO   [VVRsGraphic] Set display KV462 to false 
+2023-01-09 17:00:38,780 INFO   [VVRsGraphic] Set display KV463 to false 
+2023-01-09 17:00:38,781 INFO   [VVRsGraphic] Set display KV463A to false 
+2023-01-09 17:00:38,781 INFO   [VVRsGraphic] Set display KV70 to false 
+2023-01-09 17:00:38,782 INFO   [VVRsGraphic] Set display KV70G to false 
+2023-01-09 17:00:38,782 INFO   [VVRsGraphic] Set display KV71 to false 
+2023-01-09 17:00:38,783 INFO   [VVRsGraphic] Set display KV72 to false 
+2023-01-09 17:00:38,783 INFO   [VVRsGraphic] Set display KV73 to false 
+2023-01-09 17:00:38,786 INFO   [VVRsGraphic] Set display KV75 to false 
+2023-01-09 17:00:38,786 INFO   [VVRsGraphic] Set display KV50 to false 
+2023-01-09 17:00:38,787 INFO   [VVRsGraphic] Set display KV51 to false 
+2023-01-09 17:00:38,789 INFO   [VVRsGraphic] Set display KV53 to false 
+2023-01-09 17:00:38,789 INFO   [VVRsGraphic] Set display KV56 to false 
+2023-01-09 17:00:38,790 INFO   [VVRsGraphic] Set display KV57 to false 
+2023-01-09 17:00:38,790 INFO   [VVRsGraphic] Set display KV58 to false 
+2023-01-09 17:00:38,823 INFO   [TargetManager] Set current setup position is SECTOR2-HN 
+2023-01-09 17:00:39,394 INFO   [CustomDrawGraphic] Set custom drawing validation to false 
+2023-01-09 17:00:39,394 INFO   [VVDsGraphic] Set target validation to false 
+2023-01-09 17:00:39,394 INFO   [VVPsGraphic] Set target validation to false 
+2023-01-09 17:00:39,394 INFO   [VVRsGraphic] Set target validation to false 
+2023-01-09 17:00:55,476 INFO   [TargetManager] Start target recalculate interval at 4 second 
+2023-01-09 17:00:55,535 INFO   [SocketReceivingHandler] Start listenning on port 20190 (192.168.22.157) 
+2023-01-09 17:00:55,573 ERROR  [Main] Cannot load program built info 
+2023-01-09 17:00:58,552 INFO   [TargetManager] Start updating target info 
+2023-01-09 17:00:59,513 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:03,523 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:07,647 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:11,514 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:15,516 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:18,546 INFO   [TargetManager] Start updating target info 
+2023-01-09 17:01:19,526 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:23,516 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:27,518 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:31,514 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:35,518 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:38,547 INFO   [TargetManager] Start updating target info 
+2023-01-09 17:01:39,520 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:43,519 INFO   [TargetManager] Calculate target status (size: 0) 
+2023-01-09 17:01:45,163 WARN   [ShutdownHook] PROGRAM END 

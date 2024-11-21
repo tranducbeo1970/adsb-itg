@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airport name="NOI BAI" path="res/nob/airport.xml" displayCircle="true" displayArc="true" enabled="true" selected="false">
+    <Point y="21.998056" x="105.219444" size="0"/>
+    <Regions type="PROC">
+        <RegionGroup type="PROC" name="PROC">
+            <Region name="SID-02" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>THAKA</Point>
+                    <Point>CR303</Point>
+                    <Point>CR301</Point>
+                    <Point>CR300</Point>
+                    <Point>CRA</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR303</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR301</Point>
+                </RegionLine>
+                <RegionLine color="#ff3311" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>RABIN</Point>
+                    <Point>FURAL</Point>
+                    <Point>CR300</Point>
+                </RegionLine>
+                <Ref>res/cra/proc.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="TMA">
+        <RegionGroup type="TMA" name="TMA">
+            <Region name="TMA Noi Bai 1" type="TMA" enabled="true" displayName="true" selected="true"/>
+        </RegionGroup>
+    </Regions>
+    <Regions type="APP"/>
+    <Regions type="RWY">
+        <RegionGroup type="RWY" name="RWY">
+            <Region name="NB11L" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="0">
+                    <Point>NB11L</Point>
+                </RegionLine>
+                <Ref>res/nob/rwy.xml</Ref>
+            </Region>
+            <Region name="NB29R" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NB29R</Point>
+                </RegionLine>
+                <Ref>res/nob/rwy.xml</Ref>
+            </Region>
+            <Region name="NB11R" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="2">
+                    <Point>NB11R</Point>
+                </RegionLine>
+                <Ref>res/nob/rwy.xml</Ref>
+            </Region>
+            <Region name="NB29L" type="RWY" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="3">
+                    <Point>NB29L</Point>
+                </RegionLine>
+                <Ref>res/nob/rwy.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="FIX">
+        <RegionGroup type="FIX" name="FIX">
+            <Region name="FIX POINTS" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>NOB-FIX-HALAN</Point>
+                    <Point>NOB-FIX-LIBEO</Point>
+                    <Point>NOB-FIX-GOLIN</Point>
+                    <Point>NOB-FIX-D13</Point>
+                    <Point>NOB-FIX-HUVAN</Point>
+                    <Point>NOB-FIX-SAMFU</Point>
+                    <Point>NOB-FIX-THAVI</Point>
+                    <Point>NOB-FIX-HUNLI</Point>
+                    <Point>NOB-FIX-VINHA</Point>
+                    <Point>NOB-FIX-TRANA</Point>
+                    <Point>NOB-FIX-KUNGA</Point>
+                    <Point>NOB-FIX-VITRA</Point>
+                    <Point>NOB-FIX-HAKAO</Point>
+                    <Point>NOB-FIX-PHUTA</Point>
+                    <Point>NOB-FIX-HANKA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX POINTS NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>NOB-FIX-HALAN</Point>
+                    <Point>NOB-FIX-LIBEO</Point>
+                    <Point>NOB-FIX-GOLIN</Point>
+                    <Point>NOB-FIX-D13</Point>
+                    <Point>NOB-FIX-HUVAN</Point>
+                    <Point>NOB-FIX-SAMFU</Point>
+                    <Point>NOB-FIX-THAVI</Point>
+                    <Point>NOB-FIX-HUNLI</Point>
+                    <Point>NOB-FIX-VINHA</Point>
+                    <Point>NOB-FIX-TRANA</Point>
+                    <Point>NOB-FIX-KUNGA</Point>
+                    <Point>NOB-FIX-VITRA</Point>
+                    <Point>NOB-FIX-HAKAO</Point>
+                    <Point>NOB-FIX-PHUTA</Point>
+                    <Point>NOB-FIX-HANKA</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>NOB-VISP-Y.PHONG</Point>
+                    <Point>NOB-VISP-B.NINH</Point>
+                    <Point>NOB-VISP-B.GIANG</Point>
+                    <Point>NOB-VISP-HAI DUONG</Point>
+                    <Point>NOB-VISP-H.YEN</Point>
+                    <Point>NOB-VISP-T.BINH</Point>
+                    <Point>NOB-VISP-T.HAI</Point>
+                    <Point>NOB-VISP-SAO DO</Point>
+                    <Point>NOB-VISP-NINH BINH</Point>
+                    <Point>NOB-VISP-SB KEP</Point>
+                    <Point>NOB-VISP-H.BINH</Point>
+                    <Point>NOB-VISP-V.TRI</Point>
+                    <Point>NOB-VISP-V.YEN</Point>
+                    <Point>NOB-VISP-T.NGUYEN</Point>
+                    <Point>NOB-VISP-H.DONG</Point>
+                    <Point>NOB-VISP-H.LAC</Point>
+                    <Point>NOB-VISP-D1296</Point>
+                    <Point>NOB-VISP-D1031</Point>
+                    <Point>NOB-VISP-D1198</Point>
+                    <Point>NOB-VISP-D1592</Point>
+                    <Point>NOB-VISP-T.XUAN</Point>
+                    <Point>NOB-VISP-YENBAI</Point>
+                    <Point>NOB-VISP-TH.TIN</Point>
+                    <Point>NOB-VISP-K.AN</Point>
+                    <Point>NOB-VISP-DOSON</Point>
+                    <Point>NOB-VISP-CATBA</Point>
+                    <Point>NOB-VISP-HALONG</Point>
+                    <Point>NOB-VISP-C.TL</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>NOB-VISP-Y.PHONG</Point>
+                    <Point>NOB-VISP-B.NINH</Point>
+                    <Point>NOB-VISP-B.GIANG</Point>
+                    <Point>NOB-VISP-HAI DUONG</Point>
+                    <Point>NOB-VISP-H.YEN</Point>
+                    <Point>NOB-VISP-T.BINH</Point>
+                    <Point>NOB-VISP-T.HAI</Point>
+                    <Point>NOB-VISP-SAO DO</Point>
+                    <Point>NOB-VISP-NINH BINH</Point>
+                    <Point>NOB-VISP-SB KEP</Point>
+                    <Point>NOB-VISP-H.BINH</Point>
+                    <Point>NOB-VISP-V.TRI</Point>
+                    <Point>NOB-VISP-V.YEN</Point>
+                    <Point>NOB-VISP-T.NGUYEN</Point>
+                    <Point>NOB-VISP-H.DONG</Point>
+                    <Point>NOB-VISP-H.LAC</Point>
+                    <Point>NOB-VISP-D1296</Point>
+                    <Point>NOB-VISP-D1031</Point>
+                    <Point>NOB-VISP-D1198</Point>
+                    <Point>NOB-VISP-D1592</Point>
+                    <Point>NOB-VISP-T.XUAN</Point>
+                    <Point>NOB-VISP-YENBAI</Point>
+                    <Point>NOB-VISP-TH.TIN</Point>
+                    <Point>NOB-VISP-K.AN</Point>
+                    <Point>NOB-VISP-DOSON</Point>
+                    <Point>NOB-VISP-CATBA</Point>
+                    <Point>NOB-VISP-HALONG</Point>
+                    <Point>NOB-VISP-C.TL</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+</Airport>

@@ -1,0 +1,376 @@
+2023-10-17 09:46:47,427 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-10-17\2023-10-17.02.000.309.rcd 
+2023-10-17 09:46:47,458 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-10-17\2023-10-17.02.000.308.rcd 
+2023-10-17 09:46:47,505 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-10-17\2023-10-17.02.000.306.rcd 
+2023-10-17 09:46:47,534 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-10-17\2023-10-17.02.000.fused.rcd 
+2023-10-17 09:46:47,549 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-10-17\2023-10-17.02.000.307.rcd 
+2023-10-17 09:46:48,244 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:62959) 
+2023-10-17 09:46:52,543 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.158 
+2023-10-17 09:46:52,543 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-10-17 09:46:52,545 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:62987) 
+2023-10-17 09:46:52,545 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-10-17 09:46:52,546 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-10-17 09:46:52,549 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:62988) 
+2023-10-17 09:46:52,549 INFO   [CommandManager] Server is listenning 
+2023-10-17 09:46:52,930 INFO   [ServiceProviderThread] Waiting command... 
+2023-08-14 10:50:54,660 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-08-14\2023-08-14.03.002.308.rcd 
+2023-08-14 10:50:55,106 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-08-14\2023-08-14.03.002.306.rcd 
+2023-08-14 10:50:55,174 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-08-14\2023-08-14.03.002.fused.rcd 
+2023-08-14 10:50:55,515 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-08-14\2023-08-14.03.002.307.rcd 
+2023-08-14 10:50:55,558 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-08-14\2023-08-14.03.002.309.rcd 
+2023-08-14 10:50:56,778 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:62988) 
+2023-08-14 10:50:57,503 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.158 
+2023-08-14 10:50:57,503 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-08-14 10:50:57,503 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:63039) 
+2023-08-14 10:50:57,504 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-08-14 10:50:57,504 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-08-14 10:50:57,505 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:63040) 
+2023-08-14 10:50:57,505 INFO   [CommandManager] Server is listenning 
+2023-08-14 10:50:57,836 INFO   [ServiceProviderThread] Waiting command... 
+2023-07-14 10:53:24,516 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-07-14\2023-07-14.03.000.308.rcd 
+2023-07-14 10:53:24,551 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-07-14\2023-07-14.03.000.309.rcd 
+2023-07-14 10:53:24,552 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-07-14\2023-07-14.03.000.306.rcd 
+2023-07-14 10:53:24,640 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-07-14\2023-07-14.03.000.fused.rcd 
+2023-07-14 10:53:24,656 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-07-14\2023-07-14.03.000.307.rcd 
+2023-07-14 10:53:26,957 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:63040) 
+2023-07-14 10:53:26,959 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.158 
+2023-07-14 10:53:26,959 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-07-14 10:53:26,959 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:63113) 
+2023-07-14 10:53:26,960 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-07-14 10:53:26,960 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-07-14 10:53:26,960 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:63114) 
+2023-07-14 10:53:26,960 INFO   [CommandManager] Server is listenning 
+2023-07-14 10:53:26,979 INFO   [ServiceProviderThread] Waiting command... 
+2023-08-16 10:55:38,981 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-08-16\2023-08-16.03.000.308.rcd 
+2023-08-16 10:55:38,983 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-08-16\2023-08-16.03.000.306.rcd 
+2023-08-16 10:55:39,018 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-08-16\2023-08-16.03.000.309.rcd 
+2023-08-16 10:55:39,091 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-08-16\2023-08-16.03.000.fused.rcd 
+2023-08-16 10:55:39,104 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-08-16\2023-08-16.03.000.307.rcd 
+2023-08-16 10:55:40,284 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:63114) 
+2023-08-16 10:55:40,520 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.158 
+2023-08-16 10:55:40,520 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-08-16 10:55:40,521 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:63159) 
+2023-08-16 10:55:40,521 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-08-16 10:55:40,521 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-08-16 10:55:40,522 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:63160) 
+2023-08-16 10:55:40,522 INFO   [CommandManager] Server is listenning 
+2023-08-16 10:55:40,539 INFO   [ServiceProviderThread] Waiting command... 
+2023-08-19 10:58:01,865 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-08-19\2023-08-19.03.000.306.rcd 
+2023-08-19 10:58:01,930 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-08-19\2023-08-19.03.000.fused.rcd 
+2023-08-19 10:58:01,942 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-08-19\2023-08-19.03.000.307.rcd 
+2023-08-19 10:58:01,971 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-08-19\2023-08-19.03.000.308.rcd 
+2023-08-19 10:58:01,997 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-08-19\2023-08-19.03.000.309.rcd 
+2023-08-19 10:58:02,203 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:63160) 
+2023-08-19 10:58:02,463 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.158 
+2023-08-19 10:58:02,464 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-08-19 10:58:02,464 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:63210) 
+2023-08-19 10:58:02,464 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-08-19 10:58:02,465 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-08-19 10:58:02,465 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:63211) 
+2023-08-19 10:58:02,465 INFO   [CommandManager] Server is listenning 
+2023-08-19 10:58:02,550 INFO   [ServiceProviderThread] Waiting command... 
+2023-08-19 11:08:34,686 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-19 11:08:34,694 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-19 11:08:34,698 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-19 11:08:34,701 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-19 11:08:34,725 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-19 11:08:34,751 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-19 11:08:34,802 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-19 11:08:34,984 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-19 11:08:34,984 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-19 11:08:34,984 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-19 11:08:35,046 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-19 11:08:35,681 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-19 11:08:35,774 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@3e540f8 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@bef4c494 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuay3bo5201uebuuv|433d61fb, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@56721cad [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuay3bo5201uebuuv|290d210d, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuay3bo5201uebuuv|1c93084c, numHelperThreads -> 3 ] 
+2023-08-19 11:08:36,244 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-19 11:08:36,254 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-19 11:08:36,652 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-19 11:08:37,944 INFO   [ReceiverManager] ReceiverManager has been created 
+2023-08-19 11:08:38,012 INFO   [ReceivingHandler] Thread #66 (SIC 210) started 
+2023-08-19 11:08:38,052 ERROR  [ExceptionHandler] java.net.BindException: Cannot assign requested address: Cannot bind
+	at java.net.DualStackPlainDatagramSocketImpl.socketBind(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.bind0(DualStackPlainDatagramSocketImpl.java:84)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:93)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at com.attech.asd.daemon.receiver.ReceivingHandler.receivingUDPUnicast(ReceivingHandler.java:221)
+	at com.attech.asd.daemon.receiver.ReceivingHandler.run(ReceivingHandler.java:127)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+2023-08-19 11:08:38,053 INFO   [UpdatingManager] UpdatingManager has been created 
+2023-08-19 11:08:38,180 INFO   [ReceivingHandler] Thread #79 (SIC 306) started 
+2023-08-19 11:08:38,232 INFO   [ReceivingHandler] Thread #80 (SIC 307) started 
+2023-08-19 11:08:38,310 INFO   [ReceivingHandler] Thread #79 (SIC: 306) open connection (add: 192.168.22.158, port: 20306, type: UNICAST) 
+2023-08-19 11:08:38,329 INFO   [ReceivingHandler] Thread #80 (SIC: 307) open connection (add: 192.168.22.158, port: 20307, type: UNICAST) 
+2023-08-19 11:08:38,343 INFO   [ReceivingHandler] Thread #81 (SIC 308) started 
+2023-08-19 11:08:38,372 INFO   [ReceivingHandler] Thread #82 (SIC 309) started 
+2023-08-19 11:08:38,430 INFO   [ReceivingHandler] Thread #81 (SIC: 308) open connection (add: 192.168.22.158, port: 20308, type: UNICAST) 
+2023-08-19 11:08:38,459 INFO   [ReceivingHandler] Thread #82 (SIC: 309) open connection (add: 192.168.22.158, port: 20309, type: UNICAST) 
+2023-08-19 11:08:38,583 INFO   [DataFusion] DataFusion has been created 
+2023-08-19 11:08:38,585 INFO   [DataRecorder] Created file path:F:\ADSB\fused\2023-08-19\2023-08-19.04.000.fused.rcd 
+2023-08-19 11:08:38,608 INFO   [DataRecorder] Created file path:F:\ADSB\data\308\2023-08-19\2023-08-19.04.000.308.rcd 
+2023-08-19 11:08:38,658 INFO   [ClientManager] ClientManager has been created 
+2023-08-19 11:08:38,755 INFO   [DataRecorder] Created file path:F:\ADSB\data\307\2023-08-19\2023-08-19.04.000.307.rcd 
+2023-08-19 11:08:38,760 INFO   [DataRecorder] Created file path:F:\ADSB\data\306\2023-08-19\2023-08-19.04.000.306.rcd 
+2023-08-19 11:08:38,774 ERROR  [ClientBroadcaster] Client #1 TEST 192.168.2.157 cannot initialize cause of some error (Cannot assign requested address: Cannot bind) 
+2023-08-19 11:08:38,775 ERROR  [ClientBroadcaster] java.net.BindException: Cannot assign requested address: Cannot bind 
+2023-08-19 11:08:38,812 INFO   [Run] START DATAFUSION 
+2023-08-19 11:08:38,813 INFO   [CommandManager] CommandManager has been created 
+2023-08-19 11:08:38,840 INFO   [CommandManager] Server is listenning 
+2023-08-19 11:08:38,850 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-08-19 11:08:38,867 INFO   [DataRecorder] Created file path:F:\ADSB\data\309\2023-08-19\2023-08-19.04.000.309.rcd 
+2023-08-19 11:08:39,575 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-05\2023-07-05.04.000.308.rcd 
+2023-08-19 11:08:39,576 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-26\2023-07-26.09.000.153.rcd 
+2023-08-19 11:08:39,576 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-26\2023-07-26.09.000.214.rcd 
+2023-08-19 11:08:39,576 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-26\2023-07-26.09.000.309.rcd 
+2023-08-19 11:08:39,576 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-26\2023-07-26.09.000.306.rcd 
+2023-08-19 11:08:39,576 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-26\2023-07-26.09.000.308.rcd 
+2023-08-19 11:08:39,577 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-07-26\2023-07-26.09.000.217.rcd 
+2023-08-19 11:08:39,577 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-26\2023-07-26.09.000.210.rcd 
+2023-08-19 11:08:39,577 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-26\2023-07-26.09.000.157.rcd 
+2023-08-19 11:08:39,577 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-26\2023-07-26.09.000.204.rcd 
+2023-08-19 11:08:39,577 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-26\2023-07-26.09.000.203.rcd 
+2023-08-19 11:08:39,578 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-26\2023-07-26.09.000.301.rcd 
+2023-08-19 11:08:39,578 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\150\2023-07-26\2023-07-26.09.000.150.rcd 
+2023-08-19 11:08:39,578 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-26\2023-07-26.09.000.200.rcd 
+2023-08-19 11:08:39,578 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-26\2023-07-26.09.000.209.rcd 
+2023-08-19 11:08:39,578 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-26\2023-07-26.09.000.215.rcd 
+2023-08-19 11:08:39,579 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-26\2023-07-26.09.000.151.rcd 
+2023-08-19 11:08:39,579 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-26\2023-07-26.09.000.205.rcd 
+2023-08-19 11:08:39,579 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-26\2023-07-26.09.000.305.rcd 
+2023-08-19 11:08:39,579 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-26\2023-07-26.09.000.199.rcd 
+2023-08-19 11:08:39,580 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-26\2023-07-26.09.000.208.rcd 
+2023-08-19 11:08:39,580 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-26\2023-07-26.09.000.211.rcd 
+2023-08-19 11:08:39,581 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-07-26\2023-07-26.09.000.207.rcd 
+2023-08-19 11:08:39,581 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-26\2023-07-26.09.000.307.rcd 
+2023-08-19 11:08:39,581 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-26\2023-07-26.09.000.156.rcd 
+2023-08-19 11:08:39,581 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-26\2023-07-26.09.000.201.rcd 
+2023-08-19 11:08:39,583 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-26\2023-07-26.09.000.300.rcd 
+2023-08-19 11:08:39,584 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-26\2023-07-26.09.000.154.rcd 
+2023-08-19 11:08:39,584 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-26\2023-07-26.09.000.213.rcd 
+2023-08-19 11:08:39,584 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-26\2023-07-26.09.000.202.rcd 
+2023-08-19 11:08:39,585 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-26\2023-07-26.09.000.218.rcd 
+2023-08-19 11:08:39,585 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-26\2023-07-26.09.000.152.rcd 
+2023-08-19 11:08:39,585 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-26\2023-07-26.09.000.302.rcd 
+2023-08-19 11:08:39,585 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-26\2023-07-26.09.000.212.rcd 
+2023-08-19 11:08:39,586 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-26\2023-07-26.09.000.304.rcd 
+2023-08-19 11:08:39,586 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-26\2023-07-26.09.000.303.rcd 
+2023-08-19 11:08:39,586 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-28\2023-07-28.15.002.202.rcd 
+2023-08-19 11:08:39,586 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-28\2023-07-28.15.002.203.rcd 
+2023-08-19 11:08:39,587 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-28\2023-07-28.15.002.152.rcd 
+2023-08-19 11:08:39,587 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-28\2023-07-28.15.002.205.rcd 
+2023-08-19 11:08:39,588 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-28\2023-07-28.15.002.213.rcd 
+2023-08-19 11:08:39,588 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-28\2023-07-28.15.002.201.rcd 
+2023-08-19 11:08:39,589 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-28\2023-07-28.15.002.154.rcd 
+2023-08-19 11:08:39,589 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-28\2023-07-28.15.002.214.rcd 
+2023-08-19 11:08:39,589 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-28\2023-07-28.15.002.211.rcd 
+2023-08-19 11:08:39,590 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-07-28\2023-07-28.15.002.207.rcd 
+2023-08-19 11:08:39,590 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-28\2023-07-28.15.002.307.rcd 
+2023-08-19 11:08:39,590 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-28\2023-07-28.15.002.308.rcd 
+2023-08-19 11:08:39,590 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-28\2023-07-28.15.002.153.rcd 
+2023-08-19 11:08:39,590 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-28\2023-07-28.15.002.306.rcd 
+2023-08-19 11:08:39,591 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-28\2023-07-28.15.002.156.rcd 
+2023-08-19 11:08:39,591 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-28\2023-07-28.15.002.151.rcd 
+2023-08-19 11:08:39,591 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-28\2023-07-28.15.002.209.rcd 
+2023-08-19 11:08:39,591 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-28\2023-07-28.15.002.218.rcd 
+2023-08-19 11:08:39,591 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-28\2023-07-28.15.002.303.rcd 
+2023-08-19 11:08:39,592 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-07-28\2023-07-28.15.002.217.rcd 
+2023-08-19 11:08:39,592 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-28\2023-07-28.15.002.300.rcd 
+2023-08-19 11:08:39,592 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-28\2023-07-28.15.002.305.rcd 
+2023-08-19 11:08:39,592 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-28\2023-07-28.15.002.304.rcd 
+2023-08-19 11:08:39,592 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-28\2023-07-28.15.002.212.rcd 
+2023-08-19 11:08:39,593 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-28\2023-07-28.15.002.210.rcd 
+2023-08-19 11:08:39,593 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-28\2023-07-28.15.002.199.rcd 
+2023-08-19 11:08:39,593 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-28\2023-07-28.15.002.302.rcd 
+2023-08-19 11:08:39,593 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-28\2023-07-28.15.002.301.rcd 
+2023-08-19 11:08:39,593 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-28\2023-07-28.15.002.309.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-28\2023-07-28.15.002.204.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-28\2023-07-28.15.002.157.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-28\2023-07-28.15.002.200.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-28\2023-07-28.15.002.208.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-28\2023-07-28.15.002.215.rcd 
+2023-08-19 11:08:39,594 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-28\2023-07-28.04.056.307.rcd 
+2023-08-19 11:08:39,595 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-28\2023-07-28.04.056.212.rcd 
+2023-08-19 11:08:39,595 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-28\2023-07-28.04.058.151.rcd 
+2023-08-19 11:08:39,595 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-28\2023-07-28.04.046.300.rcd 
+2023-08-19 11:08:39,595 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-28\2023-07-28.04.051.218.rcd 
+2023-08-19 11:08:39,596 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-28\2023-07-28.04.062.154.rcd 
+2023-08-19 11:08:39,596 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-28\2023-07-28.04.060.153.rcd 
+2023-08-19 11:08:39,598 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-28\2023-07-28.04.040.203.rcd 
+2023-08-19 11:08:39,598 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-28\2023-07-28.04.039.201.rcd 
+2023-08-19 11:08:39,599 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-28\2023-07-28.04.056.205.rcd 
+2023-08-19 11:08:39,599 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-28\2023-07-28.04.062.156.rcd 
+2023-08-19 11:08:39,599 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-28\2023-07-28.04.061.209.rcd 
+2023-08-19 11:08:39,599 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-28\2023-07-28.04.055.202.rcd 
+2023-08-19 11:08:39,600 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-28\2023-07-28.04.057.157.rcd 
+2023-08-19 11:08:39,600 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-28\2023-07-28.04.057.199.rcd 
+2023-08-19 11:08:39,600 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-28\2023-07-28.04.059.208.rcd 
+2023-08-19 11:08:39,600 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-28\2023-07-28.04.060.308.rcd 
+2023-08-19 11:08:39,601 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-28\2023-07-28.04.060.200.rcd 
+2023-08-19 11:08:39,601 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-07-28\2023-07-28.04.053.217.rcd 
+2023-08-19 11:08:39,601 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-28\2023-07-28.04.063.215.rcd 
+2023-08-19 11:08:39,601 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-28\2023-07-28.04.061.301.rcd 
+2023-08-19 11:08:39,602 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-28\2023-07-28.04.051.306.rcd 
+2023-08-19 11:08:39,602 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-07-28\2023-07-28.04.063.207.rcd 
+2023-08-19 11:08:39,602 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-28\2023-07-28.04.063.303.rcd 
+2023-08-19 11:08:39,603 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-28\2023-07-28.04.063.214.rcd 
+2023-08-19 11:08:39,603 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-28\2023-07-28.04.064.152.rcd 
+2023-08-19 11:08:39,603 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-28\2023-07-28.04.068.210.rcd 
+2023-08-19 11:08:39,603 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-28\2023-07-28.04.112.213.rcd 
+2023-08-19 11:08:39,603 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-28\2023-07-28.04.113.204.rcd 
+2023-08-19 11:08:39,604 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-28\2023-07-28.04.138.309.rcd 
+2023-08-19 11:08:39,604 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-28\2023-07-28.04.135.211.rcd 
+2023-08-19 11:08:39,604 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-28\2023-07-28.04.129.302.rcd 
+2023-08-19 11:08:39,604 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-28\2023-07-28.04.223.304.rcd 
+2023-08-19 11:08:39,604 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-28\2023-07-28.04.462.305.rcd 
+2023-08-19 11:08:39,605 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-28\2023-07-28.04.048.205.rcd 
+2023-08-19 11:08:39,605 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-28\2023-07-28.04.038.305.rcd 
+2023-08-19 11:08:39,605 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-28\2023-07-28.04.035.203.rcd 
+2023-08-19 11:08:39,605 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-28\2023-07-28.04.047.308.rcd 
+2023-08-19 11:08:39,605 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-28\2023-07-28.04.033.199.rcd 
+2023-08-19 11:08:39,606 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-28\2023-07-28.04.035.202.rcd 
+2023-08-19 11:08:39,610 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-28\2023-07-28.04.038.306.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-28\2023-07-28.04.045.200.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-28\2023-07-28.04.041.201.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-28\2023-07-28.04.046.204.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-28\2023-07-28.04.045.301.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-28\2023-07-28.04.043.309.rcd 
+2023-08-19 11:08:39,611 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-28\2023-07-28.04.048.218.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-28\2023-07-28.04.043.307.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-28\2023-07-28.04.053.208.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-28\2023-07-28.04.044.304.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-28\2023-07-28.04.046.214.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-28\2023-07-28.04.046.210.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-28\2023-07-28.04.051.156.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-28\2023-07-28.04.048.302.rcd 
+2023-08-19 11:08:39,612 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-28\2023-07-28.04.049.154.rcd 
+2023-08-19 11:08:39,613 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-28\2023-07-28.04.046.152.rcd 
+2023-08-19 11:08:39,613 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-28\2023-07-28.04.042.303.rcd 
+2023-08-19 11:08:39,613 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-28\2023-07-28.04.045.300.rcd 
+2023-08-19 11:08:39,613 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-28\2023-07-28.04.052.151.rcd 
+2023-08-19 11:08:39,613 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-28\2023-07-28.04.053.153.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-28\2023-07-28.04.043.213.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-28\2023-07-28.04.043.212.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-28\2023-07-28.04.035.215.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-28\2023-07-28.04.023.157.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-28\2023-07-28.04.047.209.rcd 
+2023-08-19 11:08:39,614 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-28\2023-07-28.04.036.211.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-07-28\2023-07-28.10.000.207.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-07-28\2023-07-28.10.000.217.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-28\2023-07-28.10.000.205.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-28\2023-07-28.10.000.209.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-28\2023-07-28.10.000.154.rcd 
+2023-08-19 11:08:39,615 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-28\2023-07-28.10.000.305.rcd 
+2023-08-19 11:08:39,616 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-28\2023-07-28.10.000.212.rcd 
+2023-08-19 11:08:39,618 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-28\2023-07-28.10.000.300.rcd 
+2023-08-19 11:08:39,618 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-28\2023-07-28.10.000.218.rcd 
+2023-08-19 11:08:39,619 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-28\2023-07-28.10.000.213.rcd 
+2023-08-19 11:08:39,619 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-28\2023-07-28.10.000.201.rcd 
+2023-08-19 11:08:39,619 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-28\2023-07-28.10.000.210.rcd 
+2023-08-19 11:08:39,619 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-28\2023-07-28.10.000.208.rcd 
+2023-08-19 11:08:39,619 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-28\2023-07-28.10.000.211.rcd 
+2023-08-19 11:08:39,620 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-28\2023-07-28.10.000.203.rcd 
+2023-08-19 11:08:39,620 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-28\2023-07-28.10.000.215.rcd 
+2023-08-19 11:08:39,620 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-28\2023-07-28.10.000.152.rcd 
+2023-08-19 11:08:39,620 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-28\2023-07-28.10.000.214.rcd 
+2023-08-19 11:08:39,620 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-28\2023-07-28.10.000.204.rcd 
+2023-08-19 11:08:39,621 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-28\2023-07-28.10.000.200.rcd 
+2023-08-19 11:08:39,621 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-28\2023-07-28.10.000.202.rcd 
+2023-08-19 11:08:39,621 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-28\2023-07-28.10.000.306.rcd 
+2023-08-19 11:08:39,621 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-28\2023-07-28.10.000.304.rcd 
+2023-08-19 11:08:39,622 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-28\2023-07-28.10.000.301.rcd 
+2023-08-19 11:08:39,623 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-28\2023-07-28.10.000.307.rcd 
+2023-08-19 11:08:39,623 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-28\2023-07-28.10.000.157.rcd 
+2023-08-19 11:08:39,623 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-28\2023-07-28.10.000.309.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-28\2023-07-28.10.000.156.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-28\2023-07-28.10.000.151.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-28\2023-07-28.10.000.302.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-28\2023-07-28.10.000.199.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-28\2023-07-28.10.000.308.rcd 
+2023-08-19 11:08:39,624 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-28\2023-07-28.10.000.153.rcd 
+2023-08-19 11:08:39,625 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-28\2023-07-28.10.000.303.rcd 
+2023-08-19 11:08:39,625 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-07-31\2023-07-31.10.000.208.rcd 
+2023-08-19 11:08:39,625 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-07-31\2023-07-31.10.000.209.rcd 
+2023-08-19 11:08:39,625 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-07-31\2023-07-31.10.000.151.rcd 
+2023-08-19 11:08:39,625 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-07-31\2023-07-31.10.000.307.rcd 
+2023-08-19 11:08:39,626 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-07-31\2023-07-31.10.000.205.rcd 
+2023-08-19 11:08:39,626 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-07-31\2023-07-31.10.000.302.rcd 
+2023-08-19 11:08:39,631 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-07-31\2023-07-31.10.000.309.rcd 
+2023-08-19 11:08:39,631 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-07-31\2023-07-31.10.000.199.rcd 
+2023-08-19 11:08:39,632 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-07-31\2023-07-31.10.000.200.rcd 
+2023-08-19 11:08:39,632 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-07-31\2023-07-31.10.000.203.rcd 
+2023-08-19 11:08:39,632 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-07-31\2023-07-31.10.000.210.rcd 
+2023-08-19 11:08:39,632 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-07-31\2023-07-31.10.000.204.rcd 
+2023-08-19 11:08:39,632 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-07-31\2023-07-31.10.000.211.rcd 
+2023-08-19 11:08:39,633 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-07-31\2023-07-31.10.000.306.rcd 
+2023-08-19 11:08:39,633 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-07-31\2023-07-31.10.000.300.rcd 
+2023-08-19 11:08:39,633 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-07-31\2023-07-31.10.000.152.rcd 
+2023-08-19 11:08:39,633 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-07-31\2023-07-31.10.000.156.rcd 
+2023-08-19 11:08:39,634 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-07-31\2023-07-31.10.000.305.rcd 
+2023-08-19 11:08:39,634 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-07-31\2023-07-31.10.000.303.rcd 
+2023-08-19 11:08:39,634 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-07-31\2023-07-31.10.000.304.rcd 
+2023-08-19 11:08:39,634 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-07-31\2023-07-31.10.000.153.rcd 
+2023-08-19 11:08:39,635 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-07-31\2023-07-31.10.000.157.rcd 
+2023-08-19 11:08:39,635 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-07-31\2023-07-31.10.000.308.rcd 
+2023-08-19 11:08:39,635 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-07-31\2023-07-31.10.000.215.rcd 
+2023-08-19 11:08:39,635 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-07-31\2023-07-31.10.000.301.rcd 
+2023-08-19 11:08:39,635 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-07-31\2023-07-31.10.000.154.rcd 
+2023-08-19 11:08:39,636 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-07-31\2023-07-31.10.000.201.rcd 
+2023-08-19 11:08:39,636 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-07-31\2023-07-31.10.000.217.rcd 
+2023-08-19 11:08:39,636 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-07-31\2023-07-31.10.000.213.rcd 
+2023-08-19 11:08:39,636 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-07-31\2023-07-31.10.000.212.rcd 
+2023-08-19 11:08:39,636 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-07-31\2023-07-31.10.000.218.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-07-31\2023-07-31.10.000.207.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-07-31\2023-07-31.10.000.214.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-07-31\2023-07-31.10.000.202.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\205\2023-08-02\2023-08-02.09.002.205.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-08-02\2023-08-02.09.002.308.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-08-02\2023-08-02.09.002.306.rcd 
+2023-08-19 11:08:39,637 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\200\2023-08-02\2023-08-02.09.002.200.rcd 
+2023-08-19 11:08:39,638 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\156\2023-08-02\2023-08-02.09.002.156.rcd 
+2023-08-19 11:08:39,642 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-08-02\2023-08-02.09.002.309.rcd 
+2023-08-19 11:08:39,642 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-08-02\2023-08-02.09.002.307.rcd 
+2023-08-19 11:08:39,642 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\208\2023-08-02\2023-08-02.09.002.208.rcd 
+2023-08-19 11:08:39,642 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\203\2023-08-02\2023-08-02.09.002.203.rcd 
+2023-08-19 11:08:39,642 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\201\2023-08-02\2023-08-02.09.002.201.rcd 
+2023-08-19 11:08:39,643 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\302\2023-08-02\2023-08-02.09.002.302.rcd 
+2023-08-19 11:08:39,643 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\211\2023-08-02\2023-08-02.09.002.211.rcd 
+2023-08-19 11:08:39,643 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\301\2023-08-02\2023-08-02.09.002.301.rcd 
+2023-08-19 11:08:39,643 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\213\2023-08-02\2023-08-02.09.002.213.rcd 
+2023-08-19 11:08:39,643 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\210\2023-08-02\2023-08-02.09.002.210.rcd 
+2023-08-19 11:08:39,644 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\218\2023-08-02\2023-08-02.09.002.218.rcd 
+2023-08-19 11:08:39,644 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\300\2023-08-02\2023-08-02.09.002.300.rcd 
+2023-08-19 11:08:39,644 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\304\2023-08-02\2023-08-02.09.002.304.rcd 
+2023-08-19 11:08:39,644 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\151\2023-08-02\2023-08-02.09.002.151.rcd 
+2023-08-19 11:08:39,644 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\303\2023-08-02\2023-08-02.09.002.303.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\212\2023-08-02\2023-08-02.09.002.212.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\157\2023-08-02\2023-08-02.09.002.157.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\214\2023-08-02\2023-08-02.09.002.214.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\217\2023-08-02\2023-08-02.09.002.217.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\305\2023-08-02\2023-08-02.09.002.305.rcd 
+2023-08-19 11:08:39,645 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\207\2023-08-02\2023-08-02.09.002.207.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\153\2023-08-02\2023-08-02.09.002.153.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\154\2023-08-02\2023-08-02.09.002.154.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\209\2023-08-02\2023-08-02.09.002.209.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\204\2023-08-02\2023-08-02.09.002.204.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\202\2023-08-02\2023-08-02.09.002.202.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\152\2023-08-02\2023-08-02.09.002.152.rcd 
+2023-08-19 11:08:39,646 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\215\2023-08-02\2023-08-02.09.002.215.rcd 
+2023-08-19 11:08:39,647 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\199\2023-08-02\2023-08-02.09.002.199.rcd 
+2023-08-19 11:08:39,647 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\150\2023-08-02\2023-08-02.09.002.150.rcd 
+2023-08-19 11:08:39,647 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\309\2023-08-04\2023-08-04.09.000.309.rcd 
+2023-08-19 11:08:39,647 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\308\2023-08-04\2023-08-04.09.000.308.rcd 
+2023-08-19 11:08:39,647 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\307\2023-08-04\2023-08-04.09.000.307.rcd 
+2023-08-19 11:08:39,661 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\data\306\2023-08-04\2023-08-04.09.000.306.rcd 
+2023-08-19 11:08:39,755 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\fused\2023-07-28\2023-07-28.15.002.fused.rcd 
+2023-08-19 11:08:39,756 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\fused\2023-07-28\2023-07-28.10.000.fused.rcd 
+2023-08-19 11:08:39,756 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\fused\2023-07-31\2023-07-31.10.000.fused.rcd 
+2023-08-19 11:08:39,756 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\fused\2023-08-02\2023-08-02.09.002.fused.rcd 
+2023-08-19 11:08:39,756 ERROR  [Run] java.nio.file.NoSuchFileException: F:\ADSB\fused\2023-08-04\2023-08-04.09.000.fused.rcd 
+2023-08-19 11:09:13,825 INFO   [CommandManager] Create socket connection with 192.168.22.158 
+2023-08-19 11:09:13,831 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.158:63589) 
+2023-08-19 11:09:13,831 INFO   [CommandManager] Server is listenning 
+2023-08-19 11:09:13,832 INFO   [ServiceProviderThread] Waiting command... 
+2023-08-19 11:09:13,832 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.158 
+2023-08-19 11:09:13,834 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.158:63590) 
+2023-08-19 11:09:13,834 INFO   [UpdatingManager] UpdatingThread is listenning 
+2023-08-19 11:09:19,001 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.158:63589) 
+2023-08-19 11:09:19,900 ERROR  [UpdatingThread] java.net.SocketException: Connection reset by peer: socket write error 

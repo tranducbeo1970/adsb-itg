@@ -1,0 +1,932 @@
+2022-05-11 14:03:41,392 INFO   [Run] PROGRAM START 
+2022-05-11 14:03:45,525 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-11 14:03:45,611 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-11 14:03:46,184 INFO   [VVDsGraphic] Set display VVD20CAMSON to false 
+2022-05-11 14:03:46,186 INFO   [VVDsGraphic] Set display VVD21MIEUMON to false 
+2022-05-11 14:03:46,187 INFO   [VVDsGraphic] Set display VVD22KHAMDUC to false 
+2022-05-11 14:03:46,187 INFO   [VVDsGraphic] Set display VVD23 to false 
+2022-05-11 14:03:46,188 INFO   [VVDsGraphic] Set display VVD24 to false 
+2022-05-11 14:03:46,189 INFO   [VVDsGraphic] Set display VVD25 to false 
+2022-05-11 14:03:46,189 INFO   [VVDsGraphic] Set display VVD26 to false 
+2022-05-11 14:03:46,190 INFO   [VVDsGraphic] Set display VVD27 to false 
+2022-05-11 14:03:46,191 INFO   [VVDsGraphic] Set display VVD28 to false 
+2022-05-11 14:03:46,191 INFO   [VVDsGraphic] Set display VVD29 to false 
+2022-05-11 14:03:46,192 INFO   [VVDsGraphic] Set display VVD30 to false 
+2022-05-11 14:03:46,192 INFO   [VVDsGraphic] Set display VVD31 to false 
+2022-05-11 14:03:46,193 INFO   [VVDsGraphic] Set display VVD32MAYTAO to false 
+2022-05-11 14:03:46,193 INFO   [VVDsGraphic] Set display VTV to false 
+2022-05-11 14:03:46,204 INFO   [VVPsGraphic] Set display VVP1 to false 
+2022-05-11 14:03:46,204 INFO   [VVPsGraphic] Set display VVP2 to false 
+2022-05-11 14:03:46,205 INFO   [VVPsGraphic] Set display VVP3 to false 
+2022-05-11 14:03:46,206 INFO   [VVPsGraphic] Set display VVP4 to false 
+2022-05-11 14:03:46,220 INFO   [VVRsGraphic] Set display VVR19 to false 
+2022-05-11 14:03:46,222 INFO   [VVRsGraphic] Set display VVR33 to false 
+2022-05-11 14:03:46,223 INFO   [VVRsGraphic] Set display VVR33_1 to false 
+2022-05-11 14:03:46,224 INFO   [VVRsGraphic] Set display VVR34 to false 
+2022-05-11 14:03:46,226 INFO   [VVRsGraphic] Set display VVR35 to false 
+2022-05-11 14:03:46,237 INFO   [VVRsGraphic] Set display VVR36 to false 
+2022-05-11 14:03:46,239 INFO   [VVRsGraphic] Set display VVR37 to false 
+2022-05-11 14:03:46,239 INFO   [VVRsGraphic] Set display VVR38 to false 
+2022-05-11 14:03:46,240 INFO   [VVRsGraphic] Set display VVR39 to false 
+2022-05-11 14:03:46,241 INFO   [VVRsGraphic] Set display VVR40 to false 
+2022-05-11 14:03:46,241 INFO   [VVRsGraphic] Set display KV80 to false 
+2022-05-11 14:03:46,242 INFO   [VVRsGraphic] Set display KV81 to false 
+2022-05-11 14:03:46,243 INFO   [VVRsGraphic] Set display KV82 to false 
+2022-05-11 14:03:46,244 INFO   [VVRsGraphic] Set display KV83 to false 
+2022-05-11 14:03:46,245 INFO   [VVRsGraphic] Set display KV86 to false 
+2022-05-11 14:03:46,245 INFO   [VVRsGraphic] Set display KVDinh to false 
+2022-05-11 14:03:46,246 INFO   [VVRsGraphic] Set display KV465 to false 
+2022-05-11 14:03:46,247 INFO   [VVRsGraphic] Set display KV465a to false 
+2022-05-11 14:03:46,247 INFO   [VVRsGraphic] Set display KV466 to false 
+2022-05-11 14:03:46,248 INFO   [VVRsGraphic] Set display KV467 to false 
+2022-05-11 14:03:46,248 INFO   [VVRsGraphic] Set display KV468 to false 
+2022-05-11 14:03:46,254 INFO   [VVRsGraphic] Set display KV469 to false 
+2022-05-11 14:03:46,256 INFO   [VVRsGraphic] Set display KV469b to false 
+2022-05-11 14:03:46,257 INFO   [VVRsGraphic] Set display KV469c to false 
+2022-05-11 14:03:46,259 INFO   [VVRsGraphic] Set display KV470 to false 
+2022-05-11 14:03:46,260 INFO   [VVRsGraphic] Set display KV460 to false 
+2022-05-11 14:03:46,261 INFO   [VVRsGraphic] Set display KV461 to false 
+2022-05-11 14:03:46,261 INFO   [VVRsGraphic] Set display KV462 to false 
+2022-05-11 14:03:46,262 INFO   [VVRsGraphic] Set display KV463 to false 
+2022-05-11 14:03:46,262 INFO   [VVRsGraphic] Set display KV463A to false 
+2022-05-11 14:03:46,263 INFO   [VVRsGraphic] Set display KV70 to false 
+2022-05-11 14:03:46,263 INFO   [VVRsGraphic] Set display KV70G to false 
+2022-05-11 14:03:46,264 INFO   [VVRsGraphic] Set display KV71 to false 
+2022-05-11 14:03:46,264 INFO   [VVRsGraphic] Set display KV72 to false 
+2022-05-11 14:03:46,265 INFO   [VVRsGraphic] Set display KV73 to false 
+2022-05-11 14:03:46,266 INFO   [VVRsGraphic] Set display KV75 to false 
+2022-05-11 14:03:46,266 INFO   [VVRsGraphic] Set display KV50 to false 
+2022-05-11 14:03:46,267 INFO   [VVRsGraphic] Set display KV51 to false 
+2022-05-11 14:03:46,267 INFO   [VVRsGraphic] Set display KV53 to false 
+2022-05-11 14:03:46,268 INFO   [VVRsGraphic] Set display KV56 to false 
+2022-05-11 14:03:46,268 INFO   [VVRsGraphic] Set display KV57 to false 
+2022-05-11 14:03:46,269 INFO   [VVRsGraphic] Set display KV58 to false 
+2022-05-11 14:03:46,284 INFO   [TargetManager] Set current setup position is SECTOR2-HN 
+2022-05-11 14:03:46,747 INFO   [CustomDrawGraphic] Set custom drawing validation to false 
+2022-05-11 14:03:46,747 INFO   [VVDsGraphic] Set target validation to false 
+2022-05-11 14:03:46,747 INFO   [VVPsGraphic] Set target validation to false 
+2022-05-11 14:03:46,747 INFO   [VVRsGraphic] Set target validation to false 
+2022-05-11 14:03:59,260 INFO   [TargetManager] Start target recalculate interval at 4 second 
+2022-05-11 14:03:59,378 ERROR  [Main] Cannot load program built info 
+2022-05-11 14:04:00,005 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,005 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,005 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,015 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,015 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,015 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,015 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,016 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,016 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,016 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,016 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,017 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,017 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,017 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,017 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,472 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,472 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,473 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,473 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,473 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,474 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,474 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,474 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,475 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,475 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,476 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,476 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,476 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,477 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,477 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,477 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,478 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,478 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,479 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,479 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,479 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,480 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,480 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,480 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,480 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,482 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,482 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:00,482 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,226 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,226 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,226 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,226 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,227 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,227 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,227 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,842 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,842 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,843 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,843 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,843 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,844 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,844 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,844 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,845 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,845 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,845 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,846 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,846 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,846 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,847 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,847 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,847 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,848 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,848 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,848 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,849 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,849 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,849 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,850 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,850 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,850 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,851 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,851 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,851 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,851 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:01,852 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,400 INFO   [TargetManager] Start updating target info 
+2022-05-11 14:04:02,423 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,424 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,424 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,424 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,425 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,425 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,425 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,425 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,426 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,426 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,426 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,426 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,426 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,427 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,427 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,427 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,427 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,427 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,428 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,428 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,428 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,428 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,428 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,429 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,429 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,429 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,429 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,429 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,430 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,430 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:02,430 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,006 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,007 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,008 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,009 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,010 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,011 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,012 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,013 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,014 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,325 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:04:03,686 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,686 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,686 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,686 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,687 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,687 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,687 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,687 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,688 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,688 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,688 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,688 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,688 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,689 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,689 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,689 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,689 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,689 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,690 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,690 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,690 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,690 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,691 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,691 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,691 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,691 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,692 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,692 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,692 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,692 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:03,692 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,275 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,276 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,276 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,277 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,277 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,277 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,278 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,278 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,278 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,278 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,279 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,279 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,279 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,280 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,280 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,280 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,280 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,281 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,281 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,281 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,281 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,282 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,282 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,282 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,282 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,283 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,283 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,283 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,284 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,284 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:04,284 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,104 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,105 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,105 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,106 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,106 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,106 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,107 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,107 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,107 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,107 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,107 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,108 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,108 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,108 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,108 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,108 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,112 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,112 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,714 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,714 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,714 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,715 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,715 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,716 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,716 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,717 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,717 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,717 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,717 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,718 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,718 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,719 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,720 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,720 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,721 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,721 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,721 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,721 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,722 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,722 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,722 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,723 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,723 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,723 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,723 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,724 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,724 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,724 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:05,724 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,359 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,360 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,360 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,361 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,361 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,361 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,361 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,362 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,362 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,362 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,362 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,362 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,363 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,363 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,363 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,363 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,363 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,364 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,365 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,365 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,365 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,365 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,366 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,366 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,366 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:06,366 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,280 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:04:07,381 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,382 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,382 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,382 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,382 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,383 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,383 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,383 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,383 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,384 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,384 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,384 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,384 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,385 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,385 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,385 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,385 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,386 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,386 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,386 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,386 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,387 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,387 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,387 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,387 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,388 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,388 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,388 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,388 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,389 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:07,389 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,182 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,182 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,183 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,183 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,183 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,183 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,184 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,185 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,185 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,185 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,185 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,186 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,186 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,186 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,186 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,187 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,187 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,187 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,187 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,188 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,188 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,188 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,188 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,189 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,189 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,189 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,812 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,812 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,813 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,814 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,814 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,814 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,814 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,815 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,815 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,815 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,815 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,815 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,816 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,816 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,816 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,816 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,816 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,817 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,817 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,817 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,817 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,817 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,818 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,818 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,818 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:08,819 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,442 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,443 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,444 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,445 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,446 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,446 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,446 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:09,446 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,065 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,065 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,065 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,066 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,067 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,068 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,068 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,068 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,068 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,069 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,069 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,069 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,070 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,070 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,070 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,070 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,070 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,076 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,076 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,076 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,224 INFO   [Main] Configuration file is saved to file config/app.xml 
+2022-05-11 14:04:10,669 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,670 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,670 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,670 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,670 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,671 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,671 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,671 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,671 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,672 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,672 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,672 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,672 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,672 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,673 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,673 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,673 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,673 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,674 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,674 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,674 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,674 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,675 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,675 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,675 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,675 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,675 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,676 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,676 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,676 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:10,676 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,280 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:04:11,771 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,772 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,773 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,774 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,775 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,775 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,775 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,775 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,775 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,776 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,776 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,776 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,776 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,776 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,777 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:11,777 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,450 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,450 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,450 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,450 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,451 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,451 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,451 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,451 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,452 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,452 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,452 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,452 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,452 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,453 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,453 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,453 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,453 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,454 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,454 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,454 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,454 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,454 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,455 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,455 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,455 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,455 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,455 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,456 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,456 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,456 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,456 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:12,477 INFO   [Main] Configuration file is saved to file config/app.xml 
+2022-05-11 14:04:13,084 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,084 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,085 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,085 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,086 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,086 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,086 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,087 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,087 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,087 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,088 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,088 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,089 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,089 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,089 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,089 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,089 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,090 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,090 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,090 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,090 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,091 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,109 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,110 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,111 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,112 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,112 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:13,112 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,214 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,220 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,221 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,222 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,223 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,224 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,225 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,991 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,991 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,991 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,992 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,993 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,994 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,995 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,996 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,996 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:14,996 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:15,280 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:04:16,033 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,033 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,033 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,033 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,034 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,034 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,034 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,034 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,035 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,037 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,038 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,039 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,041 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,041 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,041 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,041 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,042 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,042 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,042 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,042 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,043 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,043 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,043 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,044 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,044 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,044 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,044 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,044 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,045 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,045 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,045 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,288 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,289 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,289 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,290 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,290 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,290 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,291 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,291 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,291 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,292 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,292 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,292 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,292 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,293 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,293 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,293 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,293 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,294 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,294 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,294 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,295 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,295 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,296 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,296 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,296 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,296 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,297 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,298 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,298 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,298 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,299 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,480 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,150 WARN   [ShutdownHook] PROGRAM END 
+2022-05-11 14:04:16,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,481 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,482 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,482 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,483 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,483 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,483 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:04:16,484 INFO   [SocketReceivingHandler] Cannot open port 20164 cause using by another program. Program is existed. 
+2022-05-11 14:05:33,410 INFO   [Run] PROGRAM START 
+2022-05-11 14:05:35,248 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-11 14:05:35,288 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-11 14:05:35,541 INFO   [VVDsGraphic] Set display VVD20CAMSON to false 
+2022-05-11 14:05:35,544 INFO   [VVDsGraphic] Set display VVD21MIEUMON to false 
+2022-05-11 14:05:35,546 INFO   [VVDsGraphic] Set display VVD22KHAMDUC to false 
+2022-05-11 14:05:35,547 INFO   [VVDsGraphic] Set display VVD23 to false 
+2022-05-11 14:05:35,548 INFO   [VVDsGraphic] Set display VVD24 to false 
+2022-05-11 14:05:35,549 INFO   [VVDsGraphic] Set display VVD25 to false 
+2022-05-11 14:05:35,552 INFO   [VVDsGraphic] Set display VVD26 to false 
+2022-05-11 14:05:35,552 INFO   [VVDsGraphic] Set display VVD27 to false 
+2022-05-11 14:05:35,553 INFO   [VVDsGraphic] Set display VVD28 to false 
+2022-05-11 14:05:35,553 INFO   [VVDsGraphic] Set display VVD29 to false 
+2022-05-11 14:05:35,554 INFO   [VVDsGraphic] Set display VVD30 to false 
+2022-05-11 14:05:35,555 INFO   [VVDsGraphic] Set display VVD31 to false 
+2022-05-11 14:05:35,557 INFO   [VVDsGraphic] Set display VVD32MAYTAO to false 
+2022-05-11 14:05:35,557 INFO   [VVDsGraphic] Set display VTV to false 
+2022-05-11 14:05:35,561 INFO   [VVPsGraphic] Set display VVP1 to false 
+2022-05-11 14:05:35,562 INFO   [VVPsGraphic] Set display VVP2 to false 
+2022-05-11 14:05:35,562 INFO   [VVPsGraphic] Set display VVP3 to false 
+2022-05-11 14:05:35,565 INFO   [VVPsGraphic] Set display VVP4 to false 
+2022-05-11 14:05:35,570 INFO   [VVRsGraphic] Set display VVR19 to false 
+2022-05-11 14:05:35,573 INFO   [VVRsGraphic] Set display VVR33 to false 
+2022-05-11 14:05:35,583 INFO   [VVRsGraphic] Set display VVR33_1 to false 
+2022-05-11 14:05:35,585 INFO   [VVRsGraphic] Set display VVR34 to false 
+2022-05-11 14:05:35,586 INFO   [VVRsGraphic] Set display VVR35 to false 
+2022-05-11 14:05:35,588 INFO   [VVRsGraphic] Set display VVR36 to false 
+2022-05-11 14:05:35,591 INFO   [VVRsGraphic] Set display VVR37 to false 
+2022-05-11 14:05:35,593 INFO   [VVRsGraphic] Set display VVR38 to false 
+2022-05-11 14:05:35,595 INFO   [VVRsGraphic] Set display VVR39 to false 
+2022-05-11 14:05:35,597 INFO   [VVRsGraphic] Set display VVR40 to false 
+2022-05-11 14:05:35,599 INFO   [VVRsGraphic] Set display KV80 to false 
+2022-05-11 14:05:35,601 INFO   [VVRsGraphic] Set display KV81 to false 
+2022-05-11 14:05:35,603 INFO   [VVRsGraphic] Set display KV82 to false 
+2022-05-11 14:05:35,604 INFO   [VVRsGraphic] Set display KV83 to false 
+2022-05-11 14:05:35,607 INFO   [VVRsGraphic] Set display KV86 to false 
+2022-05-11 14:05:35,609 INFO   [VVRsGraphic] Set display KVDinh to false 
+2022-05-11 14:05:35,611 INFO   [VVRsGraphic] Set display KV465 to false 
+2022-05-11 14:05:35,612 INFO   [VVRsGraphic] Set display KV465a to false 
+2022-05-11 14:05:35,613 INFO   [VVRsGraphic] Set display KV466 to false 
+2022-05-11 14:05:35,616 INFO   [VVRsGraphic] Set display KV467 to false 
+2022-05-11 14:05:35,617 INFO   [VVRsGraphic] Set display KV468 to false 
+2022-05-11 14:05:35,619 INFO   [VVRsGraphic] Set display KV469 to false 
+2022-05-11 14:05:35,620 INFO   [VVRsGraphic] Set display KV469b to false 
+2022-05-11 14:05:35,622 INFO   [VVRsGraphic] Set display KV469c to false 
+2022-05-11 14:05:35,622 INFO   [VVRsGraphic] Set display KV470 to false 
+2022-05-11 14:05:35,623 INFO   [VVRsGraphic] Set display KV460 to false 
+2022-05-11 14:05:35,627 INFO   [VVRsGraphic] Set display KV461 to false 
+2022-05-11 14:05:35,628 INFO   [VVRsGraphic] Set display KV462 to false 
+2022-05-11 14:05:35,630 INFO   [VVRsGraphic] Set display KV463 to false 
+2022-05-11 14:05:35,632 INFO   [VVRsGraphic] Set display KV463A to false 
+2022-05-11 14:05:35,634 INFO   [VVRsGraphic] Set display KV70 to false 
+2022-05-11 14:05:35,636 INFO   [VVRsGraphic] Set display KV70G to false 
+2022-05-11 14:05:35,637 INFO   [VVRsGraphic] Set display KV71 to false 
+2022-05-11 14:05:35,639 INFO   [VVRsGraphic] Set display KV72 to false 
+2022-05-11 14:05:35,641 INFO   [VVRsGraphic] Set display KV73 to false 
+2022-05-11 14:05:35,643 INFO   [VVRsGraphic] Set display KV75 to false 
+2022-05-11 14:05:35,645 INFO   [VVRsGraphic] Set display KV50 to false 
+2022-05-11 14:05:35,647 INFO   [VVRsGraphic] Set display KV51 to false 
+2022-05-11 14:05:35,649 INFO   [VVRsGraphic] Set display KV53 to false 
+2022-05-11 14:05:35,652 INFO   [VVRsGraphic] Set display KV56 to false 
+2022-05-11 14:05:35,653 INFO   [VVRsGraphic] Set display KV57 to false 
+2022-05-11 14:05:35,654 INFO   [VVRsGraphic] Set display KV58 to false 
+2022-05-11 14:05:35,668 INFO   [TargetManager] Set current setup position is SECTOR2-HN 
+2022-05-11 14:05:35,924 INFO   [CustomDrawGraphic] Set custom drawing validation to false 
+2022-05-11 14:05:35,925 INFO   [VVDsGraphic] Set target validation to false 
+2022-05-11 14:05:35,925 INFO   [VVPsGraphic] Set target validation to false 
+2022-05-11 14:05:35,925 INFO   [VVRsGraphic] Set target validation to false 
+2022-05-11 14:05:40,886 INFO   [TargetManager] Start target recalculate interval at 4 second 
+2022-05-11 14:05:40,891 ERROR  [Main] Cannot load program built info 
+2022-05-11 14:05:40,891 INFO   [SocketReceivingHandler] Start listenning on port 20163 (192.168.22.180) 
+2022-05-11 14:05:43,890 INFO   [TargetManager] Start updating target info 
+2022-05-11 14:05:44,889 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:05:48,889 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:05:52,889 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:05:56,888 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:06:00,889 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:06:03,891 INFO   [TargetManager] Start updating target info 
+2022-05-11 14:06:04,888 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:06:08,888 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-11 14:06:12,566 WARN   [ShutdownHook] PROGRAM END 

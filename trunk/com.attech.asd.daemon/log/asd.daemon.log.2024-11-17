@@ -1,0 +1,57 @@
+2024-11-17 00:00:00,415 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.00.000.fused.rcd 
+2024-11-17 00:00:00,424 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.00.000.151.rcd 
+2024-11-17 00:00:00,996 INFO   [ServiceProviderThread] Service provider is closed (clientIP: 192.168.22.234:52272) 
+2024-11-17 00:00:06,549 INFO   [UpdatingManager] Stop last UpdatingThread socket connection with 192.168.22.234 
+2024-11-17 00:00:06,550 INFO   [UpdatingManager] Create UpdatingThread socket connection with 192.168.22.234 
+2024-11-17 00:00:06,550 INFO   [UpdatingThread] Data Tranfer provider is inited (clientIP: 192.168.22.234:58843) 
+2024-11-17 00:00:06,551 INFO   [UpdatingManager] UpdatingThread is listenning 
+2024-11-17 00:00:06,551 INFO   [CommandManager] Create socket connection with 192.168.22.234 
+2024-11-17 00:00:06,552 INFO   [ServiceProviderThread] Service provider is inited (clientIP: 192.168.22.234:58844) 
+2024-11-17 00:00:06,552 INFO   [CommandManager] Server is listenning 
+2024-11-17 00:00:06,552 INFO   [ServiceProviderThread] Waiting command... 
+2024-11-17 01:00:00,935 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.01.000.fused.rcd 
+2024-11-17 01:00:00,942 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.01.000.151.rcd 
+2024-11-17 02:00:00,693 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.02.000.fused.rcd 
+2024-11-17 02:00:00,700 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.02.000.151.rcd 
+2024-11-17 03:00:00,955 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.03.000.fused.rcd 
+2024-11-17 03:00:00,962 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.03.000.151.rcd 
+2024-11-17 04:00:00,590 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.04.000.fused.rcd 
+2024-11-17 04:00:00,596 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.04.000.151.rcd 
+2024-11-17 05:00:00,245 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.05.000.fused.rcd 
+2024-11-17 05:00:00,251 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.05.000.151.rcd 
+2024-11-17 06:00:00,500 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.06.000.fused.rcd 
+2024-11-17 06:00:00,506 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.06.000.151.rcd 
+2024-11-17 07:00:00,118 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.07.000.fused.rcd 
+2024-11-17 07:00:00,125 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.07.000.151.rcd 
+2024-11-17 08:00:00,806 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.08.000.fused.rcd 
+2024-11-17 08:00:00,812 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.08.000.151.rcd 
+2024-11-17 09:00:00,798 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.09.000.fused.rcd 
+2024-11-17 09:00:00,804 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.09.000.151.rcd 
+2024-11-17 10:00:00,760 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.10.000.fused.rcd 
+2024-11-17 10:00:00,767 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.10.000.151.rcd 
+2024-11-17 11:00:00,112 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.11.000.fused.rcd 
+2024-11-17 11:00:00,118 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.11.000.151.rcd 
+2024-11-17 12:00:00,847 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.12.000.fused.rcd 
+2024-11-17 12:00:00,854 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.12.000.151.rcd 
+2024-11-17 13:00:00,068 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.13.000.fused.rcd 
+2024-11-17 13:00:00,074 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.13.000.151.rcd 
+2024-11-17 14:00:00,661 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.14.000.fused.rcd 
+2024-11-17 14:00:00,667 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.14.000.151.rcd 
+2024-11-17 15:00:00,682 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.15.000.fused.rcd 
+2024-11-17 15:00:00,689 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.15.000.151.rcd 
+2024-11-17 16:00:00,655 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.16.000.151.rcd 
+2024-11-17 16:00:00,666 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.16.000.fused.rcd 
+2024-11-17 17:00:00,450 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.17.000.fused.rcd 
+2024-11-17 17:00:00,457 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.17.000.151.rcd 
+2024-11-17 18:00:00,796 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.18.000.fused.rcd 
+2024-11-17 18:00:00,802 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.18.000.151.rcd 
+2024-11-17 19:00:00,328 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.19.000.fused.rcd 
+2024-11-17 19:00:00,336 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.19.000.151.rcd 
+2024-11-17 20:00:00,752 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.20.000.fused.rcd 
+2024-11-17 20:00:00,758 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.20.000.151.rcd 
+2024-11-17 21:00:00,369 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.21.000.fused.rcd 
+2024-11-17 21:00:00,375 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.21.000.151.rcd 
+2024-11-17 22:00:00,704 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.22.000.fused.rcd 
+2024-11-17 22:00:00,710 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.22.000.151.rcd 
+2024-11-17 23:00:00,853 INFO   [DataRecorder] Created file path:/ADSB/fuse/2024-11-17/2024-11-17.23.000.fused.rcd 
+2024-11-17 23:00:00,859 INFO   [DataRecorder] Created file path:/ADSB/data/151/2024-11-17/2024-11-17.23.000.151.rcd 

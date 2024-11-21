@@ -1,0 +1,98 @@
+2024-11-14 22:21:58,673 INFO   [Run] PROGRAM STARTED 
+2024-11-14 22:21:58,673 INFO   [Run] CONNECT TO DATABASE 
+2024-11-14 22:21:58,857 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2024-11-14 22:21:58,857 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2024-11-14 22:21:58,873 INFO   [Environment] HHH000206: hibernate.properties not found 
+2024-11-14 22:21:58,873 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2024-11-14 22:21:58,889 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2024-11-14 22:21:58,920 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2024-11-14 22:21:58,958 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2024-11-14 22:21:59,120 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2024-11-14 22:21:59,120 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2024-11-14 22:21:59,120 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2024-11-14 22:21:59,136 INFO   [MLog] MLog clients using log4j logging. 
+2024-11-14 22:21:59,706 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2024-11-14 22:21:59,838 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@abc69f4 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@acefd88a [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 2s9zpib7cf6nmt1y0e3dd|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@e003f51b [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 2s9zpib7cf6nmt1y0e3dd|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 2s9zpib7cf6nmt1y0e3dd|7d3a22a9, numHelperThreads -> 3 ] 
+2024-11-14 22:22:00,107 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@1efb443a -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:127)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2024-11-14 22:22:00,107 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2024-11-14 22:22:00,107 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@657bb0 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:127)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2024-11-14 22:22:00,107 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2024-11-14 22:22:00,107 WARN   [JdbcServicesImpl] HHH000342: Could not obtain connection to query metadata : Connections could not be acquired from the underlying database! 
+2024-11-14 22:22:00,123 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2024-11-14 22:22:00,138 INFO   [LobCreatorBuilder] HHH000422: Disabling contextual LOB creation as connection was null 
+2024-11-14 22:22:00,461 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2024-11-14 22:22:01,141 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@2360a91 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:127)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2024-11-14 22:22:01,141 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2024-11-14 22:22:01,141 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@2985e4da -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:127)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2024-11-14 22:22:01,141 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2024-11-14 22:22:01,141 WARN   [SqlExceptionHelper] SQL Error: 0, SQLState: null 
+2024-11-14 22:22:01,141 ERROR  [SqlExceptionHelper] Connections could not be acquired from the underlying database! 
+2024-11-14 22:22:01,141 ERROR  [Run] Could not open connection 

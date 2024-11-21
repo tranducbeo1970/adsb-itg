@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>SIA890</Callsign>
+    <Address>76CE51</Address>
+    <FlightLevel>360.0</FlightLevel>
+    <Speed>480.48</Speed>
+    <Heading>27.186500549316406</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>106.4374771118164</Longtitude>
+    <Latitude>6.274776458740234</Latitude>
+    <TimeOfDay>3031.71875</TimeOfDay>
+    <InitialTime>1596133701897</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701897</LastUpdateInMil>
+    <Mode3A>2253</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

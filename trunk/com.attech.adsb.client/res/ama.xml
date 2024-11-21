@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AMA>
+    <CellLineStyle>0x0F0F</CellLineStyle>
+    <OutLineStyle> 0x8A8A</OutLineStyle>
+    <LineWeight>1</LineWeight>
+    <Color>#fcf800</Color>
+    <Font>2</Font>
+    <ZIndex>10000</ZIndex>
+    <Margin>8</Margin>
+    <CloseRangeThreshold>8</CloseRangeThreshold>
+    <LongRangeThreshold>15</LongRangeThreshold>
+    <Cells>
+        <Cell alt="3250.0" lat1="23.0" lat2="24.0" lon1="104.0" lon2="105.0" name="C1" real_alt="2524.0"/>
+        <Cell alt="2950.0" lat1="23.0" lat2="24.0" lon1="105.0" lon2="106.0" name="D1" real_alt="2229.0"/>
+        <Cell alt="3750.0" lat1="22.0" lat2="23.0" lon1="102.0" lon2="103.0" name="A2" real_alt="3044.0"/>
+        <Cell alt="3800.0" lat1="22.0" lat2="23.0" lon1="103.0" lon2="104.0" name="B2" real_alt="3083.0"/>
+        <Cell alt="3550.0" lat1="22.0" lat2="23.0" lon1="104.0" lon2="105.0" name="C2" real_alt="2824.0"/>
+        <Cell alt="2950.0" lat1="22.0" lat2="23.0" lon1="105.0" lon2="106.0" name="D2" real_alt="2229.0"/>
+        <Cell alt="2050.0" lat1="22.0" lat2="23.0" lon1="106.0" lon2="107.0" name="E2" real_alt="1319.0"/>
+        <Cell alt="2650.0" lat1="21.0" lat2="22.0" lon1="102.0" lon2="103.0" name="A3" real_alt="1935.0"/>
+        <Cell alt="3200.0" lat1="21.0" lat2="22.0" lon1="103.0" lon2="104.0" name="B3" real_alt="2453.0"/>
+        <Cell alt="3650.0" lat1="21.0" lat2="22.0" lon1="104.0" lon2="105.0" name="C3" real_alt="2941.0"/>
+        <Cell alt="2300.0" lat1="21.0" lat2="22.0" lon1="105.0" lon2="106.0" name="D3" real_alt="1559.0"/>
+        <Cell alt="2200.0" lat1="21.0" lat2="22.0" lon1="106.0" lon2="107.0" name="E3" real_alt="1492.0"/>
+        <Cell alt="2200.0" lat1="21.0" lat2="22.0" lon1="107.0" lon2="108.0" name="F3" real_alt="1492.0"/>
+        <Cell alt="2050.0" lat1="21.0" lat2="22.0" lon1="108.0" lon2="109.0" name="G3" real_alt="1339.0"/>
+        <Cell alt="2600.0" lat1="20.0" lat2="21.0" lon1="103.0" lon2="104.0" name="B4" real_alt="1885.0"/>
+        <Cell alt="2800.0" lat1="20.0" lat2="21.0" lon1="104.0" lon2="105.0" name="C4" real_alt="2068.0"/>
+        <Cell alt="2350.0" lat1="20.0" lat2="21.0" lon1="105.0" lon2="106.0" name="D4" real_alt="1626.0"/>
+        <Cell alt="900.0" lat1="20.0" lat2="21.0" lon1="106.0" lon2="107.0" name="E4" real_alt="479.0"/>
+        <Cell alt="850.0" lat1="20.0" lat2="21.0" lon1="107.0" lon2="108.0" name="F4" real_alt="444.0"/>
+        <Cell alt="3350.0" lat1="19.0" lat2="20.0" lon1="103.0" lon2="104.0" name="B5" real_alt="2608.0"/>
+        <Cell alt="3400.0" lat1="19.0" lat2="20.0" lon1="104.0" lon2="105.0" name="C5" real_alt="2698.0"/>
+        <Cell alt="2250.0" lat1="19.0" lat2="20.0" lon1="105.0" lon2="106.0" name="D5" real_alt="1526.0"/>
+        <Cell alt="600.0" lat1="19.0" lat2="20.0" lon1="106.0" lon2="107.0" name="E5" real_alt="170.0"/>
+        <Cell alt="2750.0" lat1="18.0" lat2="19.0" lon1="104.0" lon2="105.0" name="C6" real_alt="2028.0"/>
+        <Cell alt="3000.0" lat1="18.0" lat2="19.0" lon1="105.0" lon2="106.0" name="D6" real_alt="2258.0"/>
+        <Cell alt="1750.0" lat1="18.0" lat2="19.0" lon1="106.0" lon2="107.0" name="E6" real_alt="1010.0"/>
+        <Cell alt="2700.0" lat1="17.0" lat2="18.0" lon1="105.0" lon2="106.0" name="D7" real_alt="1992.0"/>
+        <Cell alt="2350.0" lat1="17.0" lat2="18.0" lon1="106.0" lon2="107.0" name="E7" real_alt="1608.0"/>
+        <Cell alt="550.0" lat1="17.0" lat2="18.0" lon1="107.0" lon2="108.0" name="F7" real_alt="102.0"/>
+        <Cell alt="2700.0" lat1="16.0" lat2="17.0" lon1="106.0" lon2="107.0" name="E8" real_alt="1976.0"/>
+        <Cell alt="2750.0" lat1="16.0" lat2="17.0" lon1="107.0" lon2="108.0" name="F8" real_alt="2033.0"/>
+        <Cell alt="2200.0" lat1="16.0" lat2="17.0" lon1="108.0" lon2="109.0" name="G8" real_alt="1474.0"/>
+        <Cell alt="3300.0" lat1="15.0" lat2="16.0" lon1="107.0" lon2="108.0" name="F9" real_alt="2563.0"/>
+        <Cell alt="3300.0" lat1="15.0" lat2="16.0" lon1="108.0" lon2="109.0" name="G9" real_alt="2563.0"/>
+        <Cell alt="3300.0" lat1="14.0" lat2="15.0" lon1="107.0" lon2="108.0" name="F10" real_alt="2563.0"/>
+        <Cell alt="3300.0" lat1="14.0" lat2="15.0" lon1="108.0" lon2="109.0" name="G10" real_alt="2558.0"/>
+        <Cell alt="1300.0" lat1="14.0" lat2="15.0" lon1="109.0" lon2="110.0" name="H10" real_alt="869.0"/>
+        <Cell alt="1700.0" lat1="13.0" lat2="14.0" lon1="107.0" lon2="108.0" name="F11" real_alt="988.0"/>
+        <Cell alt="2250.0" lat1="13.0" lat2="14.0" lon1="108.0" lon2="109.0" name="G11" real_alt="1537.0"/>
+        <Cell alt="1850.0" lat1="13.0" lat2="14.0" lon1="109.0" lon2="110.0" name="H11" real_alt="1115.0"/>
+        <Cell alt="1100.0" lat1="12.0" lat2="13.0" lon1="106.0" lon2="107.0" name="E12" real_alt="652.0"/>
+        <Cell alt="2300.0" lat1="12.0" lat2="13.0" lon1="107.0" lon2="108.0" name="F12" real_alt="1569.0"/>
+        <Cell alt="3550.0" lat1="12.0" lat2="13.0" lon1="108.0" lon2="109.0" name="G12" real_alt="2830.0"/>
+        <Cell alt="2700.0" lat1="12.0" lat2="13.0" lon1="109.0" lon2="110.0" name="H12" real_alt="1972.0"/>
+        <Cell alt="650.0" lat1="11.0" lat2="12.0" lon1="105.0" lon2="106.0" name="D13" real_alt="207.0"/>
+        <Cell alt="1700.0" lat1="11.0" lat2="12.0" lon1="106.0" lon2="107.0" name="E13" real_alt="954.0"/>
+        <Cell alt="2700.0" lat1="11.0" lat2="12.0" lon1="107.0" lon2="108.0" name="F13" real_alt="1956.0"/>
+        <Cell alt="2800.0" lat1="11.0" lat2="12.0" lon1="108.0" lon2="109.0" name="G13" real_alt="2100.0"/>
+        <Cell alt="2150.0" lat1="11.0" lat2="12.0" lon1="109.0" lon2="110.0" name="H13" real_alt="1430.0"/>
+        <Cell alt="1800.0" lat1="10.0" lat2="11.0" lon1="103.0" lon2="104.0" name="B14" real_alt="1066.0"/>
+        <Cell alt="1800.0" lat1="10.0" lat2="11.0" lon1="104.0" lon2="105.0" name="C14" real_alt="1066.0"/>
+        <Cell alt="1100.0" lat1="10.0" lat2="11.0" lon1="105.0" lon2="106.0" name="D14" real_alt="676.0"/>
+        <Cell alt="700.0" lat1="10.0" lat2="11.0" lon1="106.0" lon2="107.0" name="E14" real_alt="250.8"/>
+        <Cell alt="1950.0" lat1="10.0" lat2="11.0" lon1="107.0" lon2="108.0" name="F14" real_alt="1239.0"/>
+        <Cell alt="1600.0" lat1="10.0" lat2="11.0" lon1="108.0" lon2="109.0" name="G14" real_alt="881.0"/>
+        <Cell alt="450.0" lat1="9.0" lat2="10.0" lon1="103.0" lon2="104.0" name="B15" real_alt="49.0"/>
+        <Cell alt="450.0" lat1="9.0" lat2="10.0" lon1="104.0" lon2="105.0" name="C15" real_alt="49.0"/>
+        <Cell alt="450.0" lat1="9.0" lat2="10.0" lon1="105.0" lon2="106.0" name="D15" real_alt="28.0"/>
+        <Cell alt="450.0" lat1="9.0" lat2="10.0" lon1="106.0" lon2="107.0" name="E15" real_alt="30.0"/>
+        <Cell alt="450.0" lat1="8.0" lat2="9.0" lon1="104.0" lon2="105.0" name="C16" real_alt="27.0"/>
+        <Cell alt="450.0" lat1="8.0" lat2="9.0" lon1="105.0" lon2="106.0" name="D16" real_alt="27.0"/>
+        <Cell alt="900.0" lat1="8.0" lat2="9.0" lon1="106.0" lon2="107.0" name="E16" real_alt="480.0"/>
+        <Cell alt="450.0" lat1="15.0" lat2="16.0" lon1="109.0" lon2="110.0" name="H9" real_alt="40.0"/>
+        <Cell alt="450.0" lat1="15.0" lat2="16.0" lon1="111.0" lon2="112.0" name="J9" real_alt="19.0"/>
+        <Cell alt="500.0" lat1="10.0" lat2="11.0" lon1="109.0" lon2="110.0" name="H14" real_alt="84.0"/>
+        <Cell alt="500.0" lat1="9.0" lat2="10.0" lon1="102.0" lon2="103.0" name="A15" real_alt="61.0"/>
+        <Cell alt="450.0" lat1="9.0" lat2="10.0" lon1="109.0" lon2="110.0" name="H15" real_alt="44.0"/>
+        <Cell alt="450.0" lat1="8.0" lat2="9.0" lon1="111.0" lon2="112.0" name="J16" real_alt="20.0"/>
+    </Cells>
+    <Points>
+        <Point x="108.0" y="18.0"/>
+        <Point x="110.0" y="18.0"/>
+        <Point x="110.0" y="17.0"/>
+        <Point x="111.0" y="17.0"/>
+        <Point x="111.0" y="16.0"/>
+        <Point x="111.0" y="15.0"/>
+        <Point x="115.0" y="15.0"/>
+        <Point x="115.0" y="9.0"/>
+        <Point x="111.0" y="9.0"/>
+        <Point x="111.0" y="8.0"/>
+        <Point x="110.0" y="8.0"/>
+        <Point x="110.0" y="7.0"/>
+        <Point x="102.0" y="7.0"/>
+        <Point x="102.0" y="9.0"/>
+        <Point x="104.0" y="9.0"/>
+        <Point x="104.0" y="8.0"/>
+        <Point x="107.0" y="8.0"/>
+        <Point x="107.0" y="10.0"/>
+        <Point x="109.0" y="10.0"/>
+        <Point x="109.0" y="9.0"/>
+        <Point x="110.0" y="9.0"/>
+        <Point x="110.0" y="16.0"/>
+        <Point x="109.0" y="16.0"/>
+        <Point x="109.0" y="17.0"/>
+        <Point x="108.0" y="17.0"/>
+        <Point x="108.0" y="18.0"/>
+    </Points>
+    <PointX name="300" x="111.4638" y="12.5533" />
+</AMA>

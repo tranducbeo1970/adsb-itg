@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>PIC570</Callsign>
+    <Address>888022</Address>
+    <FlightLevel>166.5</FlightLevel>
+    <Speed>410.74</Speed>
+    <Heading>34.820499420166016</Heading>
+    <VerticalRate>16.0</VerticalRate>
+    <Longtitude>106.9377212524414</Longtitude>
+    <Latitude>11.331597328186035</Latitude>
+    <TimeOfDay>2153.8671875</TimeOfDay>
+    <InitialTime>1596132370568</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596132370568</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

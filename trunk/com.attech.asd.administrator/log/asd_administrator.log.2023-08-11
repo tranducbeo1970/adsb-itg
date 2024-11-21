@@ -1,0 +1,262 @@
+2023-08-11 22:23:24,981 INFO   [Run] PROGRAM STARTED 
+2023-08-11 22:23:25,001 INFO   [Run] CONNECT TO DATABASE 
+2023-08-11 22:23:25,633 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-11 22:23:25,651 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-11 22:23:25,657 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-11 22:23:25,660 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-11 22:23:25,693 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-11 22:23:25,744 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-11 22:23:25,905 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-11 22:23:26,412 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-11 22:23:26,413 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-11 22:23:26,413 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-11 22:23:26,498 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-11 22:23:28,133 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-11 22:23:28,832 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@b9fec554 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@5c3233ea [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1bqub5xax1rld9bx27n9ty|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@8f46507b [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rld9bx27n9ty|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rld9bx27n9ty|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-11 22:23:29,595 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-11 22:23:29,613 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-11 22:23:30,399 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-11 22:24:09,045 ERROR  [Main] Could not connect COMMAND SOCKET with server:Connection timed out: connect 
+2023-08-11 22:24:30,129 ERROR  [Main] Could not connect UPDATER SOCKET with server:Connection timed out: connect 
+2023-08-11 22:24:58,504 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Fri Aug 11 22:24:58 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-11 22:25:05,239 INFO   [Run] PROGRAM STARTED 
+2023-08-11 22:25:05,239 INFO   [Run] CONNECT TO DATABASE 
+2023-08-11 22:25:05,623 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-11 22:25:05,655 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-11 22:25:05,660 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-11 22:25:05,663 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-11 22:25:05,717 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-11 22:25:05,799 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-11 22:25:05,912 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-11 22:25:06,136 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-11 22:25:06,138 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-11 22:25:06,138 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-11 22:25:06,171 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-11 22:25:06,994 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-11 22:25:08,559 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@e7160c02 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@89497a98 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1bqub5xax1rlfdzj1e7iyf7|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@bc5d9729 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rlfdzj1e7iyf7|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rlfdzj1e7iyf7|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-11 22:25:09,680 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-11 22:25:09,705 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-11 22:25:10,915 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-11 22:29:08,220 INFO   [Run] PROGRAM STARTED 
+2023-08-11 22:29:08,220 INFO   [Run] CONNECT TO DATABASE 
+2023-08-11 22:29:08,495 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-11 22:29:08,508 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-11 22:29:08,520 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-11 22:29:08,524 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-11 22:29:08,551 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-11 22:29:08,580 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-11 22:29:08,653 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-11 22:29:08,848 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-11 22:29:08,849 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-11 22:29:08,849 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-11 22:29:08,874 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-11 22:29:09,473 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-11 22:29:09,740 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@ffa8c8aa [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@a1dc3740 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1bqub5xax1rlkl7i23ozlc|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@d4f053d1 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rlkl7i23ozlc|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1bqub5xax1rlkl7i23ozlc|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-11 22:29:10,383 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-11 22:29:10,400 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-11 22:29:10,864 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-11 22:32:42,389 ERROR  [ExceptionHandler] java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:118)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)
+	at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)
+	at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)
+	at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)
+	at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)
+	at com.attech.asd.administrator.SocketClient.setCommand(SocketClient.java:33)
+	at com.attech.asd.administrator.views.AddReceiver.requestToServer(AddReceiver.java:113)
+	at com.attech.asd.administrator.views.AddReceiver.btnSaveActionPerformed(AddReceiver.java:413)
+	at com.attech.asd.administrator.views.AddReceiver.access$100(AddReceiver.java:29)
+	at com.attech.asd.administrator.views.AddReceiver$2.actionPerformed(AddReceiver.java:246)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2238)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2296)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4897)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4475)
+	at java.awt.Container.dispatchEventImpl(Container.java:2282)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:109)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.awt.Dialog.show(Dialog.java:1084)
+	at java.awt.Component.show(Component.java:1671)
+	at java.awt.Component.setVisible(Component.java:1623)
+	at java.awt.Window.setVisible(Window.java:1014)
+	at java.awt.Dialog.setVisible(Dialog.java:1005)
+	at com.attech.asd.administrator.views.ReceiverDialog.btnEditActionPerformed(ReceiverDialog.java:409)
+	at com.attech.asd.administrator.views.ReceiverDialog.access$300(ReceiverDialog.java:24)
+	at com.attech.asd.administrator.views.ReceiverDialog$4.actionPerformed(ReceiverDialog.java:230)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2238)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2296)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4897)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4475)
+	at java.awt.Container.dispatchEventImpl(Container.java:2282)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:109)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.awt.Dialog.show(Dialog.java:1084)
+	at java.awt.Component.show(Component.java:1671)
+	at java.awt.Component.setVisible(Component.java:1623)
+	at java.awt.Window.setVisible(Window.java:1014)
+	at java.awt.Dialog.setVisible(Dialog.java:1005)
+	at com.attech.asd.administrator.Authentication.btnConfirmActionPerformed(Authentication.java:157)
+	at com.attech.asd.administrator.Authentication.access$000(Authentication.java:18)
+	at com.attech.asd.administrator.Authentication$1.actionPerformed(Authentication.java:71)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.Component.processMouseEvent(Component.java:6533)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2238)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2296)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4897)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4534)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4475)
+	at java.awt.Container.dispatchEventImpl(Container.java:2282)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:109)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.awt.Dialog.show(Dialog.java:1084)
+	at java.awt.Component.show(Component.java:1671)
+	at java.awt.Component.setVisible(Component.java:1623)
+	at java.awt.Window.setVisible(Window.java:1014)
+	at java.awt.Dialog.setVisible(Dialog.java:1005)
+	at com.attech.asd.administrator.Main.tblReceiverMousePressed(Main.java:1333)
+	at com.attech.asd.administrator.Main.access$1500(Main.java:78)
+	at com.attech.asd.administrator.Main$16.mousePressed(Main.java:824)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:280)
+	at java.awt.Component.processMouseEvent(Component.java:6530)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2238)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2296)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4897)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4531)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4475)
+	at java.awt.Container.dispatchEventImpl(Container.java:2282)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+ 
+2023-08-11 22:37:55,112 INFO   [Run] PROGRAM STARTED 
+2023-08-11 22:37:55,112 INFO   [Run] CONNECT TO DATABASE 
+2023-08-11 22:37:55,319 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-11 22:37:55,326 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-11 22:37:55,331 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-11 22:37:55,333 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-11 22:37:55,355 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-11 22:37:55,382 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-11 22:37:55,429 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-11 22:37:55,597 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-11 22:37:55,598 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-11 22:37:55,598 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-11 22:37:55,618 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-11 22:37:56,006 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-11 22:37:56,184 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@5dbd549 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@a80f43df [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge1elax1rlvvml11ljlzu|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@db236070 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge1elax1rlvvml11ljlzu|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge1elax1rlvvml11ljlzu|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-11 22:37:56,668 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-11 22:37:56,680 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-11 22:37:57,092 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 

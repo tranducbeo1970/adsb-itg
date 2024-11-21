@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AXM2010</Callsign>
+    <Address>7502B8</Address>
+    <FlightLevel>360.0</FlightLevel>
+    <Speed>473.66</Speed>
+    <Heading>213.44949340820312</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>107.20256042480469</Longtitude>
+    <Latitude>9.609610557556152</Latitude>
+    <TimeOfDay>3031.09375</TimeOfDay>
+    <InitialTime>1596133701916</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701916</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

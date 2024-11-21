@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<App>
+    <Parameters/>
+    <FilterCondition active="true" hide-target="false">
+        <AltitudeLow>0</AltitudeLow>
+        <AltitudeHigh>340</AltitudeHigh>
+        <Callsign></Callsign>
+    </FilterCondition>
+</App>

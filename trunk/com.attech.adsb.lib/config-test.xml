@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><configuration>
+    <data-folder>E:\works\projects\ADSB\ATM-REQUIREMENT\svn\test-data\2016.02.05</data-folder>
+    <report-folder>E:\works\temp\output</report-folder>
+    <build-result>false</build-result>
+    <frame-time>8000</frame-time>
+    <seperated-time>300000</seperated-time>
+    <print-detail-report>true</print-detail-report>
+    <print-flight-trace>true</print-flight-trace>
+    <reports name="50" min-fl="10.0" min-distance="0.0" max-distance="50.0" export-detail="false" export-flight-trace="false"/>
+    <reports name="100" min-fl="10.0" min-distance="50.0" max-distance="100.0" export-detail="false" export-flight-trace="false"/>
+    <reports name="150" min-fl="10.0" min-distance="100.0" max-distance="150.0" export-detail="false" export-flight-trace="false"/>
+    <reports name="200" min-fl="10.0" min-distance="150.0" max-distance="200.0" export-detail="false" export-flight-trace="false"/>
+    <reports name="250" min-fl="10.0" min-distance="200.0" max-distance="250.0" export-detail="false" export-flight-trace="false"/>
+    <ground-station name="DIEN BIEN">
+        <sic>166</sic>
+        <sic>167</sic>
+    </ground-station>
+    <ground-station name="MOC CHAU">
+        <sic>159</sic>
+        <sic>160</sic>
+        <sic>161</sic>
+    </ground-station>
+    <ground-station name="NOI BAI">
+        <sic>163</sic>
+        <sic>164</sic>
+    </ground-station>
+    <ground-station name="CAT BI">
+        <sic>169</sic>
+        <sic>170</sic>
+    </ground-station>
+    <ground-station name="THO XUAN">
+        <sic>172</sic>
+        <sic>173</sic>
+    </ground-station>
+    <ground-station name="VINH">
+        <sic>175</sic>
+        <sic>176</sic>
+    </ground-station>
+    <ground-station name="DONG HOI">
+        <sic>178</sic>
+        <sic>179</sic>
+    </ground-station>
+    <sensor sic="159"/>
+    <sensor sic="160"/>
+    <sensor sic="161"/>
+    <sensor sic="163"/>
+    <sensor sic="164"/>
+    <sensor sic="166"/>
+    <sensor sic="167"/>
+    <sensor sic="169"/>
+    <sensor sic="170"/>
+    <sensor sic="172"/>
+    <sensor sic="173"/>
+    <sensor sic="175"/>
+    <sensor sic="176"/>
+    <sensor sic="178"/>
+    <sensor sic="179"/>
+    <area>hanoi_fir.xml</area>
+    <black-list>8880EEE</black-list>
+</configuration>

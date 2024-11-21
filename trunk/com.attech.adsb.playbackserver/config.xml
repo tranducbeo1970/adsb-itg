@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Config>
+    <Interval>500</Interval>
+    <ReadingMode>Raw</ReadingMode>
+    <BroadCasters>
+        <ip>localhost</ip>
+        <port>20552</port>
+    </BroadCasters>
+    <BroadCasters>
+        <ip>127.0.0.1</ip>
+        <port>20552</port>
+    </BroadCasters>
+</Config>

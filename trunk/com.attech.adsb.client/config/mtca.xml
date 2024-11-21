@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MTCA>
+    <WarnVertialThreshold>8000</WarnVertialThreshold>
+    <WarnHorizonThreshold>6</WarnHorizonThreshold>
+    <AlarmVertialThreshold>4000</AlarmVertialThreshold>
+    <AlarmHorizonThreshold>10</AlarmHorizonThreshold>
+    <WarnTimeInAdvance>160</WarnTimeInAdvance>
+</MTCA>

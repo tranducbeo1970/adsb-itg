@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GroundStations>
+    <Icon>img/ndb.png</Icon>
+    <Station Name="AC" Enabled="true">
+        <X>107.18833</X>
+        <Y>10.9383335</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#05ff48</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>AC</Content>
+        </Label>
+    </Station>
+    <Station Name="BU" Enabled="true">
+        <X>108.04222</X>
+        <Y>12.670278</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>BU</Content>
+        </Label>
+    </Station>
+    <Station Name="HT" Enabled="true">
+        <X>108.09805</X>
+        <Y>12.668612</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>HT</Content>
+        </Label>
+    </Station>
+    <Station Name="BK" Enabled="true">
+        <X>106.65806</X>
+        <Y>20.801111</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>BK</Content>
+        </Label>
+    </Station>
+    <Station Name="B" Enabled="true">
+        <X>106.6975</X>
+        <Y>20.8125</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>B</Content>
+        </Label>
+    </Station>
+    <Station Name="QL" Enabled="true">
+        <X>105.17667</X>
+        <Y>9.176111</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>QL</Content>
+        </Label>
+    </Station>
+    <Station Name="CR" Enabled="true">
+        <X>109.21639</X>
+        <Y>12.0002775</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>CR</Content>
+        </Label>
+    </Station>
+    <Station Name="CQ" Enabled="true">
+        <X>108.704445</X>
+        <Y>15.412222</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>CQ</Content>
+        </Label>
+    </Station>
+    <Station Name="CN" Enabled="true">
+        <X>106.628334</X>
+        <Y>8.731667</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>CN</Content>
+        </Label>
+    </Station>
+    <Station Name="DL" Enabled="true">
+        <X>108.265</X>
+        <Y>11.747778</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>DL</Content>
+        </Label>
+    </Station>
+    <Station Name="HYD" Enabled="true">
+        <X>108.33667</X>
+        <Y>11.751667</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>HYD</Content>
+        </Label>
+    </Station>
+    <Station Name="D" Enabled="true">
+        <X>108.20417</X>
+        <Y>16.016945</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>D</Content>
+        </Label>
+    </Station>
+    <Station Name="DJ" Enabled="true">
+        <X>108.20722</X>
+        <Y>15.9775</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>DJ</Content>
+        </Label>
+    </Station>
+    <Station Name="DB" Enabled="true">
+        <X>103.01056</X>
+        <Y>21.396389</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>DB</Content>
+        </Label>
+    </Station>
+    <Station Name="K" Enabled="true">
+        <X>105.78306</X>
+        <Y>21.228056</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>K</Content>
+        </Label>
+    </Station>
+    <Station Name="KW" Enabled="true">
+        <X>105.745834</X>
+        <Y>21.23889</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>KW</Content>
+        </Label>
+    </Station>
+    <Station Name="MC" Enabled="true">
+        <X>104.7</X>
+        <Y>20.827778</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>MC</Content>
+        </Label>
+    </Station>
+    <Station Name="BQ" Enabled="true">
+        <X>104.03778</X>
+        <Y>21.214722</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>BQ</Content>
+        </Label>
+    </Station>
+    <Station Name="HL" Enabled="true">
+        <X>106.12139</X>
+        <Y>20.388332</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>HL</Content>
+        </Label>
+    </Station>
+    <Station Name="PB" Enabled="true">
+        <X>107.77194</X>
+        <Y>16.395834</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>PB</Content>
+        </Label>
+    </Station>
+    <Station Name="P" Enabled="true">
+        <X>107.725555</X>
+        <Y>16.398611</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>P</Content>
+        </Label>
+    </Station>
+    <Station Name="C" Enabled="true">
+        <X>109.06</X>
+        <Y>13.933333</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>C</Content>
+        </Label>
+    </Station>
+    <Station Name="PC" Enabled="true">
+        <X>109.105835</X>
+        <Y>13.865278</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>PC</Content>
+        </Label>
+    </Station>
+    <Station Name="PQ" Enabled="true">
+        <X>103.961945</X>
+        <Y>10.223611</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>PQ</Content>
+        </Label>
+    </Station>
+    <Station Name="PK" Enabled="true">
+        <X>108.00889</X>
+        <Y>14.006667</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>PK</Content>
+        </Label>
+    </Station>
+    <Station Name="RG" Enabled="true">
+        <X>105.13306</X>
+        <Y>9.959444</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>RG</Content>
+        </Label>
+    </Station>
+    <Station Name="X" Enabled="true">
+        <X>105.67167</X>
+        <Y>18.756111</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>X</Content>
+        </Label>
+    </Station>
+    <Station Name="XW" Enabled="true">
+        <X>105.66722</X>
+        <Y>18.790277</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>XW</Content>
+        </Label>
+    </Station>
+    <Station Name="TD" Enabled="true">
+        <X>106.751114</X>
+        <Y>10.858055</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>TD</Content>
+        </Label>
+    </Station>
+    <Station Name="SG" Enabled="true">
+        <X>106.75222</X>
+        <Y>10.854722</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>SG</Content>
+        </Label>
+    </Station>
+    <Station Name="GN" Enabled="true">
+        <X>106.67778</X>
+        <Y>10.826667</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>GN</Content>
+        </Label>
+    </Station>
+    <Station Name="TH" Enabled="true">
+        <X>109.33417</X>
+        <Y>13.044723</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>TH</Content>
+        </Label>
+    </Station>
+    <Station Name="MT" Enabled="true">
+        <X>105.77417</X>
+        <Y>10.119445</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>MT</Content>
+        </Label>
+    </Station>
+    <Station Name="M" Enabled="true">
+        <X>105.7275</X>
+        <Y>10.093056</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>M</Content>
+        </Label>
+    </Station>
+    <Station Name="A" Enabled="true">
+        <X>105.87666</X>
+        <Y>21.023333</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>A</Content>
+        </Label>
+    </Station>
+    <Station Name="AM" Enabled="true">
+        <X>105.86139</X>
+        <Y>20.98889</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>AM</Content>
+        </Label>
+    </Station>
+    <Station Name="MD" Enabled="true">
+        <X>107.19334</X>
+        <Y>12.465</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>MD</Content>
+        </Label>
+    </Station>
+    <Station Name="KK" Enabled="true">
+        <X>103.0</X>
+        <Y>11.615</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>KK</Content>
+        </Label>
+    </Station>
+    <Station Name="WL" Enabled="true">
+        <X>109.403336</X>
+        <Y>18.488333</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>WL</Content>
+        </Label>
+    </Station>
+    <Station Name="NL" Enabled="true">
+        <X>106.86667</X>
+        <Y>22.366667</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>NL</Content>
+        </Label>
+    </Station>
+    <Station Name="PL" Enabled="true">
+        <X>105.64667</X>
+        <Y>10.046945</Y>
+        <Z1-Index>100.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>16</Size>
+        <Color>#000000</Color>
+        <Label Enabled="false" Padding-X="-15" Padding-Y="-50">
+            <Color>#EEFF00</Color>
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Content>PL</Content>
+        </Label>
+    </Station>
+</GroundStations>

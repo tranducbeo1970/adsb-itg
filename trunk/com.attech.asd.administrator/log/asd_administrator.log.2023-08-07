@@ -1,0 +1,240 @@
+2023-08-07 13:21:30,557 INFO   [Run] PROGRAM STARTED 
+2023-08-07 13:21:30,558 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 13:21:30,748 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 13:21:30,756 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 13:21:30,760 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 13:21:30,761 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 13:21:30,783 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 13:21:30,810 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 13:21:30,872 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 13:21:31,052 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 13:21:31,052 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 13:21:31,052 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 13:21:31,076 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 13:21:31,574 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 13:21:31,765 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@845b001f [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@268e6eb5 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lc8xab1wttrgj|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@59a28b46 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lc8xab1wttrgj|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lc8xab1wttrgj|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 13:21:32,184 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@20f970d8 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:108)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2023-08-07 13:21:32,184 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@1592bcc3 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:108)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2023-08-07 13:21:32,187 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2023-08-07 13:21:32,191 WARN   [JdbcServicesImpl] HHH000342: Could not obtain connection to query metadata : Connections could not be acquired from the underlying database! 
+2023-08-07 13:21:32,191 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2023-08-07 13:21:32,204 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 13:21:32,218 INFO   [LobCreatorBuilder] HHH000422: Disabling contextual LOB creation as connection was null 
+2023-08-07 13:21:32,852 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 13:21:34,014 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@40936dbf -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:108)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2023-08-07 13:21:34,016 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2023-08-07 13:21:34,021 WARN   [BasicResourcePool] com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@4517f3a2 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (1). Last acquisition attempt exception:  
+java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:108)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:95)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:862)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:444)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:230)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:226)
+	at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+	at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+	at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+	at com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+	at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+	at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+2023-08-07 13:21:34,022 WARN   [BasicResourcePool] Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@4ddced80 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests. 
+2023-08-07 13:21:34,023 WARN   [SqlExceptionHelper] SQL Error: 0, SQLState: null 
+2023-08-07 13:21:34,023 ERROR  [SqlExceptionHelper] Connections could not be acquired from the underlying database! 
+2023-08-07 13:21:34,025 ERROR  [Run] Could not open connection 
+2023-08-07 13:23:37,313 INFO   [Run] PROGRAM STARTED 
+2023-08-07 13:23:37,315 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 13:23:37,567 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 13:23:37,578 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 13:23:37,583 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 13:23:37,587 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 13:23:37,620 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 13:23:37,650 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 13:23:37,696 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 13:23:37,890 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 13:23:37,891 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 13:23:37,891 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 13:23:37,911 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 13:23:38,383 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 13:23:38,576 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@cce65016 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@6f19beac [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lcbn5ody1f90|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@a22ddb3d [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lcbn5ody1f90|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lcbn5ody1f90|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 13:23:39,029 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 13:23:39,039 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 13:23:39,394 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 13:25:03,650 INFO   [Run] PROGRAM STARTED 
+2023-08-07 13:25:03,652 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 13:25:03,876 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 13:25:03,890 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 13:25:03,896 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 13:25:03,901 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 13:25:03,940 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 13:25:03,993 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 13:25:04,071 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 13:25:04,286 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 13:25:04,287 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 13:25:04,287 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 13:25:04,321 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 13:25:04,796 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 13:25:05,002 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@ca178b64 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@6c4af9fa [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lcdhua1c03dvj|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@9f5f168b [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lcdhua1c03dvj|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lcdhua1c03dvj|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 13:25:05,514 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 13:25:05,527 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 13:25:05,946 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 13:26:12,947 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 13:26:12 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 13:49:41,304 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 13:49:41 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:03:30,050 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:03:30 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:06:23,211 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:06:23 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:11:29,577 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:11:29 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:25:07,365 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:25:07 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:32:30,293 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:32:30 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 14:40:57,564 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 14:40:57 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 15:38:53,886 INFO   [Run] PROGRAM STARTED 
+2023-08-07 15:38:53,888 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 15:38:54,278 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 15:38:54,290 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 15:38:54,296 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 15:38:54,301 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 15:38:54,352 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 15:38:54,397 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 15:38:54,464 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 15:38:54,724 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 15:38:54,724 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 15:38:54,724 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 15:38:54,756 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 15:38:55,385 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 15:38:55,628 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@42e91496 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@e51c832c [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lh5m5zlre8co|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@18309fbd [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lh5m5zlre8co|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lh5m5zlre8co|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 15:38:56,137 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 15:38:56,164 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 15:38:56,703 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 15:40:56,106 INFO   [Run] PROGRAM STARTED 
+2023-08-07 15:40:56,106 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 15:40:56,454 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 15:40:56,468 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 15:40:56,474 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 15:40:56,477 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 15:40:56,516 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 15:40:56,562 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 15:40:56,626 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 15:40:56,819 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 15:40:56,819 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 15:40:56,819 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 15:40:56,840 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 15:40:57,420 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 15:40:57,618 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@65d807a [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@a890ef10 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lh88drpxq908|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@dba50ba1 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lh88drpxq908|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lh88drpxq908|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 15:40:58,271 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 15:40:58,289 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 15:40:58,876 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 16:11:46,410 INFO   [Run] PROGRAM STARTED 
+2023-08-07 16:11:46,411 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 16:11:46,602 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 16:11:46,610 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 16:11:46,613 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 16:11:46,615 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 16:11:46,638 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 16:11:46,665 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 16:11:46,713 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 16:11:46,886 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 16:11:46,887 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 16:11:46,887 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 16:11:46,909 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 16:11:47,275 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 16:11:47,443 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@d6de2d5 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@afa1516b [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1libvv71x3eoj3|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@e2b56dfc [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1libvv71x3eoj3|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1libvv71x3eoj3|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 16:11:47,872 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 16:11:47,882 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 16:11:48,265 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 16:16:41,746 INFO   [Run] PROGRAM STARTED 
+2023-08-07 16:16:41,747 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 16:16:41,993 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 16:16:42,001 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 16:16:42,004 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 16:16:42,006 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 16:16:42,031 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 16:16:42,058 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 16:16:42,099 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 16:16:42,291 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 16:16:42,291 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 16:16:42,291 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 16:16:42,310 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 16:16:42,819 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 16:16:42,988 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@164e3f35 [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@b881adcb [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1lii7tw1f2gc02|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@eb95ca5c [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lii7tw1f2gc02|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1lii7tw1f2gc02|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 16:16:43,471 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 16:16:43,480 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 16:16:43,893 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 16:19:09,153 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 16:19:09 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 16:21:40,669 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 16:21:40 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 16:30:51,574 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 16:30:51 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 16:56:19,427 INFO   [Run] PROGRAM STARTED 
+2023-08-07 16:56:19,427 INFO   [Run] CONNECT TO DATABASE 
+2023-08-07 16:56:19,649 INFO   [Version] HCANN000001: Hibernate Commons Annotations {4.0.5.Final} 
+2023-08-07 16:56:19,658 INFO   [Version] HHH000412: Hibernate Core {4.3.11.Final} 
+2023-08-07 16:56:19,662 INFO   [Environment] HHH000206: hibernate.properties not found 
+2023-08-07 16:56:19,664 INFO   [Environment] HHH000021: Bytecode provider name : javassist 
+2023-08-07 16:56:19,687 INFO   [Configuration] HHH000042: Configuring from file: database.xml 
+2023-08-07 16:56:19,716 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2023-08-07 16:56:19,765 INFO   [Configuration] HHH000041: Configured SessionFactory: null 
+2023-08-07 16:56:19,987 INFO   [C3P0ConnectionProvider] HHH010002: C3P0 using driver: com.mysql.cj.jdbc.Driver at URL: jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC 
+2023-08-07 16:56:19,988 INFO   [C3P0ConnectionProvider] HHH000046: Connection properties: {user=root, password=****} 
+2023-08-07 16:56:19,988 INFO   [C3P0ConnectionProvider] HHH000006: Autocommit mode: false 
+2023-08-07 16:56:20,015 INFO   [MLog] MLog clients using log4j logging. 
+2023-08-07 16:56:20,475 INFO   [C3P0Registry] Initializing c3p0-0.9.2.1 [built 20-March-2013 10:47:27 +0000; debug? true; trace: 10] 
+2023-08-07 16:56:20,650 INFO   [AbstractPoolBackedDataSource] Initializing c3p0 pool... com.mchange.v2.c3p0.PoolBackedDataSource@378104fc [ connectionPoolDataSource -> com.mchange.v2.c3p0.WrapperConnectionPoolDataSource@d9b47392 [ acquireIncrement -> 3, acquireRetryAttempts -> 1, acquireRetryDelay -> 1, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, debugUnreturnedConnectionStackTraces -> false, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge5cuax1ljx6h41x5ugw3|4b44655e, idleConnectionTestPeriod -> 14400, initialPoolSize -> 2, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 2, nestedDataSource -> com.mchange.v2.c3p0.DriverManagerDataSource@cc89023 [ description -> null, driverClass -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1ljx6h41x5ugw3|15bb6bea, jdbcUrl -> jdbc:mysql://localhost:3306/adsb_integrator?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&serverTimezone=UTC, properties -> {user=******, password=******} ], preferredTestQuery -> select 1;, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false; userOverrides: {} ], dataSourceName -> null, factoryClassLocation -> null, identityToken -> 1hge5cuax1ljx6h41x5ugw3|7d3a22a9, numHelperThreads -> 3 ] 
+2023-08-07 16:56:21,105 INFO   [Dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect 
+2023-08-07 16:56:21,116 INFO   [LobCreatorBuilder] HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException 
+2023-08-07 16:56:21,667 INFO   [TransactionFactoryInitiator] HHH000399: Using default transaction strategy (direct JDBC transactions) 
+2023-08-07 17:13:10,453 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 17:13:10 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 17:15:36,342 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 17:15:36 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 17:18:31,402 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 17:18:31 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 17:19:42,279 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 17:19:42 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 
+2023-08-07 17:23:29,821 ERROR  [Main] org.jfree.data.general.SeriesException: You are attempting to add an observation for the time period Mon Aug 07 17:23:29 ICT 2023 but the series already contains an observation for that time period. Duplicates are not permitted.  Try using the addOrUpdate() method. 

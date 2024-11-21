@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>JSA817</Callsign>
+    <Address>76AA6E</Address>
+    <FlightLevel>340.25</FlightLevel>
+    <Speed>474.54</Speed>
+    <Heading>3.635499954223633</Heading>
+    <VerticalRate>-0.625</VerticalRate>
+    <Longtitude>104.09420013427734</Longtitude>
+    <Latitude>6.394721984863281</Latitude>
+    <TimeOfDay>3031.4921875</TimeOfDay>
+    <InitialTime>1596133701386</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701386</LastUpdateInMil>
+    <Mode3A>2245</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

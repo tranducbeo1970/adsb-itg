@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 1.8.0_171-b11 (Oracle Corporation)
+Project-Name: ADS-B Playback Server
+Built-Date: 2023-08-20 23:54:10 ICT
+Built-By: BOSS
+Built-Num: 45
+Version: 1.0.0-b45
+SVN-Revision: ${svna.version}
+Company: ATTECH
+URL: http://attech.com.vn
+

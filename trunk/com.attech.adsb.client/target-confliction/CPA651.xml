@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>CPA651</Callsign>
+    <Address>780A94</Address>
+    <FlightLevel>390.0</FlightLevel>
+    <Speed>469.48</Speed>
+    <Heading>33.56100082397461</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>108.48</Longtitude>
+    <Latitude>9.58</Latitude>
+    <TimeOfDay>1753.0625</TimeOfDay>
+    <InitialTime>1596131741218</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131741218</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

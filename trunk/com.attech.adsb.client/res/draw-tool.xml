@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomDrawList z-index="1" weight="1" font-size="7" padding-x="10" padding-y="10">
+    <Item type="ARC" color="#FF0000" weight="1" z-index="1" enabled="true" name="DW TEST">
+        <Points/>
+        <CenterPoint y="19.632778" x="104.95805"/>
+        <Label Enabled="true" Padding-X="10" Padding-Y="10">
+            <Z-Index>0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FF0000</Color>
+            <Content>DW TEST</Content>
+        </Label>
+        <Radius>50.0</Radius>
+        <AngleStart>0</AngleStart>
+        <AngleEnd>360</AngleEnd>
+        <Level>100</Level>
+    </Item>
+    <Item type="ARC" color="#FF0000" weight="1" z-index="1" enabled="true" name="T2">
+        <Points/>
+        <CenterPoint y="18.365557" x="105.57166"/>
+        <Label Enabled="true" Padding-X="10" Padding-Y="10">
+            <Z-Index>0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FF0000</Color>
+            <Content>T2</Content>
+        </Label>
+        <Radius>50.0</Radius>
+        <AngleStart>0</AngleStart>
+        <AngleEnd>360</AngleEnd>
+        <Level>500</Level>
+    </Item>
+</CustomDrawList>

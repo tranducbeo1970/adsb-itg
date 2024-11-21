@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AXM624</Callsign>
+    <Address>750239</Address>
+    <!--FlightLevel>330.0</FlightLevel-->
+    <FlightLevel>1</FlightLevel>
+    <Speed>465.52</Speed>
+    <Heading>3.5804998874664307</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>106.63099670410156</Longtitude>
+    <Latitude>9.128600120544434</Latitude>
+    <TimeOfDay>1753.625</TimeOfDay>
+    <InitialTime>1596131742211</InitialTime>
+    <NIC>6</NIC>
+    <NAC>7</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131742211</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JPopupMenu" name="mnuMap">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="mnuAirport">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="AIRPORTS"/>
+          </Properties>
+        </Menu>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator3">
+        </Component>
+        <Menu class="javax.swing.JMenu" name="mnuFixPoint">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="FIX POINTS"/>
+            <Property name="toolTipText" type="java.lang.String" value="Fix Points"/>
+            <Property name="actionCommand" type="java.lang.String" value="FIX_POINTS"/>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuPROC">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="PROC"/>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuRUNWAY">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="RUNWAY"/>
+          </Properties>
+        </Menu>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniCircle">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="CIRCLE"/>
+            <Property name="actionCommand" type="java.lang.String" value="MAP/CIRCLE"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="airportRegionDisplayChangeActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniArc">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="ARC"/>
+            <Property name="actionCommand" type="java.lang.String" value="MAP/ARC"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="airportRegionDisplayChangeActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniTMA">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="TMA"/>
+            <Property name="actionCommand" type="java.lang.String" value="MAP/TMA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="airportRegionDisplayChangeActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniAPP">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="APP"/>
+            <Property name="actionCommand" type="java.lang.String" value="MAP/APP"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="airportRegionDisplayChangeActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <Menu class="javax.swing.JMenu" name="mnuARR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ARR"/>
+          </Properties>
+        </Menu>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator2">
+        </Component>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniAMA">
+          <Properties>
+            <Property name="selected" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="true" type="code"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="AMA"/>
+            <Property name="actionCommand" type="java.lang.String" value="MAP/AMA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniAMAActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniSectors">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Sectors"/>
+            <Property name="actionCommand" type="java.lang.String" value="SECTORS"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSectorsActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniLocalSector">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Local Sector"/>
+            <Property name="actionCommand" type="java.lang.String" value="LOCAL_SECTOR"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSectorsActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniTopographic">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Topographic"/>
+            <Property name="actionCommand" type="java.lang.String" value="TOPOGRAPHIC"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTopographicActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator4">
+        </Component>
+        <Menu class="javax.swing.JMenu" name="mnuVVP">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;VVP&quot;" type="code"/>
+            </Property>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuVVR">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;VVR&quot;" type="code"/>
+            </Property>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuVVD">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;VVD&quot;" type="code"/>
+            </Property>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="mnuVVX">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;WX&quot;" type="code"/>
+            </Property>
+          </Properties>
+        </Menu>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator5">
+        </Component>
+        <Menu class="javax.swing.JMenu" name="mnuFixNav">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;FIX/NAV&quot;" type="code"/>
+            </Property>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWayPoint">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="WAY POINTS"/>
+                <Property name="actionCommand" type="java.lang.String" value="MAP/FIXNAV/WAYPOINT"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFixNavActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniVorDme">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="VOR/DME"/>
+                <Property name="actionCommand" type="java.lang.String" value="MAP/FIXNAV/VORDME"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFixNavActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniNdb">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="NDB"/>
+                <Property name="actionCommand" type="java.lang.String" value="MAP/FIXNAV/NDB"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFixNavActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniName">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="NAME"/>
+                <Property name="actionCommand" type="java.lang.String" value="MAP/FIXNAV/NAME"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFixNavActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniRoute">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="ROUTES"/>
+                <Property name="actionCommand" type="java.lang.String" value="MAP/FIXNAV/ROUTE"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFixNavActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <MenuItem class="javax.swing.JMenuItem" name="mniDraw">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;CUSTOM DRAW&quot;" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniDrawActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniSecondDisplay">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;SECONDARY SCREEN&quot;" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSecondDisplayActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniSetup">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BACKGROUND COLOR"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSetupActionPerformed"/>
+          </Events>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPopupMenu" name="mnuTarget">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="mnuLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;LABEL&quot;" type="code"/>
+            </Property>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniCallsign">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="CALLSIGN"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/CALLSIGN"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniSSR">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="SSR/24bits"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/SSR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniSpeed">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="SPD"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/SPD"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniAltitude">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="ALT"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/ALT"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniCAlt">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="C.ALT"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/CALT"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniCoAlt">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="Co.ALT"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/COALT"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniController">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="CTRL"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/CTRL"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniHDGNote">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="HDG NOTE"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/HDGNOTE"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniInfo">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="INFO"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/INFO"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniHeading">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="HEADING"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/HEADING"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniTracking">
+              <Properties>
+                <Property name="selected" type="boolean" value="true"/>
+                <Property name="text" type="java.lang.String" value="TRACKING"/>
+                <Property name="actionCommand" type="java.lang.String" value="TARGET/LABEL/TRACKING"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+              </AuxValues>
+            </MenuItem>
+            <MenuItem class="javax.swing.JPopupMenu$Separator" name="jSeparator8">
+            </MenuItem>
+            <MenuItem class="javax.swing.JMenuItem" name="mniAllOn">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="All On"/>
+                <Property name="actionCommand" type="java.lang.String" value="ALLON"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+            </MenuItem>
+            <MenuItem class="javax.swing.JMenuItem" name="mniAllOff">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="All Off"/>
+                <Property name="actionCommand" type="java.lang.String" value="ALLOFF"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetLabelActionPerformed"/>
+              </Events>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTrafficList">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;TRAFFIC LIST&quot;" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTrafficListActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniFilter">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="FITLER"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniFilterActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTargetList">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="TARGET LIST"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetListActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator12">
+        </Component>
+        <MenuItem class="javax.swing.JMenuItem" name="mniAddTarget">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Open Target"/>
+            <Property name="actionCommand" type="java.lang.String" value="TARGET_ADDING"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniRemoveAllDummy">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Remove dummy"/>
+            <Property name="toolTipText" type="java.lang.String" value="Remove all dummy target"/>
+            <Property name="actionCommand" type="java.lang.String" value="TARGET_REMOVING"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPopupMenu" name="mnuWarning">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <MenuItem class="javax.swing.JMenuItem" name="mnuWarningSetup">
+          <Properties>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;SETUP&quot;" type="code"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_SETUP"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuWarningSetupActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <Component class="javax.swing.JPopupMenu$Separator" name="jSeparator6">
+        </Component>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningAMA">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;AMA WRN&quot;" type="code"/>
+            </Property>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_AMA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningDraw">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;DRAW&quot;" type="code"/>
+            </Property>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_DRAW"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningCLDC">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;CL/DC&quot;" type="code"/>
+            </Property>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_CLDC"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningVVPR">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;VVP/R&quot;" type="code"/>
+            </Property>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_VVPR"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningOutSrc">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="&quot;OUT SCREEN&quot;" type="code"/>
+            </Property>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_OUTSCR"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningSTCA">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="STCA"/>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_STCA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningMTCA">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="MTCA"/>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_MTCA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+        <MenuItem class="javax.swing.JCheckBoxMenuItem" name="mniWarningMSA">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="MSA"/>
+            <Property name="actionCommand" type="java.lang.String" value="WARNING_MSA"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniWarningActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new CustomCheckboxMenuItem()"/>
+          </AuxValues>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPopupMenu" name="mnuSelectedTarget">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTargetAssum">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Assum"/>
+            <Property name="actionCommand" type="java.lang.String" value="ASSUM_FLIGHT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSelectedTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <Menu class="javax.swing.JMenu" name="mnuTargetTransfer">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Transfer"/>
+            <Property name="actionCommand" type="java.lang.String" value="TRANSFER_FLIGHT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSelectedTargetActionPerformed"/>
+          </Events>
+        </Menu>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTargetCancel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cancel"/>
+            <Property name="actionCommand" type="java.lang.String" value="CANCEL_FLIGHT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSelectedTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTargetSaving">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Save"/>
+            <Property name="actionCommand" type="java.lang.String" value="SAVE_FLIGHT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSelectedTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mniTargetEdit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Edit"/>
+            <Property name="actionCommand" type="java.lang.String" value="TARGET_EDIT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniSelectedTargetActionPerformed"/>
+          </Events>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPopupMenu" name="mnuZoomLevel">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <MenuItem class="javax.swing.JMenuItem" name="mni50">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="50"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniZoomLevelActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mni100">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="100"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniZoomLevelActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mni150">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="150"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniZoomLevelActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mni200">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="200"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniZoomLevelActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JMenuItem" name="mni250">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="250"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniZoomLevelActionPerformed"/>
+          </Events>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPopupMenu" name="mnuHistoryLength">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mniZero">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="0 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="0"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni1P4Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1/4 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="0.25"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni1P2Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1/2 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="0.5"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni1Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni2Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="2"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni3Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="3 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni4Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="4 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="4"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni5Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="5 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="5"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni6Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="6 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="6"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni7Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="7 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="7"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni8Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="8 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="8"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni9Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="9 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="9"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+        <MenuItem class="javax.swing.JRadioButtonMenuItem" name="mni10Min">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="historyLengthGroup"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="10 min"/>
+            <Property name="actionCommand" type="java.lang.String" value="10"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mniHistoryLengthActionPerformed"/>
+          </Events>
+        </MenuItem>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.ButtonGroup" name="historyLengthGroup">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="0"/>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1280, 800]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="componentShown" listener="java.awt.event.ComponentListener" parameters="java.awt.event.ComponentEvent" handler="formComponentShown"/>
+    <EventHandler event="windowClosing" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowClosing"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="tbrMain" pref="1116" max="32767" attributes="0"/>
+          <Component id="pnlContent" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="pnlContent" pref="764" max="32767" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="tbrMain" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JToolBar" name="tbrMain">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+        <Property name="floatable" type="boolean" value="false"/>
+        <Property name="rollover" type="boolean" value="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="btnMap">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="12" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/map.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Map config"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                <EtchetBorder/>
+              </Border>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMapActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="Main_btnMap"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTarget">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="12" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/target.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="TARGET"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                <EtchetBorder/>
+              </Border>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTargetActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnWarn">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="12" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/warning.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="WARN"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                <EtchetBorder/>
+              </Border>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 32]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnWarnActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator1">
+        </Component>
+        <Component class="javax.swing.JButton" name="btnRGN">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalAlignment" type="int" value="2"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 24]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 24]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 32]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnRGNActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JSlider" name="sdrRNG">
+          <Properties>
+            <Property name="majorTickSpacing" type="int" value="20"/>
+            <Property name="maximum" type="int" value="300"/>
+            <Property name="minimum" type="int" value="1"/>
+            <Property name="minorTickSpacing" type="int" value="5"/>
+            <Property name="paintTicks" type="boolean" value="true"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[200, 30]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[200, 20]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[200, 20]"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="sdrRNGStateChanged"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator7">
+        </Component>
+        <Component class="javax.swing.JToggleButton" name="btnFilter">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/filter.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Filter target"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFilterActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton8">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/home.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Home"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JToggleButton" name="btnMeasure">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/ruler.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Measure"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMeasureActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnMeasureClear">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/delete.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="Clear"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMeasureClearActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator9">
+        </Component>
+        <Component class="javax.swing.JButton" name="lblSPV">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="SPV"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalAlignment" type="int" value="2"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 24]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 24]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[80, 24]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JSlider" name="scrSPV">
+          <Properties>
+            <Property name="majorTickSpacing" type="int" value="5"/>
+            <Property name="maximum" type="int" value="10"/>
+            <Property name="minorTickSpacing" type="int" value="1"/>
+            <Property name="paintTicks" type="boolean" value="true"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[120, 30]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[120, 30]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[120, 30]"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="stateChanged" listener="javax.swing.event.ChangeListener" parameters="javax.swing.event.ChangeEvent" handler="scrSPVStateChanged"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator10">
+        </Component>
+        <Component class="javax.swing.JButton" name="btnHistoryLength">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="HL 10 min"/>
+            <Property name="toolTipText" type="java.lang.String" value="History length"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalAlignment" type="int" value="2"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[90, 32]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[90, 32]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[90, 32]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnHistoryLengthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JToolBar$Separator" name="jSeparator11">
+        </Component>
+        <Component class="javax.swing.Box$Filler" name="filler1">
+          <Properties>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32767, 0]"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="classDetails" type="java.lang.String" value="Box.Filler.HorizontalGlue"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblLong">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblLat">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel2"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[100, 25]"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnPlayback">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/play.png"/>
+            </Property>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[30, 28]"/>
+            </Property>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPlaybackActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnHelp">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/com/attech/adsb/client/images/help.png"/>
+            </Property>
+            <Property name="toolTipText" type="java.lang.String" value="ABOUT"/>
+            <Property name="focusable" type="boolean" value="false"/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnHelpActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="pnlContent">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomDrawList z-index="1" weight="1" font-size="7" padding-x="10" padding-y="10">
+    <Item type="ARC" color="#FF0000" weight="1" z-index="1" enabled="true" name="TEST">
+        <Points/>
+        <CenterPoint y="18.071667" x="107.23222"/>
+        <Label Enabled="true" Padding-X="10" Padding-Y="10">
+            <Z-Index>0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FF0000</Color>
+            <Content>TEST</Content>
+        </Label>
+        <Radius>30.0</Radius>
+        <AngleStart>0</AngleStart>
+        <AngleEnd>360</AngleEnd>
+        <Level>100</Level>
+    </Item>
+</CustomDrawList>

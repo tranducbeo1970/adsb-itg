@@ -1,0 +1,76 @@
+2022-12-28 10:43:41,383 INFO   [Run] PROGRAM START 
+2022-12-28 10:43:44,770 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-12-28 10:43:44,816 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-12-28 10:43:45,300 INFO   [VVDsGraphic] Set display VVD20CAMSON to false 
+2022-12-28 10:43:45,303 INFO   [VVDsGraphic] Set display VVD21MIEUMON to false 
+2022-12-28 10:43:45,305 INFO   [VVDsGraphic] Set display VVD22KHAMDUC to false 
+2022-12-28 10:43:45,306 INFO   [VVDsGraphic] Set display VVD23 to false 
+2022-12-28 10:43:45,308 INFO   [VVDsGraphic] Set display VVD24 to false 
+2022-12-28 10:43:45,310 INFO   [VVDsGraphic] Set display VVD25 to false 
+2022-12-28 10:43:45,312 INFO   [VVDsGraphic] Set display VVD26 to false 
+2022-12-28 10:43:45,314 INFO   [VVDsGraphic] Set display VVD27 to false 
+2022-12-28 10:43:45,316 INFO   [VVDsGraphic] Set display VVD28 to false 
+2022-12-28 10:43:45,318 INFO   [VVDsGraphic] Set display VVD29 to false 
+2022-12-28 10:43:45,319 INFO   [VVDsGraphic] Set display VVD30 to false 
+2022-12-28 10:43:45,319 INFO   [VVDsGraphic] Set display VVD31 to false 
+2022-12-28 10:43:45,320 INFO   [VVDsGraphic] Set display VVD32MAYTAO to false 
+2022-12-28 10:43:45,321 INFO   [VVDsGraphic] Set display VTV to false 
+2022-12-28 10:43:45,347 INFO   [VVPsGraphic] Set display VVP1 to false 
+2022-12-28 10:43:45,349 INFO   [VVPsGraphic] Set display VVP2 to false 
+2022-12-28 10:43:45,350 INFO   [VVPsGraphic] Set display VVP3 to false 
+2022-12-28 10:43:45,350 INFO   [VVPsGraphic] Set display VVP4 to false 
+2022-12-28 10:43:45,355 INFO   [VVRsGraphic] Set display VVR19 to false 
+2022-12-28 10:43:45,358 INFO   [VVRsGraphic] Set display VVR33 to false 
+2022-12-28 10:43:45,360 INFO   [VVRsGraphic] Set display VVR33_1 to false 
+2022-12-28 10:43:45,362 INFO   [VVRsGraphic] Set display VVR34 to false 
+2022-12-28 10:43:45,363 INFO   [VVRsGraphic] Set display VVR35 to false 
+2022-12-28 10:43:45,365 INFO   [VVRsGraphic] Set display VVR36 to false 
+2022-12-28 10:43:45,367 INFO   [VVRsGraphic] Set display VVR37 to false 
+2022-12-28 10:43:45,370 INFO   [VVRsGraphic] Set display VVR38 to false 
+2022-12-28 10:43:45,372 INFO   [VVRsGraphic] Set display VVR39 to false 
+2022-12-28 10:43:45,374 INFO   [VVRsGraphic] Set display VVR40 to false 
+2022-12-28 10:43:45,376 INFO   [VVRsGraphic] Set display KV80 to false 
+2022-12-28 10:43:45,378 INFO   [VVRsGraphic] Set display KV81 to false 
+2022-12-28 10:43:45,380 INFO   [VVRsGraphic] Set display KV82 to false 
+2022-12-28 10:43:45,381 INFO   [VVRsGraphic] Set display KV83 to false 
+2022-12-28 10:43:45,383 INFO   [VVRsGraphic] Set display KV86 to false 
+2022-12-28 10:43:45,384 INFO   [VVRsGraphic] Set display KVDinh to false 
+2022-12-28 10:43:45,397 INFO   [VVRsGraphic] Set display KV465 to false 
+2022-12-28 10:43:45,400 INFO   [VVRsGraphic] Set display KV465a to false 
+2022-12-28 10:43:45,402 INFO   [VVRsGraphic] Set display KV466 to false 
+2022-12-28 10:43:45,404 INFO   [VVRsGraphic] Set display KV467 to false 
+2022-12-28 10:43:45,407 INFO   [VVRsGraphic] Set display KV468 to false 
+2022-12-28 10:43:45,408 INFO   [VVRsGraphic] Set display KV469 to false 
+2022-12-28 10:43:45,410 INFO   [VVRsGraphic] Set display KV469b to false 
+2022-12-28 10:43:45,411 INFO   [VVRsGraphic] Set display KV469c to false 
+2022-12-28 10:43:45,411 INFO   [VVRsGraphic] Set display KV470 to false 
+2022-12-28 10:43:45,414 INFO   [VVRsGraphic] Set display KV460 to false 
+2022-12-28 10:43:45,415 INFO   [VVRsGraphic] Set display KV461 to false 
+2022-12-28 10:43:45,416 INFO   [VVRsGraphic] Set display KV462 to false 
+2022-12-28 10:43:45,416 INFO   [VVRsGraphic] Set display KV463 to false 
+2022-12-28 10:43:45,417 INFO   [VVRsGraphic] Set display KV463A to false 
+2022-12-28 10:43:45,417 INFO   [VVRsGraphic] Set display KV70 to false 
+2022-12-28 10:43:45,418 INFO   [VVRsGraphic] Set display KV70G to false 
+2022-12-28 10:43:45,419 INFO   [VVRsGraphic] Set display KV71 to false 
+2022-12-28 10:43:45,420 INFO   [VVRsGraphic] Set display KV72 to false 
+2022-12-28 10:43:45,420 INFO   [VVRsGraphic] Set display KV73 to false 
+2022-12-28 10:43:45,422 INFO   [VVRsGraphic] Set display KV75 to false 
+2022-12-28 10:43:45,422 INFO   [VVRsGraphic] Set display KV50 to false 
+2022-12-28 10:43:45,425 INFO   [VVRsGraphic] Set display KV51 to false 
+2022-12-28 10:43:45,426 INFO   [VVRsGraphic] Set display KV53 to false 
+2022-12-28 10:43:45,426 INFO   [VVRsGraphic] Set display KV56 to false 
+2022-12-28 10:43:45,427 INFO   [VVRsGraphic] Set display KV57 to false 
+2022-12-28 10:43:45,428 INFO   [VVRsGraphic] Set display KV58 to false 
+2022-12-28 10:43:45,471 INFO   [TargetManager] Set current setup position is SECTOR2-HN 
+2022-12-28 10:43:45,827 INFO   [CustomDrawGraphic] Set custom drawing validation to false 
+2022-12-28 10:43:45,829 INFO   [VVDsGraphic] Set target validation to false 
+2022-12-28 10:43:45,829 INFO   [VVPsGraphic] Set target validation to false 
+2022-12-28 10:43:45,829 INFO   [VVRsGraphic] Set target validation to false 
+2022-12-28 10:43:51,102 INFO   [TargetManager] Start target recalculate interval at 4 second 
+2022-12-28 10:43:51,118 INFO   [SocketReceivingHandler] Start listenning on port 20190 (192.168.22.157) 
+2022-12-28 10:43:51,122 ERROR  [Main] Cannot load program built info 
+2022-12-28 10:43:54,142 INFO   [TargetManager] Start updating target info 
+2022-12-28 10:43:55,121 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-12-28 10:43:59,114 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-12-28 10:44:03,118 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-12-28 10:44:03,744 WARN   [ShutdownHook] PROGRAM END 

@@ -1,0 +1,343 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.attech.asd.administrator.views;
+
+import com.attech.asd.administrator.AppContext;
+import com.attech.asd.administrator.common.CustomDialog;
+import com.attech.asd.administrator.common.NormalTableModel;
+import com.attech.asd.database.dao.FlightPlanDao;
+import com.attech.asd.database.entities.Flightplan;
+import java.awt.Dimension;
+import java.awt.Point;
+import java.awt.Toolkit;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
+import javax.swing.JOptionPane;
+import javax.swing.JTable;
+import javax.swing.JTextField;
+
+/**
+ *
+ * @author AnhTH
+ */
+public class FlightPlanDialog extends CustomDialog {
+
+    private final static org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(FlightPlanDialog.class);
+    private final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+
+    private final static String COL_NO = "#";
+    private final static String COL_REG = "REG";
+    private final static String COL_TYPE = "TYPE";
+    private final static String COL_CALLSIGN = "CALLSIGN";
+    private final static String COL_DEP = "DEP";
+    private final static String COL_DEST = "DEST";
+    private final static String COL_ETD = "ETD";
+    private final static String COL_ETA = "ETA";
+    private final static String COL_ROUTE = "ROUTE";
+    private final static String COL_ID = "ID";
+
+    private final NormalTableModel tableModel;
+    
+
+    public FlightPlanDialog(java.awt.Frame parent, boolean modal){
+        super(parent, modal);
+        initComponents();        
+        Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
+        this.setLocation(dim.width / 2 - this.getSize().width / 2, dim.height / 2 - this.getSize().height / 2);
+        this.tableModel = new NormalTableModel(tblFlightPlan);
+        initialTable();
+        bindTable();       
+    }
+
+
+    public void setFromDate(String date) {
+        ((JTextField) txtDof.getDateEditor().getUiComponent()).setText(date);
+    }
+
+    private void setColumnWidth(JTable table, String name, int min, int max, int prefer) {
+        table.getColumn(name).setMinWidth(min);
+        table.getColumn(name).setMaxWidth(max);
+        table.getColumn(name).setPreferredWidth(prefer);
+    }
+
+    private void initialTable() {
+        tableModel.addColumn(COL_NO);
+        tableModel.addColumn(COL_REG);
+        tableModel.addColumn(COL_TYPE);
+        tableModel.addColumn(COL_CALLSIGN);
+        tableModel.addColumn(COL_DEP);
+        tableModel.addColumn(COL_DEST);
+        tableModel.addColumn(COL_ETD);
+        tableModel.addColumn(COL_ETA);
+        tableModel.addColumn(COL_ROUTE);
+        tableModel.addColumn(COL_ID);
+
+        setColumnWidth(tblFlightPlan, COL_NO, 40, 40, 40);
+        setColumnWidth(tblFlightPlan, COL_REG, 70, 70, 70);
+        setColumnWidth(tblFlightPlan, COL_TYPE, 50, 50, 50);
+        setColumnWidth(tblFlightPlan, COL_CALLSIGN, 100, 100, 100);
+        setColumnWidth(tblFlightPlan, COL_DEP, 80, 80, 80);
+        setColumnWidth(tblFlightPlan, COL_DEST, 80, 80, 80);
+        
+        setColumnWidth(tblFlightPlan, COL_ETD, 80, 80, 80);
+        setColumnWidth(tblFlightPlan, COL_ETA, 80, 80, 80);
+        setColumnWidth(tblFlightPlan, COL_ID, 0, 0, 0);
+
+    }
+
+    private void bindTable(){        
+        Date date = txtDof.getDate();  
+        
+        String s = ((JTextField)txtDof.getDateEditor().getUiComponent()).getText();
+        if (s.equals("")) {
+            JOptionPane.showMessageDialog(null, "Please type DOF", "Notify", JOptionPane.INFORMATION_MESSAGE);
+            txtDof.requestFocus();
+            return;
+        }
+        else
+        {
+            final String dof = new SimpleDateFormat("yyMMdd").format(date);    
+            final String callsign = txtCallsign.getText().trim().toUpperCase();
+            final List<Flightplan> plans = new FlightPlanDao().getFlightPlans(dof, callsign);
+            tableModel.setNumRows(0);
+            if (plans != null && plans.size() > 0){
+
+                int index = 1;
+                for (Flightplan plan : plans){
+                    tableModel.addRow(new Object[]{
+                        index,
+                        plan.getReg(),
+                        plan.getCraft(),
+                        plan.getCallSign(),
+                        plan.getDep(),
+                        plan.getDest(),
+                        plan.getEtd(),
+                        plan.getEta(),
+                        plan.getRoute(),
+                        plan.getId()
+                    });
+                    index++;
+                }
+            }            
+        }        
+    }
+
+    /**
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The content of this method is always
+     * regenerated by the Form Editor.
+     */
+    @SuppressWarnings("unchecked")
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    private void initComponents() {
+
+        lblStation = new javax.swing.JLabel();
+        lblFromDate = new javax.swing.JLabel();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        tblFlightPlan = new javax.swing.JTable();
+        btnViewData = new javax.swing.JButton();
+        btnClose = new javax.swing.JButton();
+        txtDof = new com.toedter.calendar.JDateChooser();
+        btnSearch = new javax.swing.JButton();
+        txtCallsign = new javax.swing.JTextField();
+        btnAdd = new javax.swing.JButton();
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Flight Plan -  ADSB Administrator Terminal 1.0.0");
+        setResizable(false);
+
+        lblStation.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        lblStation.setText("CallSign");
+
+        lblFromDate.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
+        lblFromDate.setText("Date Of Flight");
+
+        tblFlightPlan.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {},
+                {},
+                {},
+                {}
+            },
+            new String [] {
+
+            }
+        ));
+        tblFlightPlan.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                tblFlightPlanMousePressed(evt);
+            }
+        });
+        jScrollPane1.setViewportView(tblFlightPlan);
+
+        btnViewData.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/asd/administrator/images/viewstack.png"))); // NOI18N
+        btnViewData.setText("View");
+        btnViewData.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnViewDataActionPerformed(evt);
+            }
+        });
+
+        btnClose.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/asd/administrator/images/door_out.png"))); // NOI18N
+        btnClose.setText("Close");
+        btnClose.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnCloseActionPerformed(evt);
+            }
+        });
+
+        txtDof.setDateFormatString("yyyy-MM-dd");
+        txtDof.addPropertyChangeListener(new java.beans.PropertyChangeListener() {
+            public void propertyChange(java.beans.PropertyChangeEvent evt) {
+                txtDofPropertyChange(evt);
+            }
+        });
+
+        btnSearch.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/asd/administrator/images/search-16.png"))); // NOI18N
+        btnSearch.setText("Search");
+        btnSearch.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnSearchActionPerformed(evt);
+            }
+        });
+
+        btnAdd.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/asd/administrator/images/add_16.png"))); // NOI18N
+        btnAdd.setText("New");
+        btnAdd.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnAddActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(0, 0, Short.MAX_VALUE)
+                        .addComponent(btnAdd)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(btnViewData)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(btnClose))
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(lblFromDate)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(txtDof, javax.swing.GroupLayout.PREFERRED_SIZE, 160, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(23, 23, 23)
+                        .addComponent(lblStation, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(txtCallsign, javax.swing.GroupLayout.PREFERRED_SIZE, 135, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(btnSearch)))
+                .addContainerGap())
+            .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 882, Short.MAX_VALUE)
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(txtDof, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(lblStation)
+                                .addComponent(btnSearch)
+                                .addComponent(txtCallsign, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(14, 14, 14))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(lblFromDate)
+                        .addGap(21, 21, 21)))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 366, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(btnViewData)
+                    .addComponent(btnClose)
+                    .addComponent(btnAdd))
+                .addContainerGap(16, Short.MAX_VALUE))
+        );
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    private void btnCloseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCloseActionPerformed
+        this.dispose();
+    }//GEN-LAST:event_btnCloseActionPerformed
+
+    private void btnSearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSearchActionPerformed
+        this.bindTable();
+    }//GEN-LAST:event_btnSearchActionPerformed
+
+    private void btnViewDataActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnViewDataActionPerformed
+        if (!tblFlightPlan.getColumnSelectionAllowed() && tblFlightPlan.getRowSelectionAllowed()) {
+            try {
+                int index = tblFlightPlan.getSelectedRow();
+                if (index < 0) {
+                    JOptionPane.showMessageDialog(this, "Just pick only one record!", "Notify", JOptionPane.INFORMATION_MESSAGE);
+                } else {
+                    int id = (int) tableModel.getValueAt(index, 9);
+                    FlightPlanDetail dialog = new FlightPlanDetail(null, true, id);
+                    dialog.setVisible(true);
+                    bindTable();
+                }
+            } catch (Exception ex) {
+                System.out.println(ex.getMessage());
+            }
+        }
+    }//GEN-LAST:event_btnViewDataActionPerformed
+
+    private void txtDofPropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_txtDofPropertyChange
+        final String tmp = ((JTextField) txtDof.getDateEditor().getUiComponent()).getText();
+        if (tmp.equals("")) {
+            ((JTextField) txtDof.getDateEditor().getUiComponent()).setText(sdf.format(new Date()));
+        }
+    }//GEN-LAST:event_txtDofPropertyChange
+
+    private void tblFlightPlanMousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tblFlightPlanMousePressed
+        if (evt.getButton() != 1) {
+            return;
+        }
+        JTable table = (JTable) evt.getSource();
+        Point p = evt.getPoint();
+        int index = table.rowAtPoint(p);
+        if (evt.getClickCount() != 2) {
+            return;
+        }
+        int id = (int) table.getValueAt(index, 9);
+        FlightPlanDetail dialog = new FlightPlanDetail(null, true, id);
+        dialog.setVisible(true);
+        bindTable();
+    }//GEN-LAST:event_tblFlightPlanMousePressed
+
+    private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
+        try {
+            FlightPlanDetail dialog = new FlightPlanDetail(null, true, 0);
+                dialog.setVisible(true);
+                bindTable();
+        } catch (Exception ex) {
+            System.out.println(ex.getMessage());
+        }        
+    }//GEN-LAST:event_btnAddActionPerformed
+
+
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnAdd;
+    private javax.swing.JButton btnClose;
+    private javax.swing.JButton btnSearch;
+    private javax.swing.JButton btnViewData;
+    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JLabel lblFromDate;
+    private javax.swing.JLabel lblStation;
+    private javax.swing.JTable tblFlightPlan;
+    private javax.swing.JTextField txtCallsign;
+    private com.toedter.calendar.JDateChooser txtDof;
+    // End of variables declaration//GEN-END:variables
+}

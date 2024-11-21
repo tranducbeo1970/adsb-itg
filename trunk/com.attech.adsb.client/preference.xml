@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Preference>
+    <Record enable="true">
+        <Location>record</Location>
+        <Length>30</Length>
+    </Record>
+    <SignalQuality nic="4" nac="5" sil="2"/>
+</Preference>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VVRs>
+    <VVR name="VVR19" color="#FFB39A" type="MIX" levelmin="8000" radius="75.0" enabled="false" weight="1" z-index="0" angles="305,52">
+        <Point y="10.816389" x="106.64555" size="0"/>
+        <Point y="11.228333" x="107.18972" size="0"/>
+        <Point y="10.944722" x="107.03833" size="0"/>
+        <Point y="10.926389" x="106.7325" size="0"/>
+        <Point y="11.2080555" x="106.08611" size="0"/>
+    </VVR>
+    <VVR name="VVR33" color="#FFB39A" type="CIRCLE" levelmin="8000" radius="7.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.866112" x="106.306114" size="0"/>
+    </VVR>
+    <VVR name="VVR33_1" color="#FFB39A" type="CIRCLE" levelmin="9999" radius="7.5" enabled="false" weight="1" z-index="0">
+        <Point y="20.866112" x="106.306114" size="0"/>
+    </VVR>
+    <VVR name="VVR34" color="#FFB39A" type="CIRCLE" levelmin="1200" radius="3.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.958334" x="106.05" size="0"/>
+    </VVR>
+    <VVR name="VVR35" color="#FFB39A" type="CIRCLE" levelmin="1200" radius="2.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.95" x="105.916664" size="0"/>
+    </VVR>
+    <VVR name="VVR36" color="#FFB39A" type="CIRCLE" levelmin="16000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="10.5402775" x="106.416664" size="0"/>
+    </VVR>
+    <VVR name="VVR37" color="#FFB39A" type="CIRCLE" levelmin="16000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.8" x="106.316666" size="0"/>
+    </VVR>
+    <VVR name="VVR38" color="#FFB39A" type="CIRCLE" levelmin="16000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.45" x="106.46667" size="0"/>
+    </VVR>
+    <VVR name="VVR39" color="#FFB39A" type="CIRCLE" levelmin="8000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.55" x="106.95" size="0"/>
+    </VVR>
+    <VVR name="VVR40" color="#FFB39A" type="CIRCLE" levelmin="8000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="20.2" x="106.85" size="0"/>
+    </VVR>
+    <VVR name="KV80" color="#FFB39A" type="CIRCLE" levelmin="7000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.329166" x="106.18694" size="0"/>
+    </VVR>
+    <VVR name="KV81" color="#FFB39A" type="CIRCLE" levelmin="7000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.378056" x="106.62778" size="0"/>
+    </VVR>
+    <VVR name="KV82" color="#FFB39A" type="CIRCLE" levelmin="7000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.324722" x="107.02194" size="0"/>
+    </VVR>
+    <VVR name="KV83" color="#FFB39A" type="CIRCLE" levelmin="7000" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.659722" x="107.18" size="0"/>
+    </VVR>
+    <VVR name="KV86" color="#FFB39A" type="CIRCLE" levelmin="7000" radius="20.0" enabled="false" weight="1" z-index="0">
+        <Point y="10.333333" x="108.0" size="0"/>
+    </VVR>
+    <VVR name="KVDinh" color="#FFB39A" type="CIRCLE" levelmin="300" radius="15.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.995833" x="109.21778" size="0"/>
+    </VVR>
+    <VVR name="KV465" color="#FFB39A" type="CIRCLE" levelmin="1300" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="12.186389" x="109.16194" size="0"/>
+    </VVR>
+    <VVR name="KV465a" color="#FFB39A" type="CIRCLE" levelmin="1000" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="12.106944" x="109.11806" size="0"/>
+    </VVR>
+    <VVR name="KV466" color="#FFB39A" type="CIRCLE" levelmin="1100" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="11.995556" x="109.12278" size="0"/>
+    </VVR>
+    <VVR name="KV467" color="#FFB39A" type="CIRCLE" levelmin="1100" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="11.886389" x="109.06" size="0"/>
+    </VVR>
+    <VVR name="KV468" color="#FFB39A" type="CIRCLE" levelmin="1100" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="11.835834" x="109.256386" size="0"/>
+    </VVR>
+    <VVR name="KV469" color="#FFB39A" type="CIRCLE" levelmin="800" radius="3.1" enabled="false" weight="1" z-index="0">
+        <Point y="11.935278" x="109.285835" size="0"/>
+    </VVR>
+    <VVR name="KV469b" color="#FFB39A" type="CIRCLE" levelmin="800" radius="5.0" enabled="false" weight="1" z-index="0">
+        <Point y="12.033334" x="109.36667" size="0"/>
+    </VVR>
+    <VVR name="KV469c" color="#FFB39A" type="CIRCLE" levelmin="600" radius="5.0" enabled="false" weight="1" z-index="0">
+        <Point y="11.9" x="109.45" size="0"/>
+    </VVR>
+    <VVR name="KV470" color="#FFB39A" type="POLYGON" levelmin="600" radius="0.0" enabled="false" weight="1" z-index="0">
+        <Point y="12.333333" x="109.666664" size="0"/>
+        <Point y="12.333333" x="110.166664" size="0"/>
+        <Point y="11.833333" x="110.166664" size="0"/>
+        <Point y="11.833333" x="109.666664" size="0"/>
+        <Point y="12.333333" x="109.666664" size="0"/>
+    </VVR>
+    <VVR name="KV460" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="8.7" enabled="false" weight="1" z-index="0">
+        <Point y="13.288889" x="109.333336" size="0"/>
+    </VVR>
+    <VVR name="KV461" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="8.7" enabled="false" weight="1" z-index="0">
+        <Point y="13.208333" x="108.81472" size="0"/>
+    </VVR>
+    <VVR name="KV462" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="8.7" enabled="true" weight="1" z-index="0">
+        <Point y="12.933333" x="108.84167" size="0"/>
+    </VVR>
+    <VVR name="KV463" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="8.7" enabled="true" weight="1" z-index="0">
+        <Point y="12.65" x="109.441666" size="0"/>
+    </VVR>
+    <VVR name="KV463A" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="8.7" enabled="false" weight="1" z-index="0">
+        <Point y="12.538889" x="108.875" size="0"/>
+    </VVR>
+    <VVR name="KV70" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="12.9" enabled="false" weight="1" z-index="0">
+        <Point y="11.208333" x="108.316666" size="0"/>
+    </VVR>
+    <VVR name="KV70G" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="12.9" enabled="false" weight="1" z-index="0">
+        <Point y="11.3" x="108.76667" size="0"/>
+    </VVR>
+    <VVR name="KV71" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="12.9" enabled="false" weight="1" z-index="0">
+        <Point y="11.916667" x="108.1" size="0"/>
+    </VVR>
+    <VVR name="KV72" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="12.9" enabled="false" weight="1" z-index="0">
+        <Point y="12.116667" x="108.583336" size="0"/>
+    </VVR>
+    <VVR name="KV73" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="11.216666" x="109.45" size="0"/>
+    </VVR>
+    <VVR name="KV75" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="11.441667" x="110.020836" size="0"/>
+    </VVR>
+    <VVR name="KV50" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="14.25" x="108.61667" size="0"/>
+    </VVR>
+    <VVR name="KV51" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="13.666667" x="108.416664" size="0"/>
+    </VVR>
+    <VVR name="KV53" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="14.805278" x="108.96667" size="0"/>
+    </VVR>
+    <VVR name="KV56" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="14.25" x="109.46667" size="0"/>
+    </VVR>
+    <VVR name="KV57" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="13.666667" x="109.833336" size="0"/>
+    </VVR>
+    <VVR name="KV58" color="#FFB39A" type="CIRCLE" levelmin="10000" radius="17.4" enabled="false" weight="1" z-index="0">
+        <Point y="14.75" x="109.666664" size="0"/>
+    </VVR>	
+		
+	
+</VVRs>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>VJC320</Callsign>
+    <Address>888119</Address>
+    <FlightLevel>153.5</FlightLevel>
+    <Speed>374.44</Speed>
+    <Heading>249.64500427246094</Heading>
+    <VerticalRate>-14.75</VerticalRate>
+    <Longtitude>105.10580444335938</Longtitude>
+    <Latitude>10.255576133728027</Latitude>
+    <TimeOfDay>2154.03125</TimeOfDay>
+    <InitialTime>1596132370521</InitialTime>
+    <NIC>8</NIC>
+    <NAC>9</NAC>
+    <SIL>3</SIL>
+    <LastUpdateInMil>1596132370521</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

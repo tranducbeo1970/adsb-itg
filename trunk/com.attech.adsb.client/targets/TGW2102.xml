@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>TGW2102</Callsign>
+    <Address>76D244</Address>
+    <FlightLevel>359.75</FlightLevel>
+    <Speed>454.3</Speed>
+    <Heading>355.5090026855469</Heading>
+    <VerticalRate>-0.625</VerticalRate>
+    <Longtitude>101.92901611328125</Longtitude>
+    <Latitude>9.950515747070312</Latitude>
+    <TimeOfDay>1752.96875</TimeOfDay>
+    <InitialTime>1596131740169</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131740169</LastUpdateInMil>
+    <Mode3A>134</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

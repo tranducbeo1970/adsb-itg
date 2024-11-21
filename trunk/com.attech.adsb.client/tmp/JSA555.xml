@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>JSA555</Callsign>
+    <Address>76AA61</Address>
+    <FlightLevel>217.5</FlightLevel>
+    <Speed>405.24</Speed>
+    <Heading>34.16600036621094</Heading>
+    <VerticalRate>-6.375</VerticalRate>
+    <Longtitude>106.05187225341797</Longtitude>
+    <Latitude>9.979239463806152</Latitude>
+    <TimeOfDay>3031.1875</TimeOfDay>
+    <InitialTime>1596133701919</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701919</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

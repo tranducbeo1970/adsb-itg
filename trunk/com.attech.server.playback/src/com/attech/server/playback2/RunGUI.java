@@ -1,0 +1,410 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.attech.server.playback2;
+
+import com.attech.server.playback2.DialogBase;
+import com.attech.server.playback.Configuration;
+import java.awt.Cursor;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringWriter;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+import java.util.List;
+import java.util.Locale;
+import java.util.TimeZone;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.swing.JOptionPane;
+import javax.swing.JSlider;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableCellRenderer;
+
+/**
+ *
+ * @author root
+ */
+public class RunGUI extends DialogBase {
+
+    private final SimpleDateFormat format = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss.SSS a");
+    private TableHelper<PlayItemBase> helper;
+    private IPlayList2 playList;
+    
+    /**
+     * Creates new form RunGUI
+     */
+    public RunGUI(java.awt.Frame parent, boolean modal) {
+        super(parent, modal);
+        initComponents();
+        
+        Configuration.getInstance().load();
+        
+        helper = new TableHelper<>(this.jTable1, false, DefaultTableCellRenderer.class);
+        helper.addColumn("No", 30, 30, "#", "java.lang.Integer", DefaultTableCellRenderer.CENTER);
+        helper.addColumn("Name", 100, 100, "name", "java.lang.String");
+        helper.addColumn("Start", 100, 100, "startTime", "java.lang.String");
+        helper.addColumn("End", 100, 100, "endTime", "java.lang.String");
+        helper.addColumn("Status", 50, null, "itemStatus", "java.lang.String");
+        
+         if (Configuration.getInstance().isIsLocal()) {
+             playList = new PlaylistLocal2(Configuration.getInstance().getLocation());
+         } else {
+             playList = new PlayListSamba2(Configuration.getInstance().getLocation());
+         }
+         
+         txtLocation.setText(Configuration.getInstance().getLocation());
+        
+        playList.addListenre(new IPlayListEventListener() {
+
+            Calendar calendar = new GregorianCalendar(TimeZone.getDefault(), Locale.getDefault());
+            protected final SimpleDateFormat format = new SimpleDateFormat("HH:mm:ss");
+            
+            @Override
+            public void buildCompleted(List<PlayItemBase> items) {
+                helper.clear();
+                helper.add(items);
+            }
+
+            @Override
+            public void play(int fileIndex, int max) {
+                spinProgress.setMaximum(max);
+                spinProgress.setValue(0);
+                helper.update(fileIndex, 4, "Playing");
+                lblStart.setText(helper.getData().get(fileIndex).getStartTime());
+                lblEnd.setText(helper.getData().get(fileIndex).getEndTime());
+                lblCurrent.setText("");
+            }
+
+            @Override
+            public void stop(int fileIndex, boolean isEnd) {
+                lblCurrent.setText("");
+                helper.update(fileIndex, 4, "Stop");
+                if (!isEnd) return;
+                if (!playList.isAvailable()) return;
+                try {
+                    // playList.stop();
+                    playList.selectItem(fileIndex + 1);
+                    playList.play();
+                } catch (ClassNotFoundException | IOException ex) {
+                    Logger.getLogger(RunGUI.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+
+            @Override
+            public void pause(int fileIndex) {
+                helper.update(fileIndex, 4, "Pause");
+            }
+
+            @Override
+            public void progress(int progress, long time) {
+                // System.out.println("progress " + time);
+                spinProgress.setValue(progress);
+                calendar.setTimeInMillis(time);
+                lblCurrent.setText(format.format(calendar.getTime()));
+            }
+        });
+        
+        this.jTable1.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                if (e.getClickCount() == 2) {
+                    JTable target = (JTable) e.getSource();
+                    int row = target.getSelectedRow();
+                    try {
+                        playList.selectItem(row);
+                        playList.play();
+                    } catch (ClassNotFoundException | IOException ex) {
+                        Logger.getLogger(RunGUI.class.getName()).log(Level.SEVERE, null, ex);
+                    }
+                }
+            }
+        });
+    }
+    
+
+    /**
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The content of this method is always
+     * regenerated by the Form Editor.
+     */
+    @SuppressWarnings("unchecked")
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    private void initComponents() {
+
+        btnStop2 = new javax.swing.JButton();
+        btnPause2 = new javax.swing.JButton();
+        btnStart2 = new javax.swing.JButton();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        jTable1 = new javax.swing.JTable();
+        txtDate01 = new com.toedter.calendar.JDateChooser();
+        jLabel1 = new javax.swing.JLabel();
+        txtLocation = new javax.swing.JTextField();
+        jLabel2 = new javax.swing.JLabel();
+        spinProgress = new javax.swing.JSlider();
+        btnSpeed = new javax.swing.JButton();
+        lblStart = new javax.swing.JLabel();
+        lblEnd = new javax.swing.JLabel();
+        lblCurrent = new javax.swing.JLabel();
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+
+        btnStop2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/server/playback/images/stop.gif"))); // NOI18N
+        btnStop2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnStop2ActionPerformed(evt);
+            }
+        });
+
+        btnPause2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/server/playback/images/pause.gif"))); // NOI18N
+        btnPause2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnPause2ActionPerformed(evt);
+            }
+        });
+
+        btnStart2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/attech/server/playback/images/play.gif"))); // NOI18N
+        btnStart2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnStart2ActionPerformed(evt);
+            }
+        });
+
+        jTable1.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
+            },
+            new String [] {
+                "Title 1", "Title 2", "Title 3", "Title 4"
+            }
+        ));
+        jScrollPane1.setViewportView(jTable1);
+
+        txtDate01.setDateFormatString("dd/MM/yyyy");
+        txtDate01.addPropertyChangeListener(new java.beans.PropertyChangeListener() {
+            public void propertyChange(java.beans.PropertyChangeEvent evt) {
+                txtDate01PropertyChange(evt);
+            }
+        });
+
+        jLabel1.setText("Location");
+
+        txtLocation.setEditable(false);
+
+        jLabel2.setText("Date");
+
+        spinProgress.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseReleased(java.awt.event.MouseEvent evt) {
+                spinProgressMouseReleased(evt);
+            }
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                spinProgressMousePressed(evt);
+            }
+        });
+        spinProgress.addChangeListener(new javax.swing.event.ChangeListener() {
+            public void stateChanged(javax.swing.event.ChangeEvent evt) {
+                spinProgressStateChanged(evt);
+            }
+        });
+        spinProgress.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
+            public void mouseDragged(java.awt.event.MouseEvent evt) {
+                spinProgressMouseDragged(evt);
+            }
+        });
+
+        btnSpeed.setText("1x");
+        btnSpeed.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnSpeedActionPerformed(evt);
+            }
+        });
+
+        lblStart.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
+        lblStart.setText("start");
+
+        lblEnd.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        lblEnd.setText("end");
+
+        lblCurrent.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        lblCurrent.setText("current");
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jLabel2)
+                        .addGap(21, 21, 21)
+                        .addComponent(txtDate01, javax.swing.GroupLayout.PREFERRED_SIZE, 130, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(28, 28, 28)
+                        .addComponent(jLabel1)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(txtLocation))
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 465, Short.MAX_VALUE)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(btnSpeed)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(btnStop2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(btnPause2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(btnStart2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(lblStart, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(lblCurrent, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(98, 98, 98)
+                        .addComponent(lblEnd, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(spinProgress, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap())
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(txtDate01, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel2)
+                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(jLabel1)
+                        .addComponent(txtLocation, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(lblEnd, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(lblStart, javax.swing.GroupLayout.DEFAULT_SIZE, 18, Short.MAX_VALUE)
+                    .addComponent(lblCurrent, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(spinProgress, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(1, 1, 1)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.CENTER)
+                    .addComponent(btnStart2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btnPause2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btnStop2, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(btnSpeed))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    private void btnStop2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnStop2ActionPerformed
+        this.playList.stop();
+    }//GEN-LAST:event_btnStop2ActionPerformed
+
+    private void btnPause2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnPause2ActionPerformed
+        this.playList.pause();
+    }//GEN-LAST:event_btnPause2ActionPerformed
+
+    private void btnStart2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnStart2ActionPerformed
+        this.playList.play();
+    }//GEN-LAST:event_btnStart2ActionPerformed
+
+    private void txtDate01PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_txtDate01PropertyChange
+        if (!evt.getPropertyName().equals("date")) return;
+        
+        try {
+            this.setEnabled(false);
+            setCursor(Cursor.getPredefinedCursor(Cursor.WAIT_CURSOR));
+
+            Calendar calendar1 = txtDate01.getCalendar();
+            long time = calendar1.getTimeInMillis();
+            System.out.println(format.format(calendar1.getTime()));
+
+            calendar1.set(Calendar.AM_PM, 0);
+            calendar1.set(Calendar.HOUR_OF_DAY, 0);
+            calendar1.set(Calendar.MINUTE, 0);
+            calendar1.set(Calendar.SECOND, 0);
+            calendar1.set(Calendar.MILLISECOND, 0);
+            long start = calendar1.getTimeInMillis();
+
+            // calendar1.set(Calendar.PM, 1);
+            calendar1.set(Calendar.HOUR_OF_DAY, 23);
+            calendar1.set(Calendar.MINUTE, 59);
+            calendar1.set(Calendar.SECOND, 59);
+            calendar1.set(Calendar.MILLISECOND, 999);
+            long end = calendar1.getTimeInMillis();
+            int i = calendar1.get(Calendar.HOUR_OF_DAY);
+            System.out.println("hour of day: " + i);
+            System.out.println("start: " + start);
+            System.out.println("end: " + end);
+            System.out.println("system: " + System.currentTimeMillis());
+
+            Calendar calendar = new GregorianCalendar(TimeZone.getDefault(), Locale.getDefault());
+            calendar.setTimeInMillis(start);
+            System.out.println(format.format(calendar.getTime()));
+
+            calendar.setTimeInMillis(end);
+            System.out.println(format.format(calendar.getTime()));
+            // playList.Build(start, end);
+
+            calendar.setTimeInMillis(time);
+            System.out.println(format.format(calendar.getTime()));
+
+            playList.build(start, end);
+        } catch (Exception ex) {
+            final StringWriter sw = new StringWriter();
+            PrintWriter pw = new PrintWriter(sw);
+            ex.printStackTrace(pw);
+            JOptionPane.showMessageDialog(null, sw.toString(), "Error", JOptionPane.ERROR_MESSAGE);
+        } finally {
+            this.setEnabled(true);
+            setCursor(Cursor.getPredefinedCursor(Cursor.DEFAULT_CURSOR));
+        }
+        
+    }//GEN-LAST:event_txtDate01PropertyChange
+
+    private void spinProgressStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_spinProgressStateChanged
+        if (((JSlider ) evt.getSource()).getValueIsAdjusting()) {
+            // this.playList.seek(this.spinProgress.getValue());
+        }
+
+    }//GEN-LAST:event_spinProgressStateChanged
+
+    private void spinProgressMouseDragged(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_spinProgressMouseDragged
+        System.out.println("Drag " + this.spinProgress.getValue());
+    }//GEN-LAST:event_spinProgressMouseDragged
+
+    private void spinProgressMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_spinProgressMouseReleased
+       
+        this.playList.seek(this.spinProgress.getValue());
+    }//GEN-LAST:event_spinProgressMouseReleased
+
+    private void spinProgressMousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_spinProgressMousePressed
+         this.playList.pause();
+    }//GEN-LAST:event_spinProgressMousePressed
+
+    private void btnSpeedActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSpeedActionPerformed
+        this.playList.increaseSpeed();
+        btnSpeed.setText(this.playList.getSpeed() + "x");
+    }//GEN-LAST:event_btnSpeedActionPerformed
+
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnPause2;
+    private javax.swing.JButton btnSpeed;
+    private javax.swing.JButton btnStart2;
+    private javax.swing.JButton btnStop2;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JTable jTable1;
+    private javax.swing.JLabel lblCurrent;
+    private javax.swing.JLabel lblEnd;
+    private javax.swing.JLabel lblStart;
+    private javax.swing.JSlider spinProgress;
+    private com.toedter.calendar.JDateChooser txtDate01;
+    private javax.swing.JTextField txtLocation;
+    // End of variables declaration//GEN-END:variables
+}
+

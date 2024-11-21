@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>NCA254</Callsign>
+    <Address>841093</Address>
+    <FlightLevel>339.75</FlightLevel>
+    <Speed>496.98</Speed>
+    <Heading>353.8424987792969</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>102.18994140625</Longtitude>
+    <Latitude>7.2318339347839355</Latitude>
+    <TimeOfDay>3031.453125</TimeOfDay>
+    <InitialTime>1596133701388</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133701388</LastUpdateInMil>
+    <Mode3A>2233</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

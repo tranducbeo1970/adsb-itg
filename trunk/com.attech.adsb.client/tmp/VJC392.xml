@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>VJC392</Callsign>
+    <Address>8880B7</Address>
+    <FlightLevel>112.0</FlightLevel>
+    <Speed>341.0</Speed>
+    <Heading>17.97949981689453</Heading>
+    <VerticalRate>10.25</VerticalRate>
+    <Longtitude>106.67127990722656</Longtitude>
+    <Latitude>11.104559898376465</Latitude>
+    <TimeOfDay>3030.390625</TimeOfDay>
+    <InitialTime>1596133699964</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133699964</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

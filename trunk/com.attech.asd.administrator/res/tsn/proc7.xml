@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="TS616" x="106.5344" y="10.7725"/>
+	<Point name="TS636" x="106.4800" y="10.9130"/>
+	<Point name="TS638" x="106.5822" y="10.9916"/>
+	<Point name="TS686" x="106.7850" y="11.1472"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="PATMA" x="107.8099" y="12.3363"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="DOVIN" x="108.1080" y="11.9169"/>
+	<Point name="DILIN" x="108.1386" y="11.6036"/>
+	<Point name="PTH" x="108.0719" y="10.9280"/>
+	<Point name="TS641" x="106.5736" y="10.5236"/>
+	<Point name="TS642" x="106.5916" y="10.4077"/>
+	<Point name="TS644" x="106.6219" y="10.2122"/>
+	<Point name="LATHA" x="106.6336" y="10.1383"/>
+	<Point name="NIXUP" x="106.6305" y="9.38916"/>
+	<Point name="TS618" x="106.3086" y="10.6863"/>
+	<Point name="KANTA" x="106.0986" y="10.3927"/>
+	<Point name="ANHOA" x="105.9083" y="9.78722"/>
+	<Point name="BASON" x="106.0011" y="10.5850"/>
+	<Point name="MISAN" x="106.0500" y="10.4805"/>
+	<Point name="TRN" x="105.7055" y="10.0833"/>
+	<Point name="SAPEN" x="106.1833" y="11.0200"/>
+	<Point name="RW25L" x="106.6694" y="10.8236"/>
+	<Point name="RW25R" x="106.6630" y="10.8247"/>
+</ListPoints>

@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airport name="CAM RANH" path="res/cra/airport.xml" displayCircle="true" displayArc="true" enabled="true" selected="false">
+    <Point y="11.9944" x="109.22" size="0"/>
+	
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="5" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="10" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="15" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="20" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="25" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="30" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="35" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="40" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="45" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="11.9944" x="109.22" radius="50" measureUnit="NM" color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	
+	<Circle type="ARC" y="11.9944" x="109.22" radius="50" measureUnit="NM" color="#69fa02" mode="LINE" z-index="1" weight="1" transparent="true" colorTransparent="#69fa02" />
+	
+    <Regions type="PROC">
+        <RegionGroup type="PROC" name="PROC">
+            <Region name="SID-02" type="PROC" enabled="true" displayName="false" selected="true">
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>THAKA</Point>
+                    <Point>CR303</Point>
+                    <Point>CR301</Point>
+                    <Point>CR300</Point>
+                    <Point>CRA</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR303</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR301</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>RABIN</Point>
+                    <Point>FURAL</Point>
+                    <Point>CR300</Point>
+                </RegionLine>
+                <Ref>res/cra/proc.xml</Ref>
+            </Region>
+            <Region name="STAR-02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR027</Point>
+                    <Point>CR025</Point>
+                    <Point>CR021</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR027</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BIDAM</Point>
+                    <Point>SOTEN</Point>
+                    <Point>CR027</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>KAMGO</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR026</Point>
+                    <Point>CR025</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR026</Point>
+                </RegionLine>
+                <Ref>res/cra/proc1.xml</Ref>
+            </Region>
+            <Region name="RNAV-02" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR022</Point>
+                    <Point>CR021</Point>
+                    <Point>CR220</Point>
+                    <Point>CR219</Point>
+                    <Point>CR218</Point>
+                    <Point>MAPTRWY02</Point>
+                    <Point>CR023</Point>
+                    <Point>CR022</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc2.xml</Ref>
+            </Region>
+            <Region name="ILSZ 02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR022</Point>
+                    <Point>CR021</Point>
+                    <Point>CR220</Point>
+                    <Point>CR219</Point>
+                    <Point>CR218</Point>
+                    <Point>MAPTRWY02</Point>
+                    <Point>CR022</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc3.xml</Ref>
+            </Region>
+            <Region name="SID-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR403</Point>
+                    <Point>CR402</Point>
+                    <Point>CR401</Point>
+                    <Point>CR400</Point>
+                    <Point>ARP</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR404</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOTEN</Point>
+                    <Point>CR405</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR406</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>TEMMA</Point>
+                    <Point>KOPOM</Point>
+                    <Point>CR401</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <Ref>res/cra/proc4.xml</Ref>
+            </Region>
+            <Region name="STAR-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>HAPHA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR211</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR201</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>SIMME</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR202</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="CIRCLE" radius="40.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc5.xml</Ref>
+            </Region>
+            <Region name="RNAV-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR209</Point>
+                    <Point>CR203</Point>
+                    <Point>CR204</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR203</Point>
+                    <Point>CR201</Point>
+                    <Point>CR223</Point>
+                    <Point>CR222</Point>
+                    <Point>CR205</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR202</Point>
+                    <Point>CR203</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc6.xml</Ref>
+            </Region>
+            <Region name="ROUTE_PR" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PRI</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO4</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV70</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TOADO7</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>HONTY</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>HTRUNG</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>TOADO14</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO15</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <Ref>res/cra/proc7.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-01" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR403</Point>
+                    <Point>CR402</Point>
+                    <Point>CR401</Point>
+                    <Point>CR400</Point>
+                    <Point>ARP</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR404</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOTEN</Point>
+                    <Point>CR405</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR406</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>TEMMA</Point>
+                    <Point>KOPOM</Point>
+                    <Point>CR401</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <Ref>res/cra/proc9.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-02" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>HAPHA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR211</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR201</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>SIMME</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR202</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="CIRCLE" radius="40.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc10.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-03" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR209</Point>
+                    <Point>CR203</Point>
+                    <Point>CR204</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR203</Point>
+                    <Point>CR201</Point>
+                    <Point>CR223</Point>
+                    <Point>CR222</Point>
+                    <Point>CR205</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR202</Point>
+                    <Point>CR203</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc11.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-04" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PRI</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO4</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV70</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TOADO7</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>HONTY</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>HTRUNG</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>TOADO14</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO15</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <Ref>res/cra/proc12.xml</Ref>
+            </Region>
+            <Region name="SADDNEW-05" type="PROC" enabled="true" displayName="true" selected="false">
+                <Ref>res/cra/proc13.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="PROC-1">
+            <Region name="SID-02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>THAKA</Point>
+                    <Point>CR303</Point>
+                    <Point>CR301</Point>
+                    <Point>CR300</Point>
+                    <Point>CRA</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR303</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR301</Point>
+                </RegionLine>
+                <RegionLine color="#C8802F" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>RABIN</Point>
+                    <Point>FURAL</Point>
+                    <Point>CR300</Point>
+                </RegionLine>
+                <Ref>res/cra/proc.xml</Ref>
+            </Region>
+            <Region name="STAR-02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR027</Point>
+                    <Point>CR025</Point>
+                    <Point>CR021</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR027</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BIDAM</Point>
+                    <Point>SOTEN</Point>
+                    <Point>CR027</Point>
+                </RegionLine>
+                <RegionLine color="#5876C2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>KAMGO</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR026</Point>
+                    <Point>CR025</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR026</Point>
+                </RegionLine>
+                <Ref>res/cra/proc1.xml</Ref>
+            </Region>
+            <Region name="RNAV-02" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR022</Point>
+                    <Point>CR021</Point>
+                    <Point>CR220</Point>
+                    <Point>CR219</Point>
+                    <Point>CR218</Point>
+                    <Point>MAPTRWY02</Point>
+                    <Point>CR023</Point>
+                    <Point>CR022</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc2.xml</Ref>
+            </Region>
+            <Region name="ILSZ 02" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR022</Point>
+                    <Point>CR021</Point>
+                    <Point>CR220</Point>
+                    <Point>CR219</Point>
+                    <Point>CR218</Point>
+                    <Point>MAPTRWY02</Point>
+                    <Point>CR022</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc3.xml</Ref>
+            </Region>
+            <Region name="SID-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR403</Point>
+                    <Point>CR402</Point>
+                    <Point>CR401</Point>
+                    <Point>CR400</Point>
+                    <Point>ARP</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR404</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOTEN</Point>
+                    <Point>CR405</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR406</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>TEMMA</Point>
+                    <Point>KOPOM</Point>
+                    <Point>CR401</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <Ref>res/cra/proc4.xml</Ref>
+            </Region>
+            <Region name="STAR-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>HAPHA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR211</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR201</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>SIMME</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR202</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="CIRCLE" radius="40.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc5.xml</Ref>
+            </Region>
+            <Region name="RNAV-20" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR209</Point>
+                    <Point>CR203</Point>
+                    <Point>CR204</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR203</Point>
+                    <Point>CR201</Point>
+                    <Point>CR223</Point>
+                    <Point>CR222</Point>
+                    <Point>CR205</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR202</Point>
+                    <Point>CR203</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc6.xml</Ref>
+            </Region>
+            <Region name="ROUTE_PR" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PRI</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO4</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV70</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TOADO7</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>HONTY</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>HTRUNG</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>TOADO14</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO15</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <Ref>res/cra/proc7.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-01" type="PROC" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>IBUNU</Point>
+                    <Point>ANKIN</Point>
+                    <Point>CR403</Point>
+                    <Point>CR402</Point>
+                    <Point>CR401</Point>
+                    <Point>CR400</Point>
+                    <Point>ARP</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOSPA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR404</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOTEN</Point>
+                    <Point>CR405</Point>
+                    <Point>CR403</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KARAN</Point>
+                    <Point>NIHOA</Point>
+                    <Point>CR406</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <RegionLine color="#c87f2e" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NITOM</Point>
+                    <Point>TEMMA</Point>
+                    <Point>KOPOM</Point>
+                    <Point>CR401</Point>
+                    <Point>CR402</Point>
+                </RegionLine>
+                <Ref>res/cra/proc9.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-02" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>HAPHA</Point>
+                    <Point>BANKE</Point>
+                    <Point>CR211</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CHUTU</Point>
+                    <Point>PANLU</Point>
+                    <Point>CR209</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LIGUN</Point>
+                    <Point>HUNTA</Point>
+                    <Point>CR201</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KAMGO</Point>
+                    <Point>SIMME</Point>
+                    <Point>COTUN</Point>
+                    <Point>CR202</Point>
+                </RegionLine>
+                <RegionLine color="#5776c2" type="CIRCLE" radius="40.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc10.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-03" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR209</Point>
+                    <Point>CR203</Point>
+                    <Point>CR204</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR203</Point>
+                    <Point>CR201</Point>
+                    <Point>CR223</Point>
+                    <Point>CR222</Point>
+                    <Point>CR205</Point>
+                    <Point>THR20</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR202</Point>
+                    <Point>CR203</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="CIRCLE" radius="20.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/cra/proc11.xml</Ref>
+            </Region>
+            <Region name="ADDNEW-04" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PRI</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO4</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV70</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TOADO7</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>TAMKV73</Point>
+                    <Point>PQ</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>KEGA</Point>
+                    <Point>MAYTAO</Point>
+                    <Point>PTH</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>PQ</Point>
+                    <Point>HONTY</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>HTRUNG</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>DL</Point>
+                    <Point>TOADO14</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PR</Point>
+                    <Point>MD</Point>
+                    <Point>TOADO15</Point>
+                    <Point>PR</Point>
+                </RegionLine>
+                <Ref>res/cra/proc12.xml</Ref>
+            </Region>
+            <Region name="SADDNEW-05" type="PROC" enabled="true" displayName="true" selected="false">
+                <Ref>res/cra/proc13.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="TMA">
+        <RegionGroup type="TMA" name="TMA">
+            <Region name="TMA CAM RANH" type="TMA" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR2950-1</Point>
+                    <Point>CR2950-2</Point>
+                    <Point>CR2950-3</Point>
+                    <Point>CR2950-4</Point>
+                    <Point>CR2950-TEXTPOS-9700</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR2650-1</Point>
+                    <Point>CR2650-2</Point>
+                    <Point>CR2650-3</Point>
+                    <Point>CR2650-4</Point>
+                    <Point>CR2650-5</Point>
+                    <Point>CR2650-6</Point>
+                    <Point>CR2650-7</Point>
+                    <Point>CR2650-8</Point>
+                    <Point>CR2650-9</Point>
+                    <Point>CR2650-TEXTPOS-8700</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR2100-1</Point>
+                    <Point>CR2100-2</Point>
+                    <Point>CR2100-3</Point>
+                    <Point>CR2100-4</Point>
+                    <Point>CR2100-5</Point>
+                    <Point>CR2100-6</Point>
+                    <Point>CR2100-7</Point>
+                    <Point>CR2100-8</Point>
+                    <Point>CR2100-9</Point>
+                    <Point>CR2100-10</Point>
+                    <Point>CR2100-11</Point>
+                    <Point>CR2100-TEXTPOS-6900</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR1700-1</Point>
+                    <Point>CR1700-2</Point>
+                    <Point>CR1700-3</Point>
+                    <Point>CR1700-4</Point>
+                    <Point>CR1700-5</Point>
+                    <Point>CR1700-TEXTPOS-5600</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR1250-1</Point>
+                    <Point>CR1250-2</Point>
+                    <Point>CR1250-TEXTPOS-4200</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR1200-1</Point>
+                    <Point>CR1200-2</Point>
+                    <Point>CR1200-3</Point>
+                    <Point>CR1200-4</Point>
+                    <Point>CR1200-5</Point>
+                    <Point>CR1200-TEXTPOS-4000</Point>
+                </RegionLine>
+                <RegionLine color="#666666" type="DOT_LINE" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR1000-1</Point>
+                    <Point>CR1000-2</Point>
+                    <Point>CR1000-3</Point>
+                    <Point>CR1000-4</Point>
+                    <Point>CR1000-5</Point>
+                    <Point>CR1000-6</Point>
+                    <Point>CR1000-TEXTPOS-3300</Point>
+                </RegionLine>
+                <RegionLine color="#727272" type="CIRCLE" radius="74.34" angles="0,360" weight="1" z-index="1">
+                    <Point>CR750-ARC</Point>
+                </RegionLine>
+                <Ref>res/cra/tma.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="APP">
+        <RegionGroup type="APP" name="APP">
+            <Region name="APP CAM RANH" type="APP" enabled="true" displayName="true" selected="true">
+                <RegionLine color="#66b2b2" type="CIRCLE" radius="74.34" angles="294,310" weight="1" z-index="1">
+                    <Point>CR3-ARC</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR3-2</Point>
+                    <Point>CR3-3</Point>
+                    <Point>CR3-4</Point>
+                    <Point>CR3-5</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="CIRCLE" radius="74.34" angles="347,13" weight="1" z-index="1">
+                    <Point>CR3-ARC</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR3-8</Point>
+                    <Point>CR3-9</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="CIRCLE" radius="64.5" angles="15,49" weight="1" z-index="1">
+                    <Point>CR3-ARC</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR3-12</Point>
+                    <Point>CR3-13</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="CIRCLE" radius="74.34" angles="53,137" weight="1" z-index="1">
+                    <Point>CR3-ARC</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR3-16</Point>
+                    <Point>CR3-17</Point>
+                    <Point>CR3-18</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="CIRCLE" radius="40.0" angles="190,287" weight="1" z-index="1">
+                    <Point>CR3-ARC</Point>
+                </RegionLine>
+                <RegionLine color="#66b2b2" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR3-21</Point>
+                    <Point>CR3-22</Point>
+                </RegionLine>
+                <Ref>res/cra/app.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="RWY">
+        <RegionGroup type="RWY" name="RWY">
+            <Region name="CR02L" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="0">
+                    <Point>CR02L</Point>
+                </RegionLine>
+                <Ref>res/cra/rwy.xml</Ref>
+            </Region>
+            <Region name="CR20R" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>CR20R</Point>
+                </RegionLine>
+                <Ref>res/cra/rwy.xml</Ref>
+            </Region>
+            <Region name="CR02R" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="2">
+                    <Point>CR02R</Point>
+                </RegionLine>
+                <Ref>res/cra/rwy.xml</Ref>
+            </Region>
+            <Region name="CR20L" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="3">
+                    <Point>CR20L</Point>
+                </RegionLine>
+                <Ref>res/cra/rwy.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+</Airport>

@@ -1,0 +1,2369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GroundStations>
+    <Station Name="AGSAM" Enabled="true">
+        <X>112.58833</X>
+        <Y>11.471666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>AGSAM</Content>
+        </Label>
+    </Station>
+    <Station Name="AKMON" Enabled="true">
+        <X>110.21833</X>
+        <Y>8.215</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>AKMON</Content>
+        </Label>
+    </Station>
+    <Station Name="ALDAS" Enabled="true">
+        <X>112.205</X>
+        <Y>10.948334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ALDAS</Content>
+        </Label>
+    </Station>
+    <Station Name="ANHOA" Enabled="true">
+        <X>105.90833</X>
+        <Y>9.787222</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ANHOA</Content>
+        </Label>
+    </Station>
+    <Station Name="ANINA" Enabled="true">
+        <X>107.416664</X>
+        <Y>13.983334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ANINA</Content>
+        </Label>
+    </Station>
+    <Station Name="ANOKI" Enabled="true">
+        <X>113.25</X>
+        <Y>12.366667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ANOKI</Content>
+        </Label>
+    </Station>
+    <Station Name="ARESI" Enabled="true">
+        <X>114.45</X>
+        <Y>13.973333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ARESI</Content>
+        </Label>
+    </Station>
+    <Station Name="ASSAD" Enabled="true">
+        <X>107.68139</X>
+        <Y>18.34111</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ASSAD</Content>
+        </Label>
+    </Station>
+    <Station Name="BALOV" Enabled="true">
+        <X>107.70861</X>
+        <Y>20.129723</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BALOV</Content>
+        </Label>
+    </Station>
+    <Station Name="BATEM" Enabled="true">
+        <X>107.76556</X>
+        <Y>15.931389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BATEM</Content>
+        </Label>
+    </Station>
+    <Station Name="BIBAN" Enabled="true">
+        <X>105.0</X>
+        <Y>8.5</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BIBAN</Content>
+        </Label>
+    </Station>
+    <Station Name="BITIS" Enabled="true">
+        <X>106.24834</X>
+        <Y>10.266389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BITIS</Content>
+        </Label>
+    </Station>
+    <Station Name="BITOD" Enabled="true">
+        <X>104.11833</X>
+        <Y>7.2566667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BITOD</Content>
+        </Label>
+    </Station>
+    <Station Name="BOMPA" Enabled="true">
+        <X>107.4</X>
+        <Y>14.333333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BOMPA</Content>
+        </Label>
+    </Station>
+    <Station Name="BUNTA" Enabled="true">
+        <X>109.395</X>
+        <Y>16.833334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BUNTA</Content>
+        </Label>
+    </Station>
+    <Station Name="CAMPU" Enabled="true">
+        <X>104.14111</X>
+        <Y>10.5</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>CAMPU</Content>
+        </Label>
+    </Station>
+    <Station Name="CONDA" Enabled="true">
+        <X>106.474724</X>
+        <Y>8.957222</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>CONDA</Content>
+        </Label>
+    </Station>
+    <Station Name="CUCHI" Enabled="true">
+        <X>106.46111</X>
+        <Y>10.897778</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>CUCHI</Content>
+        </Label>
+    </Station>
+    <Station Name="DADEM" Enabled="true">
+        <X>105.22806</X>
+        <Y>10.8955555</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DADEM</Content>
+        </Label>
+    </Station>
+    <Station Name="DAGAG" Enabled="true">
+        <X>108.441666</X>
+        <Y>9.463333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DAGAG</Content>
+        </Label>
+    </Station>
+    <Station Name="DAMEL" Enabled="true">
+        <X>111.51</X>
+        <Y>13.978333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DAMEL</Content>
+        </Label>
+    </Station>
+    <Station Name="DAMVO" Enabled="true">
+        <X>109.545</X>
+        <Y>11.108334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DAMVO</Content>
+        </Label>
+    </Station>
+    <Station Name="DONDA" Enabled="true">
+        <X>112.02167</X>
+        <Y>14.703333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DONDA</Content>
+        </Label>
+    </Station>
+    <Station Name="DONGI" Enabled="true">
+        <X>106.595276</X>
+        <Y>17.681389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DONGI</Content>
+        </Label>
+    </Station>
+    <Station Name="DONXO" Enabled="true">
+        <X>106.95167</X>
+        <Y>11.423333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DONXO</Content>
+        </Label>
+    </Station>
+    <Station Name="DOXAR" Enabled="true">
+        <X>110.378334</X>
+        <Y>12.366667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DOXAR</Content>
+        </Label>
+    </Station>
+    <Station Name="DUDIS" Enabled="true">
+        <X>106.81</X>
+        <Y>7.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DUDIS</Content>
+        </Label>
+    </Station>
+    <Station Name="EGEMU" Enabled="true">
+        <X>112.28333</X>
+        <Y>17.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EGEMU</Content>
+        </Label>
+    </Station>
+    <Station Name="ELSAS" Enabled="true">
+        <X>107.54833</X>
+        <Y>10.136666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ELSAS</Content>
+        </Label>
+    </Station>
+    <Station Name="ESPOB" Enabled="true">
+        <X>105.555</X>
+        <Y>7.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ESPOB</Content>
+        </Label>
+    </Station>
+    <Station Name="EXOTO" Enabled="true">
+        <X>111.05</X>
+        <Y>15.358334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EXOTO</Content>
+        </Label>
+    </Station>
+    <Station Name="GONLY" Enabled="true">
+        <X>107.5</X>
+        <Y>13.666667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>GONLY</Content>
+        </Label>
+    </Station>
+    <Station Name="HAMIN" Enabled="true">
+        <X>107.67778</X>
+        <Y>17.129723</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>HAMIN</Content>
+        </Label>
+    </Station>
+    <Station Name="HATIN" Enabled="true">
+        <X>107.04889</X>
+        <Y>18.466944</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>HATIN</Content>
+        </Label>
+    </Station>
+    <Station Name="IGARI" Enabled="true">
+        <X>103.585</X>
+        <Y>6.9366665</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>IGARI</Content>
+        </Label>
+    </Station>
+    <Station Name="IPRIX" Enabled="true">
+        <X>104.13167</X>
+        <Y>7.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>IPRIX</Content>
+        </Label>
+    </Station>
+    <Station Name="ITBAM" Enabled="true">
+        <X>109.60167</X>
+        <Y>16.666666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ITBAM</Content>
+        </Label>
+    </Station>
+    <Station Name="KADIM" Enabled="true">
+        <X>106.09778</X>
+        <Y>18.652222</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KADIM</Content>
+        </Label>
+    </Station>
+    <Station Name="KANTA" Enabled="true">
+        <X>106.09861</X>
+        <Y>10.392777</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KANTA</Content>
+        </Label>
+    </Station>
+    <Station Name="KAMSU" Enabled="true">
+        <X>106.09333</X>
+        <Y>18.25361</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KAMSU</Content>
+        </Label>
+    </Station>
+    <Station Name="KARAN" Enabled="true">
+        <X>109.15667</X>
+        <Y>12.648889</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KARAN</Content>
+        </Label>
+    </Station>
+    <Station Name="KATBO" Enabled="true">
+        <X>105.291664</X>
+        <Y>23.36</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KATBO</Content>
+        </Label>
+    </Station>
+    <Station Name="KISAN" Enabled="true">
+        <X>104.675</X>
+        <Y>10.538889</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KISAN</Content>
+        </Label>
+    </Station>
+    <Station Name="KONCO" Enabled="true">
+        <X>107.18694</X>
+        <Y>17.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KONCO</Content>
+        </Label>
+    </Station>
+    <Station Name="LADON" Enabled="true">
+        <X>102.96694</X>
+        <Y>21.103611</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LADON</Content>
+        </Label>
+    </Station>
+    <Station Name="LAOCAI" Enabled="true">
+        <X>103.96528</X>
+        <Y>22.486668</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAOCAI</Content>
+        </Label>
+    </Station>
+    <Station Name="LAPON" Enabled="true">
+        <X>104.475</X>
+        <Y>20.75</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAPON</Content>
+        </Label>
+    </Station>
+    <Station Name="LATHA" Enabled="true">
+        <X>106.63361</X>
+        <Y>10.138333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LATHA</Content>
+        </Label>
+    </Station>
+    <Station Name="LAVAN" Enabled="true">
+        <X>105.691666</X>
+        <Y>14.175</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAVAN</Content>
+        </Label>
+    </Station>
+    <Station Name="LAVOS" Enabled="true">
+        <X>104.397224</X>
+        <Y>20.434723</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAVOS</Content>
+        </Label>
+    </Station>
+    <Station Name="LITAM" Enabled="true">
+        <X>106.70167</X>
+        <Y>8.993611</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LITAM</Content>
+        </Label>
+    </Station>
+    <Station Name="LOSON" Enabled="true">
+        <X>107.075554</X>
+        <Y>10.493334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LOSON</Content>
+        </Label>
+    </Station>
+    <Station Name="MAPNO" Enabled="true">
+        <X>110.335</X>
+        <Y>10.218333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MAPNO</Content>
+        </Label>
+    </Station>
+    <Station Name="MAREL" Enabled="true">
+        <X>106.69361</X>
+        <Y>19.228056</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MAREL</Content>
+        </Label>
+    </Station>
+    <Station Name="MELAS" Enabled="true">
+        <X>108.153336</X>
+        <Y>7.088333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MELAS</Content>
+        </Label>
+    </Station>
+    <Station Name="MEOVA" Enabled="true">
+        <X>105.31</X>
+        <Y>23.115</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MEOVA</Content>
+        </Label>
+    </Station>
+    <Station Name="MESOX" Enabled="true">
+        <X>113.045</X>
+        <Y>13.98</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MESOX</Content>
+        </Label>
+    </Station>
+    <Station Name="MIGUG" Enabled="true">
+        <X>114.0</X>
+        <Y>15.273334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MIGUG</Content>
+        </Label>
+    </Station>
+    <Station Name="MIMUX" Enabled="true">
+        <X>111.10333</X>
+        <Y>11.305</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MIMUX</Content>
+        </Label>
+    </Station>
+    <Station Name="MOXON" Enabled="true">
+        <X>109.355</X>
+        <Y>8.825</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MOXON</Content>
+        </Label>
+    </Station>
+    <Station Name="MUGAN" Enabled="true">
+        <X>111.871666</X>
+        <Y>12.366667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MUGAN</Content>
+        </Label>
+    </Station>
+    <Station Name="NAKHA" Enabled="true">
+        <X>106.49333</X>
+        <Y>21.966667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NAKHA</Content>
+        </Label>
+    </Station>
+    <Station Name="NALAO" Enabled="true">
+        <X>103.92639</X>
+        <Y>19.324167</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NALAO</Content>
+        </Label>
+    </Station>
+    <Station Name="NHATA" Enabled="true">
+        <X>109.20111</X>
+        <Y>12.226389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NHATA</Content>
+        </Label>
+    </Station>
+    <Station Name="NITOM" Enabled="true">
+        <X>110.640274</X>
+        <Y>12.741944</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NITOM</Content>
+        </Label>
+    </Station>
+    <Station Name="PADMA" Enabled="true">
+        <X>103.78</X>
+        <Y>10.430834</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>PADMA</Content>
+        </Label>
+    </Station>
+    <Station Name="PANDI" Enabled="true">
+        <X>114.0</X>
+        <Y>11.635</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>PANDI</Content>
+        </Label>
+    </Station>
+    <Station Name="PAPRA" Enabled="true">
+        <X>107.183334</X>
+        <Y>15.766666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>PAPRA</Content>
+        </Label>
+    </Station>
+    <Station Name="POPET" Enabled="true">
+        <X>105.95</X>
+        <Y>11.1</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>POPET</Content>
+        </Label>
+    </Station>
+    <Station Name="POTIX" Enabled="true">
+        <X>105.61667</X>
+        <Y>10.234722</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>POTIX</Content>
+        </Label>
+    </Station>
+    <Station Name="SAMOG" Enabled="true">
+        <X>103.24</X>
+        <Y>8.001667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAMOG</Content>
+        </Label>
+    </Station>
+    <Station Name="SAPEN" Enabled="true">
+        <X>106.183334</X>
+        <Y>11.02</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAPEN</Content>
+        </Label>
+    </Station>
+    <Station Name="SOSPA" Enabled="true">
+        <X>108.64083</X>
+        <Y>11.833889</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SOSPA</Content>
+        </Label>
+    </Station>
+    <Station Name="TEBAK" Enabled="true">
+        <X>106.675</X>
+        <Y>22.175</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TEBAK</Content>
+        </Label>
+    </Station>
+    <Station Name="VEPAM" Enabled="true">
+        <X>110.0</X>
+        <Y>13.966666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VEPAM</Content>
+        </Label>
+    </Station>
+    <Station Name="VILAO" Enabled="true">
+        <X>106.083336</X>
+        <Y>17.366667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VILAO</Content>
+        </Label>
+    </Station>
+    <Station Name="VIMBU" Enabled="true">
+        <X>105.51444</X>
+        <Y>10.409166</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VIMBU</Content>
+        </Label>
+    </Station>
+    <Station Name="XONAN" Enabled="true">
+        <X>102.80666</X>
+        <Y>9.3330555</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>XONAN</Content>
+        </Label>
+    </Station>
+    <Station Name="XONUS" Enabled="true">
+        <X>107.233055</X>
+        <Y>18.07</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>XONUS</Content>
+        </Label>
+    </Station>
+    <Station Name="TODAM" Enabled="true">
+        <X>112.59333</X>
+        <Y>6.527222</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TODAM</Content>
+        </Label>
+    </Station>
+    <Station Name="IKUKO" Enabled="true">
+        <X>103.223335</X>
+        <Y>5.753333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>IKUKO</Content>
+        </Label>
+    </Station>
+    <Station Name="GUNBO" Enabled="true">
+        <X>102.83139</X>
+        <Y>4.865556</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>GUNBO</Content>
+        </Label>
+    </Station>
+    <Station Name="MENAM" Enabled="true">
+        <X>102.791664</X>
+        <Y>13.956667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MENAM</Content>
+        </Label>
+    </Station>
+    <Station Name="VIBUN" Enabled="true">
+        <X>105.43166</X>
+        <Y>13.796667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VIBUN</Content>
+        </Label>
+    </Station>
+    <Station Name="SOURN" Enabled="true">
+        <X>106.0</X>
+        <Y>13.758333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SOURN</Content>
+        </Label>
+    </Station>
+    <Station Name="SATON" Enabled="true">
+        <X>104.56333</X>
+        <Y>12.95</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SATON</Content>
+        </Label>
+    </Station>
+    <Station Name="AKNAT" Enabled="true">
+        <X>103.66417</X>
+        <Y>12.197778</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>AKNAT</Content>
+        </Label>
+    </Station>
+    <Station Name="BIDEG" Enabled="true">
+        <X>103.50833</X>
+        <Y>12.066667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BIDEG</Content>
+        </Label>
+    </Station>
+    <Station Name="ANOBO" Enabled="true">
+        <X>102.23444</X>
+        <Y>11.050555</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ANOBO</Content>
+        </Label>
+    </Station>
+    <Station Name="EMELA" Enabled="true">
+        <X>101.124725</X>
+        <Y>10.213611</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EMELA</Content>
+        </Label>
+    </Station>
+    <Station Name="BASIT" Enabled="true">
+        <X>102.35167</X>
+        <Y>9.58</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BASIT</Content>
+        </Label>
+    </Station>
+    <Station Name="ALPHA" Enabled="true">
+        <X>103.327774</X>
+        <Y>18.540833</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ALPHA</Content>
+        </Label>
+    </Station>
+    <Station Name="NOHET" Enabled="true">
+        <X>103.6175</X>
+        <Y>19.425833</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NOHET</Content>
+        </Label>
+    </Station>
+    <Station Name="AKSAG" Enabled="true">
+        <X>100.46861</X>
+        <Y>20.814167</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>AKSAG</Content>
+        </Label>
+    </Station>
+    <Station Name="SAGAG" Enabled="true">
+        <X>101.62334</X>
+        <Y>21.191668</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAGAG</Content>
+        </Label>
+    </Station>
+    <Station Name="BIDRU" Enabled="true">
+        <X>100.965</X>
+        <Y>22.718334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BIDRU</Content>
+        </Label>
+    </Station>
+    <Station Name="KADIN" Enabled="true">
+        <X>104.0</X>
+        <Y>18.447779</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KADIN</Content>
+        </Label>
+    </Station>
+    <Station Name="TANGO" Enabled="true">
+        <X>104.905556</X>
+        <Y>17.422777</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TANGO</Content>
+        </Label>
+    </Station>
+    <Station Name="DELTA" Enabled="true">
+        <X>105.75139</X>
+        <Y>15.9975</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DELTA</Content>
+        </Label>
+    </Station>
+    <Station Name="RELIP" Enabled="true">
+        <X>100.43833</X>
+        <Y>8.0075</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>RELIP</Content>
+        </Label>
+    </Station>
+    <Station Name="PEGDU" Enabled="true">
+        <X>109.38333</X>
+        <Y>20.883333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>PEGDU</Content>
+        </Label>
+    </Station>
+    <Station Name="GIVIL" Enabled="true">
+        <X>109.833336</X>
+        <Y>19.25</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>GIVIL</Content>
+        </Label>
+    </Station>
+    <Station Name="SAGSU" Enabled="true">
+        <X>109.16333</X>
+        <Y>17.501667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAGSU</Content>
+        </Label>
+    </Station>
+    <Station Name="DODUG" Enabled="true">
+        <X>114.7425</X>
+        <Y>11.950833</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DODUG</Content>
+        </Label>
+    </Station>
+    <Station Name="EMPUL" Enabled="true">
+        <X>114.67834</X>
+        <Y>13.984445</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EMPUL</Content>
+        </Label>
+    </Station>
+    <Station Name="DABGI" Enabled="true">
+        <X>114.672775</X>
+        <Y>14.177778</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DABGI</Content>
+        </Label>
+    </Station>
+    <Station Name="LADON" Enabled="true">
+        <X>102.96694</X>
+        <Y>21.103611</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LADON</Content>
+        </Label>
+    </Station>
+    <Station Name="KADIM" Enabled="true">
+        <X>106.09778</X>
+        <Y>18.652222</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KADIM</Content>
+        </Label>
+    </Station>
+    <Station Name="ADBAG" Enabled="true">
+        <X>105.21667</X>
+        <Y>24.221666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ADBAG</Content>
+        </Label>
+    </Station>
+    <Station Name="SAMAS" Enabled="true">
+        <X>110.495</X>
+        <Y>20.505</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAMAS</Content>
+        </Label>
+    </Station>
+    <Station Name="SIKOU" Enabled="true">
+        <X>111.5</X>
+        <Y>20.843334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SIKOU</Content>
+        </Label>
+    </Station>
+    <Station Name="IKELA" Enabled="true">
+        <X>112.245</X>
+        <Y>18.661667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>IKELA</Content>
+        </Label>
+    </Station>
+    <Station Name="IDOSI" Enabled="true">
+        <X>112.5</X>
+        <Y>19.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>IDOSI</Content>
+        </Label>
+    </Station>
+    <Station Name="EPDOS" Enabled="true">
+        <X>113.555</X>
+        <Y>19.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EPDOS</Content>
+        </Label>
+    </Station>
+    <Station Name="ENBOK" Enabled="true">
+        <X>113.49167</X>
+        <Y>18.556667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ENBOK</Content>
+        </Label>
+    </Station>
+    <Station Name="EPKAL" Enabled="true">
+        <X>112.955</X>
+        <Y>17.858334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EPKAL</Content>
+        </Label>
+    </Station>
+    <Station Name="ENREP" Enabled="true">
+        <X>104.245</X>
+        <Y>4.8730555</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ENREP</Content>
+        </Label>
+    </Station>
+    <Station Name="DOLOX" Enabled="true">
+        <X>105.37972</X>
+        <Y>4.811389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DOLOX</Content>
+        </Label>
+    </Station>
+    <Station Name="REGOS" Enabled="true">
+        <X>100.581665</X>
+        <Y>12.001667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>REGOS</Content>
+        </Label>
+    </Station>
+    <Station Name="EMELA" Enabled="true">
+        <X>101.124725</X>
+        <Y>10.213611</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>EMELA</Content>
+        </Label>
+    </Station>
+    <Station Name="DULOP" Enabled="true">
+        <X>114.543335</X>
+        <Y>18.236666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DULOP</Content>
+        </Label>
+    </Station>
+    <Station Name="MABLI" Enabled="true">
+        <X>106.21306</X>
+        <Y>4.2880554</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MABLI</Content>
+        </Label>
+    </Station>
+    <Station Name="LUSMO" Enabled="true">
+        <X>106.92611</X>
+        <Y>3.561389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LUSMO</Content>
+        </Label>
+    </Station>
+    <Station Name="LAGOT" Enabled="true">
+        <X>111.54528</X>
+        <Y>7.2755556</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAGOT</Content>
+        </Label>
+    </Station>
+    <Station Name="LAXOR" Enabled="true">
+        <X>114.80805</X>
+        <Y>9.826944</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LAXOR</Content>
+        </Label>
+    </Station>
+    <Station Name="BASON" Enabled="true">
+        <X>106.001114</X>
+        <Y>10.585</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BASON</Content>
+        </Label>
+    </Station>
+    <Station Name="MISAN" Enabled="true">
+        <X>106.05194</X>
+        <Y>10.4775</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MISAN</Content>
+        </Label>
+    </Station>
+    <Station Name="LANHI" Enabled="true">
+        <X>107.189445</X>
+        <Y>10.406389</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LANHI</Content>
+        </Label>
+    </Station>
+    <Station Name="BAOMY" Enabled="true">
+        <X>107.32917</X>
+        <Y>10.870833</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BAOMY</Content>
+        </Label>
+    </Station>
+    <Station Name="ANRAN" Enabled="true">
+        <X>107.06917</X>
+        <Y>11.35</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ANRAN</Content>
+        </Label>
+    </Station>
+    <Station Name="AKOTA" Enabled="true">
+        <X>117.206665</X>
+        <Y>16.461666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>AKOTA</Content>
+        </Label>
+    </Station>
+    <Station Name="GUKUM" Enabled="true">
+        <X>116.916664</X>
+        <Y>14.195</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>GUKUM</Content>
+        </Label>
+    </Station>
+    <Station Name="NOBEN" Enabled="true">
+        <X>116.74</X>
+        <Y>12.786667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>NOBEN</Content>
+        </Label>
+    </Station>
+    <Station Name="MAVRA" Enabled="true">
+        <X>116.50166</X>
+        <Y>17.778334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MAVRA</Content>
+        </Label>
+    </Station>
+    <Station Name="VAVUM" Enabled="true">
+        <X>114.761665</X>
+        <Y>11.5</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VAVUM</Content>
+        </Label>
+    </Station>
+    <Station Name="TONIK" Enabled="true">
+        <X>101.985275</X>
+        <Y>9.293333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TONIK</Content>
+        </Label>
+    </Station>
+    <Station Name="MULAD" Enabled="true">
+        <X>107.598335</X>
+        <Y>12.554444</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MULAD</Content>
+        </Label>
+    </Station>
+    <Station Name="TONGA" Enabled="true">
+        <X>105.24861</X>
+        <Y>21.612223</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TONGA</Content>
+        </Label>
+    </Station>
+    <Station Name="TAMDA" Enabled="true">
+        <X>105.51444</X>
+        <Y>21.816944</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TAMDA</Content>
+        </Label>
+    </Station>
+    <Station Name="HALAN" Enabled="true">
+        <X>105.645</X>
+        <Y>21.036667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>HALAN</Content>
+        </Label>
+    </Station>
+    <Station Name="SAMFU" Enabled="true">
+        <X>105.99528</X>
+        <Y>20.555834</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>SAMFU</Content>
+        </Label>
+    </Station>
+    <Station Name="LIBEO" Enabled="true">
+        <X>105.459724</X>
+        <Y>21.21139</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LIBEO</Content>
+        </Label>
+    </Station>
+    <Station Name="TIDAR" Enabled="true">
+        <X>102.833336</X>
+        <Y>6.875</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TIDAR</Content>
+        </Label>
+    </Station>
+    <Station Name="UPRON" Enabled="true">
+        <X>103.345</X>
+        <Y>6.1516666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>UPRON</Content>
+        </Label>
+    </Station>
+    <Station Name="TENON" Enabled="true">
+        <X>116.30666</X>
+        <Y>9.275</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TENON</Content>
+        </Label>
+    </Station>
+    <Station Name="TEGID" Enabled="true">
+        <X>115.861664</X>
+        <Y>8.948334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TEGID</Content>
+        </Label>
+    </Station>
+    <Station Name="BIDAG" Enabled="true">
+        <X>113.92834</X>
+        <Y>7.5166664</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BIDAG</Content>
+        </Label>
+    </Station>
+    <Station Name="TERIX" Enabled="true">
+        <X>109.581665</X>
+        <Y>4.2566667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TERIX</Content>
+        </Label>
+    </Station>
+    <Station Name="BOBOB" Enabled="true">
+        <X>107.1</X>
+        <Y>2.3683333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>BOBOB</Content>
+        </Label>
+    </Station>
+    <Station Name="TOMAN" Enabled="true">
+        <X>105.78833</X>
+        <Y>1.3633333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TOMAN</Content>
+        </Label>
+    </Station>
+    <Station Name="HOSBA" Enabled="true">
+        <X>104.405</X>
+        <Y>1.33</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>HOSBA</Content>
+        </Label>
+    </Station>
+    <Station Name="OSLAM" Enabled="true">
+        <X>106.64</X>
+        <Y>2.0166667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>OSLAM</Content>
+        </Label>
+    </Station>
+    <Station Name="DOGOG" Enabled="true">
+        <X>114.128334</X>
+        <Y>5.4216666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>DOGOG</Content>
+        </Label>
+    </Station>
+    <Station Name="LULBU" Enabled="true">
+        <X>116.53833</X>
+        <Y>11.16</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>LULBU</Content>
+        </Label>
+    </Station>
+    <Station Name="ASISU" Enabled="true">
+        <X>113.346664</X>
+        <Y>5.985</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ASISU</Content>
+        </Label>
+    </Station>
+    <Station Name="OBGET" Enabled="true">
+        <X>106.75833</X>
+        <Y>1.385</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>OBGET</Content>
+        </Label>
+    </Station>
+    <Station Name="OLKIT" Enabled="true">
+        <X>111.855</X>
+        <Y>4.8366666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>OLKIT</Content>
+        </Label>
+    </Station>
+    <Station Name="VINIK" Enabled="true">
+        <X>116.23</X>
+        <Y>8.641666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>VINIK</Content>
+        </Label>
+    </Station>
+    <Station Name="TOSOV" Enabled="true">
+        <X>117.80334</X>
+        <Y>10.353333</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TOSOV</Content>
+        </Label>
+    </Station>
+    <Station Name="ARROW" Enabled="true">
+        <X>114.37334</X>
+        <Y>19.836666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ARROW</Content>
+        </Label>
+    </Station>
+    <Station Name="RAMUS" Enabled="true">
+        <X>115.35167</X>
+        <Y>20.261667</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>RAMUS</Content>
+        </Label>
+    </Station>
+    <Station Name="KAPLI" Enabled="true">
+        <X>117.5</X>
+        <Y>21.166666</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KAPLI</Content>
+        </Label>
+    </Station>
+    <Station Name="KABAM" Enabled="true">
+        <X>119.88</X>
+        <Y>21.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>KABAM</Content>
+        </Label>
+    </Station>
+    <Station Name="MUMOT" Enabled="true">
+        <X>117.79</X>
+        <Y>19.028334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MUMOT</Content>
+        </Label>
+    </Station>
+    <Station Name="MEVIN" Enabled="true">
+        <X>122.55</X>
+        <Y>21.0</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>MEVIN</Content>
+        </Label>
+    </Station>
+    <Station Name="ELATO" Enabled="true">
+        <X>117.5</X>
+        <Y>22.333334</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ELATO</Content>
+        </Label>
+    </Station>
+    <Station Name="RAMEI" Enabled="true">
+        <X>103.25833</X>
+        <Y>15.24</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>RAMEI</Content>
+        </Label>
+    </Station>
+    <Station Name="ADBOP" Enabled="true">
+        <X>104.083336</X>
+        <Y>8.5</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>ADBOP</Content>
+        </Label>
+    </Station>
+    <Station Name="TUNPO" Enabled="true">
+        <X>104.58945</X>
+        <Y>10.0622225</Y>
+        <Z1-Index>123.0</Z1-Index>
+        <Weight>1</Weight>
+        <Size>9</Size>
+        <Color>#FF00FF</Color>
+        <Label Enabled="true" Padding-X="20" Padding-Y="-5">
+            <Z-Index>100.0</Z-Index>
+            <Font-Size>7</Font-Size>
+            <Color>#FFFFFF</Color>
+            <Content>TUNPO</Content>
+        </Label>
+    </Station>
+</GroundStations>

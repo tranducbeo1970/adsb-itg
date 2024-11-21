@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airport name="TAN SON NHAT" path="res/tsn/airport.xml" type="INTERNATIONAL" code="TSN" iata="SGN" icao="VVTS" displayCircle="true" displayArc="true" enabled="true" selected="false">
+    <Point y="10.8164" x="106.6456" size="0"/>
+	
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="5" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="10" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="15" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="20" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="25" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="30" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="35" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="40" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="45" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	<Circle type="CIRCLE" y="10.8164" x="106.6456" radius="50" measureUnit="NM"  color="#69fa02" mode="DOT_LINE" z-index="1" weight="1" transparent="false" colorTransparent="#69fa02" />
+	
+	<Circle type="ARC" y="10.8164" x="106.6456" radius="50" measureUnit="NM"  color="#69fa02" mode="LINE" z-index="1" weight="1" transparent="true" colorTransparent="#69fa02" />
+	
+    <Regions type="ARR">
+        <RegionGroup type="ARR" name="ARR">
+            <Region name="ARR 07-PMS" type="ARR" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR07-PMS-0-1</Point>
+                    <Point>ARR07-PMS-0-3</Point>
+                    <Point>ARR07-PMS-0-5</Point>
+                    <Point>ARR07-PMS-0-7</Point>
+                    <Point>ARR07-PMS-0-9</Point>
+                    <Point>ARR07-PMS-0-11</Point>
+                    <Point>ARR07-PMS-0-13</Point>
+                    <Point>ARR07-PMS-0-15</Point>
+                    <Point>ARR07-PMS-0-17</Point>
+                </RegionLine>
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR07-PMS-1-1</Point>
+                    <Point>ARR07-PMS-1-3</Point>
+                </RegionLine>
+                <RegionLine color="#4c4c4c" type="CIRCLE" radius="75.0" angles="0,360" weight="1" z-index="1">
+                    <Point>ARR-PMS-ARC-75</Point>
+                </RegionLine>
+                <Ref>res/tsn/arr-pms.xml</Ref>
+            </Region>
+            <Region name="ARR 25-PMS" type="ARR" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR25-PMS-0-1</Point>
+                    <Point>ARR25-PMS-0-3</Point>
+                    <Point>ARR25-PMS-0-5</Point>
+                    <Point>ARR25-PMS-0-7</Point>
+                    <Point>ARR25-PMS-0-9</Point>
+                    <Point>ARR25-PMS-0-11</Point>
+                    <Point>ARR25-PMS-0-13</Point>
+                </RegionLine>
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR25-PMS-1-1</Point>
+                    <Point>ARR25-PMS-1-3</Point>
+                    <Point>ARR25-PMS-1-5</Point>
+                </RegionLine>
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR25-PMS-2-1</Point>
+                    <Point>ARR25-PMS-2-3</Point>
+                    <Point>ARR25-PMS-2-5</Point>
+                    <Point>ARR25-PMS-2-7</Point>
+                </RegionLine>
+                <RegionLine color="#4c4c4c" type="CIRCLE" radius="75.0" angles="0,360" weight="1" z-index="1">
+                    <Point>ARR-PMS-ARC-75</Point>
+                </RegionLine>
+                <Ref>res/tsn/arr-pms.xml</Ref>
+            </Region>
+            <Region name="ARR 07-TROM" type="ARR" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR07-TROM-0-1</Point>
+                    <Point>ARR07-TROM-0-3</Point>
+                    <Point>ARR07-TROM-0-5</Point>
+                    <Point>ARR07-TROM-0-7</Point>
+                    <Point>ARR07-TROM-0-9</Point>
+                    <Point>ARR07-TROM-0-11</Point>
+                    <Point>ARR07-TROM-0-13</Point>
+                </RegionLine>
+                <RegionLine color="#4c4c4c" type="CIRCLE" radius="75.0" angles="0,360" weight="1" z-index="1">
+                    <Point>ARR-TROM-ARC-75</Point>
+                </RegionLine>
+                <Ref>res/tsn/arr-trom.xml</Ref>
+            </Region>
+            <Region name="ARR 25-TROM" type="ARR" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#727272" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ARR25-TROM-0-1</Point>
+                    <Point>ARR25-TROM-0-3</Point>
+                    <Point>ARR25-TROM-0-5</Point>
+                    <Point>ARR25-TROM-0-7</Point>
+                    <Point>ARR25-TROM-0-9</Point>
+                    <Point>ARR25-TROM-0-11</Point>
+                    <Point>ARR25-TROM-0-13</Point>
+                    <Point>ARR25-TROM-0-15</Point>
+                </RegionLine>
+                <RegionLine color="#4c4c4c" type="CIRCLE" radius="75.0" angles="0,360" weight="1" z-index="1">
+                    <Point>ARR-TROM-ARC-75</Point>
+                </RegionLine>
+                <Ref>res/tsn/arr-trom.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="FIX">
+        <RegionGroup type="FIX" name="FIX">
+            <Region name="FIX POINTS" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>TSN-FIX-R294</Point>
+                    <Point>TSN-FIX-R250</Point>
+                    <Point>TSN-FIX-R240</Point>
+                    <Point>TSN-FIX-R232</Point>
+                    <Point>TSN-FIX-R215</Point>
+                    <Point>TSN-FIX-R181</Point>
+                    <Point>TSN-FIX-R135</Point>
+                    <Point>TSN-FIX-R128</Point>
+                    <Point>TSN-FIX-T1</Point>
+                    <Point>TSN-FIX-D.4</Point>
+                    <Point>TSN-FIX-D.4</Point>
+                    <Point>TSN-FIX-</Point>
+                    <Point>TSN-FIX-R150</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX POINTS NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="FIX" radius="0.0" weight="0" z-index="0">
+                    <Point>TSN-FIX-R294</Point>
+                    <Point>TSN-FIX-R250</Point>
+                    <Point>TSN-FIX-R240</Point>
+                    <Point>TSN-FIX-R232</Point>
+                    <Point>TSN-FIX-R215</Point>
+                    <Point>TSN-FIX-R181</Point>
+                    <Point>TSN-FIX-R135</Point>
+                    <Point>TSN-FIX-R128</Point>
+                    <Point>TSN-FIX-T1</Point>
+                    <Point>TSN-FIX-D.4</Point>
+                    <Point>TSN-FIX-D.4</Point>
+                    <Point>TSN-FIX-</Point>
+                    <Point>TSN-FIX-R150</Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP" type="FIX" alt="0" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>TSN-VISP-CAN GIUOC</Point>
+                    <Point>TSN-VISP-NHA BE</Point>
+                    <Point>TSN-VISP-BEN LUC</Point>
+                    <Point>TSN-VISP-GO CONG</Point>
+                    <Point>TSN-VISP-TAN AN</Point>
+                    <Point>TSN-VISP-BEN TRE</Point>
+                    <Point>TSN-VISP-TAY NINH</Point>
+                    <Point>TSN-VISP-CUCHI</Point>
+                    <Point>TSN-VISP-SB B.HOA</Point>
+                    <Point>TSN-VISP-SB L.THANH</Point>
+                    <Point>TSN-VISP-CAN DUOC</Point>
+                    <Point>TSN-VISP-TRUNG LUONG</Point>
+                    <Point>TSN-VISP-THUDAUMOT</Point>
+                    <Point>TSN-VISP-C. DONG NAI</Point>
+                    <Point>TSN-FIX- </Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+            <Region name="FIX VISP NAME" type="FIX" alt="0" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#FF3311" type="VISP" radius="0.0" weight="0" z-index="0">
+                    <Point>TSN-VISP-CAN GIUOC</Point>
+                    <Point>TSN-VISP-NHA BE</Point>
+                    <Point>TSN-VISP-BEN LUC</Point>
+                    <Point>TSN-VISP-GO CONG</Point>
+                    <Point>TSN-VISP-TAN AN</Point>
+                    <Point>TSN-VISP-BEN TRE</Point>
+                    <Point>TSN-VISP-TAY NINH</Point>
+                    <Point>TSN-VISP-CUCHI</Point>
+                    <Point>TSN-VISP-SB B.HOA</Point>
+                    <Point>TSN-VISP-SB L.THANH</Point>
+                    <Point>TSN-VISP-CAN DUOC</Point>
+                    <Point>TSN-VISP-TRUNG LUONG</Point>
+                    <Point>TSN-VISP-THUDAUMOT</Point>
+                    <Point>TSN-VISP-C. DONG NAI</Point>
+                    <Point>TSN-FIX- </Point>
+                </RegionLine>
+                <Ref>res/tma_fix_visp.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="PROC">
+        <RegionGroup type="PROC" name="PMS">
+            <Region name="SID RNAV 07L/R 2A" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 07L/R ANTRI 2B" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS828</Point>
+                    <Point>TS826</Point>
+                    <Point>TS824</Point>
+                    <Point>TS822</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS828</Point>
+                    <Point>TS826</Point>
+                    <Point>TS824</Point>
+                    <Point>TS822</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 07L/R LANHI 2B" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS842</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS842</Point>
+                    <Point>TS844</Point>
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 07L/R LATHA 2B" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS824</Point>
+                    <Point>TS826</Point>
+                    <Point>TS828</Point>
+                    <Point>MALAY</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc3.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 07L/R BASON 2C" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS856</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.2" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC01</Point>
+                    <Point>TS856</Point>
+                    <Point>TS852</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS852</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC02</Point>
+                    <Point>TS856</Point>
+                    <Point>TS854</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS854</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc4.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R ANTRI 2D" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc5.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R TANOS 2D" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc6.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R BASON 2D" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS636</Point>
+                    <Point>TS638</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS641</Point>
+                    <Point>TS642</Point>
+                    <Point>TS644</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>KANTA</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>BASON</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>MISAN</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc7.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R ANTRI 2E" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#196666" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc8.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R TANOS 2E" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc9.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R ANTRI 2F" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS662</Point>
+                    <Point>TS664</Point>
+                    <Point>TS666</Point>
+                    <Point>TS668</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc10.xml</Ref>
+            </Region>
+            <Region name="SID RNAV 25L/R KADUM 2F" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc11.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 07L/R SAPEN 2G" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS562</Point>
+                    <Point>TS564</Point>
+                    <Point>TS566</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS566</Point>
+                    <Point>TS568</Point>
+                    <Point>LOTVU</Point>
+                    <Point>TS582</Point>
+                    <Point>TS584</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc12.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 07L/R VICAL 2G" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS534</Point>
+                    <Point>TS536</Point>
+                    <Point>TS538</Point>
+                    <Point>TS542</Point>
+                    <Point>ENROP</Point>
+                    <Point>TS544</Point>
+                    <Point>TS546</Point>
+                    <Point>TS548</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS538</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VICAL</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc13.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 25L/R ELAS 2H *" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS454</Point>
+                    <Point>TS456</Point>
+                    <Point>TS458</Point>
+                    <Point>RUNSI</Point>
+                    <Point>TS488</Point>
+                    <Point>VANLI</Point>
+                    <Point>LETRO</Point>
+                    <Point>TS492</Point>
+                    <Point>NOKUM</Point>
+                    <Point>TS496</Point>
+                    <Point>TS498</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>RUNSI</Point>
+                    <Point>GOMIN</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NOKUM</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LETRO</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc14.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 25L/R ELAS 2H" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS432</Point>
+                    <Point>TS434</Point>
+                    <Point>TS436</Point>
+                    <Point>TS438</Point>
+                    <Point>TS452</Point>
+                    <Point>VIKEP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc15.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 25L/R BITIS 2J" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS462</Point>
+                    <Point>TS464</Point>
+                    <Point>TS466</Point>
+                    <Point>TS468</Point>
+                    <Point>NUNGO</Point>
+                    <Point>BUTGA</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BUTGA</Point>
+                    <Point>TS482</Point>
+                    <Point>TS484</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS484</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc16.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 25L/R DALAP 2J" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS442</Point>
+                    <Point>TS444</Point>
+                    <Point>TS446</Point>
+                    <Point>TS448</Point>
+                    <Point>ANSUP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc17.xml</Ref>
+            </Region>
+            <Region name="ILS X RWY 07R" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS516</Point>
+                    <Point>TS514</Point>
+                    <Point>RW07R</Point>
+                    <Point>TS592</Point>
+                    <Point>TS596</Point>
+                    <Point>TUNBI</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="CIRCLE" radius="18.5" angles="0,360" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc18.xml</Ref>
+            </Region>
+            <Region name="ILS Y RWY 25L" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TUNBI</Point>
+                    <Point>TS626</Point>
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                    <Point>TS414</Point>
+                    <Point>TS416</Point>
+                    <Point>SOKAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS416</Point>
+                    <Point>BOMSU</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="CIRCLE" radius="18.5" angles="0,360" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc19.xml</Ref>
+            </Region>
+            <Region name="ILS X RWY 25R" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TUNBI</Point>
+                    <Point>TS626</Point>
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                    <Point>TS424</Point>
+                    <Point>TS426</Point>
+                    <Point>BOMSU</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS426</Point>
+                    <Point>SOKAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="CIRCLE" radius="18.5" angles="0,360" weight="1" z-index="1">
+                    <Point>ARP</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc20.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="PMS-ALL">
+            <Region name="TSN07RNAV" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS636</Point>
+                    <Point>TS638</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS641</Point>
+                    <Point>TS642</Point>
+                    <Point>TS644</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>KANTA</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>BASON</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>MISAN</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS662</Point>
+                    <Point>TS664</Point>
+                    <Point>TS666</Point>
+                    <Point>TS668</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS462</Point>
+                    <Point>TS464</Point>
+                    <Point>TS466</Point>
+                    <Point>TS468</Point>
+                    <Point>NUNGO</Point>
+                    <Point>BUTGA</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BUTGA</Point>
+                    <Point>TS482</Point>
+                    <Point>TS484</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS484</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS442</Point>
+                    <Point>TS444</Point>
+                    <Point>TS446</Point>
+                    <Point>TS448</Point>
+                    <Point>ANSUP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS462</Point>
+                    <Point>TS464</Point>
+                    <Point>TS466</Point>
+                    <Point>TS468</Point>
+                    <Point>NUNGO</Point>
+                    <Point>BUTGA</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BUTGA</Point>
+                    <Point>TS482</Point>
+                    <Point>TS484</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS484</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_0.xml</Ref>
+            </Region>
+            <Region name="TSN07POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS828</Point>
+                    <Point>TS826</Point>
+                    <Point>TS824</Point>
+                    <Point>TS822</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS842</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS842</Point>
+                    <Point>TS844</Point>
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS824</Point>
+                    <Point>TS826</Point>
+                    <Point>TS828</Point>
+                    <Point>MALAY</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS856</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS562</Point>
+                    <Point>TS564</Point>
+                    <Point>TS566</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS566</Point>
+                    <Point>TS568</Point>
+                    <Point>LOTVU</Point>
+                    <Point>TS582</Point>
+                    <Point>TS584</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS534</Point>
+                    <Point>TS536</Point>
+                    <Point>TS538</Point>
+                    <Point>TS542</Point>
+                    <Point>ENROP</Point>
+                    <Point>TS544</Point>
+                    <Point>TS546</Point>
+                    <Point>TS548</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS538</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VICAL</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC02</Point>
+                    <Point>TS856</Point>
+                    <Point>TS854</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.2" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC01</Point>
+                    <Point>TS856</Point>
+                    <Point>TS852</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS854</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS852</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_1.xml</Ref>
+            </Region>
+            <Region name="TSN25RNAV" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                    <Point>LKH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS636</Point>
+                    <Point>TS638</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS641</Point>
+                    <Point>TS642</Point>
+                    <Point>TS644</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>KANTA</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>BASON</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>MISAN</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS662</Point>
+                    <Point>TS664</Point>
+                    <Point>TS666</Point>
+                    <Point>TS668</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS454</Point>
+                    <Point>TS456</Point>
+                    <Point>TS458</Point>
+                    <Point>RUNSI</Point>
+                    <Point>TS488</Point>
+                    <Point>VANLI</Point>
+                    <Point>LETRO</Point>
+                    <Point>TS492</Point>
+                    <Point>NOKUM</Point>
+                    <Point>TS496</Point>
+                    <Point>TS498</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>RUNSI</Point>
+                    <Point>GOMIN</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NOKUM</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LETRO</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS432</Point>
+                    <Point>TS434</Point>
+                    <Point>TS436</Point>
+                    <Point>TS438</Point>
+                    <Point>TS452</Point>
+                    <Point>VIKEP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS462</Point>
+                    <Point>TS464</Point>
+                    <Point>TS466</Point>
+                    <Point>TS468</Point>
+                    <Point>NUNGO</Point>
+                    <Point>BUTGA</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BUTGA</Point>
+                    <Point>TS482</Point>
+                    <Point>TS484</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS484</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS442</Point>
+                    <Point>TS444</Point>
+                    <Point>TS446</Point>
+                    <Point>TS448</Point>
+                    <Point>ANSUP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_2.xml</Ref>
+            </Region>
+            <Region name="TSN25POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                    <Point>LKH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>TS626</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS636</Point>
+                    <Point>TS638</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS641</Point>
+                    <Point>TS642</Point>
+                    <Point>TS644</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>KANTA</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>BASON</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS618</Point>
+                    <Point>MISAN</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS632</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>TS618</Point>
+                    <Point>TS622</Point>
+                    <Point>TS624</Point>
+                    <Point>TS626</Point>
+                    <Point>TS628</Point>
+                    <Point>TS632</Point>
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS662</Point>
+                    <Point>TS664</Point>
+                    <Point>TS666</Point>
+                    <Point>TS668</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS658</Point>
+                    <Point>TS686</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS454</Point>
+                    <Point>TS456</Point>
+                    <Point>TS458</Point>
+                    <Point>RUNSI</Point>
+                    <Point>TS488</Point>
+                    <Point>VANLI</Point>
+                    <Point>LETRO</Point>
+                    <Point>TS492</Point>
+                    <Point>NOKUM</Point>
+                    <Point>TS496</Point>
+                    <Point>TS498</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>RUNSI</Point>
+                    <Point>GOMIN</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NOKUM</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LETRO</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SOKAN</Point>
+                    <Point>TS432</Point>
+                    <Point>TS434</Point>
+                    <Point>TS436</Point>
+                    <Point>TS438</Point>
+                    <Point>TS452</Point>
+                    <Point>VIKEP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS462</Point>
+                    <Point>TS464</Point>
+                    <Point>TS466</Point>
+                    <Point>TS468</Point>
+                    <Point>NUNGO</Point>
+                    <Point>BUTGA</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BUTGA</Point>
+                    <Point>TS482</Point>
+                    <Point>TS484</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS484</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BOMSU</Point>
+                    <Point>TS442</Point>
+                    <Point>TS444</Point>
+                    <Point>TS446</Point>
+                    <Point>TS448</Point>
+                    <Point>ANSUP</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>PTH</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>VETOM</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DALAP</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS612</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS614</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS616</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.9" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC03</Point>
+                    <Point>TS652</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS652</Point>
+                    <Point>RW25L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.7" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC04</Point>
+                    <Point>TS654</Point>
+                    <Point>TS658</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS654</Point>
+                    <Point>RW25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_2.xml</Ref>
+            </Region>
+            <Region name="TSN07RNAV-NEW" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS828</Point>
+                    <Point>TS826</Point>
+                    <Point>TS824</Point>
+                    <Point>TS822</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS842</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS842</Point>
+                    <Point>TS844</Point>
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS824</Point>
+                    <Point>TS826</Point>
+                    <Point>TS828</Point>
+                    <Point>MALAY</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS856</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS562</Point>
+                    <Point>TS564</Point>
+                    <Point>TS566</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS566</Point>
+                    <Point>TS568</Point>
+                    <Point>LOTVU</Point>
+                    <Point>TS582</Point>
+                    <Point>TS584</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS534</Point>
+                    <Point>TS536</Point>
+                    <Point>TS538</Point>
+                    <Point>TS542</Point>
+                    <Point>ENROP</Point>
+                    <Point>TS544</Point>
+                    <Point>TS546</Point>
+                    <Point>TS548</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS538</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VICAL</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC02</Point>
+                    <Point>TS856</Point>
+                    <Point>TS854</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.2" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC01</Point>
+                    <Point>TS856</Point>
+                    <Point>TS852</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS854</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS852</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_4.xml</Ref>
+            </Region>
+            <Region name="TSN07POINTS-NEW" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                    <Point>TS836</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS834</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>KADUM</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS828</Point>
+                    <Point>TS826</Point>
+                    <Point>TS824</Point>
+                    <Point>TS822</Point>
+                    <Point>TS812</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS814</Point>
+                    <Point>TS816</Point>
+                    <Point>ANTRI</Point>
+                    <Point>PATMA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANTRI</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS842</Point>
+                    <Point>LANHI</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS842</Point>
+                    <Point>TS844</Point>
+                    <Point>TANOS</Point>
+                    <Point>DOVIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>DILIN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TANOS</Point>
+                    <Point>PTH</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>TS822</Point>
+                    <Point>TS824</Point>
+                    <Point>TS826</Point>
+                    <Point>TS828</Point>
+                    <Point>MALAY</Point>
+                    <Point>ANHOA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS828</Point>
+                    <Point>LATHA</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS858</Point>
+                    <Point>TS856</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS858</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS562</Point>
+                    <Point>TS564</Point>
+                    <Point>TS566</Point>
+                    <Point>BITIS</Point>
+                    <Point>TRN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS566</Point>
+                    <Point>TS568</Point>
+                    <Point>LOTVU</Point>
+                    <Point>TS582</Point>
+                    <Point>TS584</Point>
+                    <Point>SAPEN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAMDU</Point>
+                    <Point>TS534</Point>
+                    <Point>TS536</Point>
+                    <Point>TS538</Point>
+                    <Point>TS542</Point>
+                    <Point>ENROP</Point>
+                    <Point>TS544</Point>
+                    <Point>TS546</Point>
+                    <Point>TS548</Point>
+                    <Point>DALAP</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TS918</Point>
+                    <Point>TS916</Point>
+                    <Point>TS914</Point>
+                    <Point>TS912</Point>
+                    <Point>RINKU</Point>
+                    <Point>DALAP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS538</Point>
+                    <Point>VICAL</Point>
+                    <Point>NIXUP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VICAL</Point>
+                    <Point>ELSAS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS812</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC02</Point>
+                    <Point>TS856</Point>
+                    <Point>TS854</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="ARC" radius="5.2" angles="0,0" weight="1" z-index="1">
+                    <Point>TSC01</Point>
+                    <Point>TS856</Point>
+                    <Point>TS852</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS854</Point>
+                    <Point>RW07L</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS852</Point>
+                    <Point>RW07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc1_4.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="TROMBONE">
+            <Region name="SID RNAV RWY 07L/R BASON 1D" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>KADUM</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                    <Point>TS034</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_0.xml</Ref>
+            </Region>
+            <Region name="SID RNAV RWY 07L/R ANTRI 1A" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS038</Point>
+                    <Point>TS037</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>MALAY</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#669933" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS036</Point>
+                    <Point>TS035</Point>
+                    <Point>TS034</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_1.xml</Ref>
+            </Region>
+            <Region name="SID RNAV RWY 25L/R ANTRI 1C" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS020</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS016</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>KADUM</Point>
+                    <Point>TS016</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS019</Point>
+                    <Point>TS018</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS017</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS018</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS018</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_2.xml</Ref>
+            </Region>
+            <Region name="SID RNAV RWY 25L/R ANTRI 1E" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS043</Point>
+                    <Point>TS042</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS043</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS043</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_3.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 07L/R BAOMY 1D" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS029</Point>
+                    <Point>TS026</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS029</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>TS033</Point>
+                    <Point>LATHA</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS028</Point>
+                    <Point>TS027</Point>
+                    <Point>TS026</Point>
+                    <Point>TS025</Point>
+                    <Point>TS024</Point>
+                    <Point>TS023</Point>
+                    <Point>TS022</Point>
+                    <Point>TS021</Point>
+                    <Point>MULAN</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS032</Point>
+                    <Point>TS031</Point>
+                    <Point>TS030</Point>
+                    <Point>TS023</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <RegionLine color="#4c7f99" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KIBEK</Point>
+                    <Point>TS021</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_4.xml</Ref>
+            </Region>
+            <Region name="STAR RNAV RWY 25L/R BAOMY 1F" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS012</Point>
+                    <Point>TS011</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS014</Point>
+                    <Point>TS009</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS008</Point>
+                    <Point>TS007</Point>
+                    <Point>TS006</Point>
+                    <Point>TS005</Point>
+                    <Point>TS004</Point>
+                    <Point>TS003</Point>
+                    <Point>TS002</Point>
+                    <Point>TS001</Point>
+                    <Point>SOKAN</Point>
+                    <Point>YANKI</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS005</Point>
+                    <Point>TS009</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS012</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LEEMA</Point>
+                    <Point>SOKAN</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc2_5.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="TROMBONE-ALL">
+            <Region name="TROMBONE-ALL TSN07RNAV" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS034</Point>
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS038</Point>
+                    <Point>TS037</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>MALAY</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS036</Point>
+                    <Point>TS035</Point>
+                    <Point>TS034</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS029</Point>
+                    <Point>TS026</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS029</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>TS033</Point>
+                    <Point>LATHA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS028</Point>
+                    <Point>TS027</Point>
+                    <Point>TS026</Point>
+                    <Point>TS025</Point>
+                    <Point>TS024</Point>
+                    <Point>TS023</Point>
+                    <Point>TS022</Point>
+                    <Point>TS021</Point>
+                    <Point>MULAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS032</Point>
+                    <Point>TS031</Point>
+                    <Point>TS030</Point>
+                    <Point>TS023</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc3_0.xml</Ref>
+            </Region>
+            <Region name="TROMBONE-ALL TSN07POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>KADUM</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS034</Point>
+                    <Point>BASON</Point>
+                    <Point>TS041</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS040</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS038</Point>
+                    <Point>TS037</Point>
+                    <Point>TS034</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>KANTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>MALAY</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS038</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS037</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS036</Point>
+                    <Point>TS035</Point>
+                    <Point>TS034</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS029</Point>
+                    <Point>TS026</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS029</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>TS033</Point>
+                    <Point>LATHA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS028</Point>
+                    <Point>TS027</Point>
+                    <Point>TS026</Point>
+                    <Point>TS025</Point>
+                    <Point>TS024</Point>
+                    <Point>TS023</Point>
+                    <Point>TS022</Point>
+                    <Point>TS021</Point>
+                    <Point>MULAN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS032</Point>
+                    <Point>TS031</Point>
+                    <Point>TS030</Point>
+                    <Point>TS023</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc3_0.xml</Ref>
+            </Region>
+            <Region name="TROMBONE-ALL TSN25RNAV" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>ANHOA</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS020</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS016</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>KADUM</Point>
+                    <Point>TS016</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS019</Point>
+                    <Point>TS018</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS017</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS018</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS018</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS043</Point>
+                    <Point>TS042</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS043</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS043</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS012</Point>
+                    <Point>TS011</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS014</Point>
+                    <Point>TS009</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS008</Point>
+                    <Point>TS007</Point>
+                    <Point>TS006</Point>
+                    <Point>TS005</Point>
+                    <Point>TS004</Point>
+                    <Point>TS003</Point>
+                    <Point>TS002</Point>
+                    <Point>TS001</Point>
+                    <Point>SOKAN</Point>
+                    <Point>YANKI</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS005</Point>
+                    <Point>TS009</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS012</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc3_2.xml</Ref>
+            </Region>
+            <Region name="TROMBONE-ALL TSN25POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>ANHOA</Point>
+                    <Point>KANTA</Point>
+                    <Point>TS020</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>POTIX</Point>
+                    <Point>MISAN</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VIMBU</Point>
+                    <Point>BASON</Point>
+                    <Point>TS020</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS016</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>KADUM</Point>
+                    <Point>TS016</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS019</Point>
+                    <Point>TS018</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>LATHA</Point>
+                    <Point>TS017</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS018</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS018</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PATMA</Point>
+                    <Point>ANTRI</Point>
+                    <Point>TS043</Point>
+                    <Point>TS042</Point>
+                    <Point>TS017</Point>
+                    <Point>TS015</Point>
+                    <Point>TSN</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>LANHI</Point>
+                    <Point>TS043</Point>
+                    <Point>DOVIN</Point>
+                    <Point>TANOS</Point>
+                    <Point>TS043</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>LKH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PTH</Point>
+                    <Point>TANOS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TRN</Point>
+                    <Point>BITIS</Point>
+                    <Point>TS012</Point>
+                    <Point>TS011</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ANHOA</Point>
+                    <Point>BITIS</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NIXUP</Point>
+                    <Point>VICAL</Point>
+                    <Point>TS014</Point>
+                    <Point>TS009</Point>
+                    <Point>TS010</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>ELSAS</Point>
+                    <Point>BAOMY</Point>
+                    <Point>TS008</Point>
+                    <Point>TS007</Point>
+                    <Point>TS006</Point>
+                    <Point>TS005</Point>
+                    <Point>TS004</Point>
+                    <Point>TS003</Point>
+                    <Point>TS002</Point>
+                    <Point>TS001</Point>
+                    <Point>SOKAN</Point>
+                    <Point>YANKI</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS005</Point>
+                    <Point>TS009</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>VETOM</Point>
+                    <Point>BAOMY</Point>
+                    <Point>MEKIN</Point>
+                    <Point>BAOMY</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>SAPEN</Point>
+                    <Point>TS012</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc3_2.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="PQU">
+            <Region name="SID-RWY10" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ109</Point>
+                    <Point>PQ107</Point>
+                    <Point>PQ103</Point>
+                    <Point>PQ101</Point>
+                    <Point>10</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ103</Point>
+                    <Point>PQ105</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>NORTI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>PQ102</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ102</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc4_0.xml</Ref>
+            </Region>
+            <Region name="STAR-RWY10" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ310</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ410</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ610</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ310</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ410</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ610</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#ff4c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ310</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc4_1.xml</Ref>
+            </Region>
+            <Region name="SID-RWY28" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ281</Point>
+                    <Point>28</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>PQ285</Point>
+                    <Point>PQ287</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ282</Point>
+                    <Point>PQ284</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>PQ286</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#33e54c" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>28</Point>
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc4_2.xml</Ref>
+            </Region>
+            <Region name="STAR-RWY28" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ728</Point>
+                    <Point>PQ528</Point>
+                    <Point>PQ328</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ428</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ888</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>TIHAN</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ728</Point>
+                    <Point>PQ528</Point>
+                    <Point>PQ328</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ428</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ888</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>TIHAN</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc4_3.xml</Ref>
+            </Region>
+        </RegionGroup>
+        <RegionGroup type="PROC" name="PQU-ALL">
+            <Region name="RWY10" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ109</Point>
+                    <Point>PQ107</Point>
+                    <Point>PQ103</Point>
+                    <Point>PQ101</Point>
+                    <Point>10</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ103</Point>
+                    <Point>PQ105</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>NORTI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>PQ102</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ102</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ310</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ410</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ610</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#ff4c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ310</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc5_0.xml</Ref>
+            </Region>
+            <Region name="RWY10-POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ109</Point>
+                    <Point>PQ107</Point>
+                    <Point>PQ103</Point>
+                    <Point>PQ101</Point>
+                    <Point>10</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ103</Point>
+                    <Point>PQ105</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>NORTI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ101</Point>
+                    <Point>PQ102</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ102</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ310</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ410</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>PQ610</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ210</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#ff4c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ310</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc5_0.xml</Ref>
+            </Region>
+            <Region name="RWY28" type="PROC" enabled="true" displayName="false" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ281</Point>
+                    <Point>28</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>PQ285</Point>
+                    <Point>PQ287</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ282</Point>
+                    <Point>PQ284</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>PQ286</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ728</Point>
+                    <Point>PQ528</Point>
+                    <Point>PQ328</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ428</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ888</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>TIHAN</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#33b266" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>28</Point>
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc5_2.xml</Ref>
+            </Region>
+            <Region name="RWY28-POINTS" type="PROC" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ281</Point>
+                    <Point>28</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>PQ285</Point>
+                    <Point>PQ287</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ281</Point>
+                    <Point>PQ282</Point>
+                    <Point>PQ284</Point>
+                    <Point>TRUMI</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>PQ286</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#337f66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ282</Point>
+                    <Point>THILI</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>NUMDI</Point>
+                    <Point>PQ728</Point>
+                    <Point>PQ528</Point>
+                    <Point>PQ328</Point>
+                    <Point>OSOTA</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ428</Point>
+                    <Point>HOTUN</Point>
+                    <Point>TOTRA</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>MINTU</Point>
+                    <Point>PQ888</Point>
+                    <Point>PQ999</Point>
+                    <Point>ADBOP</Point>
+                </RegionLine>
+                <RegionLine color="#994c33" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>PQ228</Point>
+                    <Point>TIHAN</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <RegionLine color="#33ff66" type="LINES" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>28</Point>
+                    <Point>PQ281</Point>
+                    <Point>PQ283</Point>
+                    <Point>TATEM</Point>
+                    <Point>TUNPO</Point>
+                </RegionLine>
+                <Ref>res/tsn/proc5_2.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="RWY">
+        <RegionGroup type="RWY" name="RWY">
+            <Region name="TS07L" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="0">
+                    <Point>TS07L</Point>
+                </RegionLine>
+                <Ref>res/tsn/rwy.xml</Ref>
+            </Region>
+            <Region name="TS25R" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="1">
+                    <Point>TS25R</Point>
+                </RegionLine>
+                <Ref>res/tsn/rwy.xml</Ref>
+            </Region>
+            <Region name="TS07R" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="2">
+                    <Point>TS07R</Point>
+                </RegionLine>
+                <Ref>res/tsn/rwy.xml</Ref>
+            </Region>
+            <Region name="TS25L" type="RWY" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#378e9d" type="RWY" radius="0.0" angles="0,0" weight="1" z-index="3">
+                    <Point>TS25L</Point>
+                </RegionLine>
+                <Ref>res/tsn/rwy.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+    <Regions type="TMA">
+        <RegionGroup type="TMA" name="TMA">
+            <Region name="TMA TSN" type="TMA" enabled="true" displayName="true" selected="false">
+                <RegionLine color="#727272" type="CIRCLE" radius="75.0" angles="0,360" weight="1" z-index="1">
+                    <Point>TSN-ARC</Point>
+                </RegionLine>
+                <Ref>res/tsn/tma.xml</Ref>
+            </Region>
+        </RegionGroup>
+    </Regions>
+</Airport>

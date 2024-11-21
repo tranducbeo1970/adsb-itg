@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>UAL804</Callsign>
+    <Address>A1F557</Address>
+    <FlightLevel>349.75</FlightLevel>
+    <Speed>478.94</Speed>
+    <Heading>35.430999755859375</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>109.29092407226562</Longtitude>
+    <Latitude>6.912723064422607</Latitude>
+    <TimeOfDay>2153.640625</TimeOfDay>
+    <InitialTime>1596132370599</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596132370599</LastUpdateInMil>
+    <Mode3A>177</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

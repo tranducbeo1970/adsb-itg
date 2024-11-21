@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>CSN8402</Callsign>
+    <Address>780260</Address>
+    <FlightLevel>310.0</FlightLevel>
+    <Speed>455.4</Speed>
+    <Heading>40.32600021362305</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>105.57503509521484</Longtitude>
+    <Latitude>5.544405937194824</Latitude>
+    <TimeOfDay>1753.046875</TimeOfDay>
+    <InitialTime>1596131741222</InitialTime>
+    <NIC>6</NIC>
+    <NAC>7</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131741222</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

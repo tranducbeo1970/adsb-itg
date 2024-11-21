@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airports>
+    <Airport name="NONE" enable="true" data-path="none"/>
+    <Airport name="CAM RANH" enable="true" data-path="cra"/>
+    <Airport name="DA NANG" enable="true" data-path="dan"/>
+    <Airport name="TAN SON NHAT" enable="true" data-path="tsn"/>
+    <Airport name="NOI BAI" enable="false " data-path="nob"/>
+</Airports>

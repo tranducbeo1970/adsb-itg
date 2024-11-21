@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="LKH" x="108.3552" y="11.7541"/>
+	<Point name="THAKA" x="108.8888" y="12.1513"/>
+	<Point name="CR303" x="109.0738" y="12.2886"/>
+	<Point name="CR301" x="109.2205" y="12.2130"/>
+	<Point name="CR300" x="109.2511" y="12.0902"/>
+	<Point name="CRA" x="109.2200" y="11.9944"/>
+	<Point name="CHUTU" x="108.6338" y="12.3541"/>
+	<Point name="PANLU" x="109.0350" y="12.3086"/>
+	<Point name="KARAN" x="109.1566" y="12.6488"/>
+	<Point name="NIHOA" x="109.1852" y="12.3552"/>
+	<Point name="NITOM" x="110.6402" y="12.7419"/>
+	<Point name="RABIN" x="109.7602" y="12.4152"/>
+	<Point name="FURAL" x="109.4691" y="12.2600"/>
+	<Point name="ARP" x="109.2183" y="11.9952"/>
+</ListPoints>

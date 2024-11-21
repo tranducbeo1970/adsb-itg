@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>AXM542</Callsign>
+    <Address>750324</Address>
+    <FlightLevel>350.25</FlightLevel>
+    <Speed>464.64</Speed>
+    <Heading>340.3894958496094</Heading>
+    <VerticalRate>0.625</VerticalRate>
+    <Longtitude>104.47747802734375</Longtitude>
+    <Latitude>11.121504783630371</Latitude>
+    <TimeOfDay>1751.828125</TimeOfDay>
+    <InitialTime>1596131739191</InitialTime>
+    <NIC>8</NIC>
+    <NAC>9</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131739191</LastUpdateInMil>
+    <Mode3A>2177</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

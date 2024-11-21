@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>PIC781</Callsign>
+    <Address>888023</Address>
+    <FlightLevel>159.5</FlightLevel>
+    <Speed>331.54</Speed>
+    <Heading>208.3730010986328</Heading>
+    <VerticalRate>-1.25</VerticalRate>
+    <Longtitude>107.3408432006836</Longtitude>
+    <Latitude>11.219451904296875</Latitude>
+    <TimeOfDay>2153.984375</TimeOfDay>
+    <InitialTime>1596132370552</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596132370552</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

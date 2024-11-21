@@ -1,0 +1,14 @@
+2023-06-23 13:32:48,644 INFO   [PlaybackTask] background start 
+2023-06-23 13:32:48,680 INFO   [Main] STARTED 
+2023-06-23 13:32:48,755 INFO   [PlaybackTask] Loading file 2022-05-10.00-00-00.254.0000.rcd 
+2023-06-23 13:32:48,755 INFO   [PlaybackTask] Start playingback file 2022-05-10.00-00-00.254.0000.rcd 
+2023-06-23 13:32:48,756 INFO   [PlaybackFile] Open file 2022-05-10.00-00-00.254.0000.rcd 
+2023-06-23 13:32:48,789 ERROR  [PlaybackTask] invalid stream header: 1500E7C3 
+2023-06-23 13:32:49,841 INFO   [Main] DONE 
+2023-06-23 13:33:05,714 INFO   [PlaybackTask] background start 
+2023-06-23 13:33:05,750 INFO   [Main] STARTED 
+2023-06-23 13:33:05,828 INFO   [PlaybackTask] Loading file 2022-05-10.08-00-00.881.0000.rcd 
+2023-06-23 13:33:05,828 INFO   [PlaybackTask] Start playingback file 2022-05-10.08-00-00.881.0000.rcd 
+2023-06-23 13:33:05,829 INFO   [PlaybackFile] Open file 2022-05-10.08-00-00.881.0000.rcd 
+2023-06-23 13:33:05,854 ERROR  [PlaybackTask] invalid stream header: 150296C3 
+2023-06-23 13:33:06,913 INFO   [Main] DONE 

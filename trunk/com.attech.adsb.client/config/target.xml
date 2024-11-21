@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <TargetSize>20.0</TargetSize>
+    <TargetRadius>9.0</TargetRadius>
+    <TargetInnerSize>12.0</TargetInnerSize>
+    <TargetZIndex>100.0</TargetZIndex>
+    <TargetZIndex2>-10</TargetZIndex2>
+    <NormalColor1>#825A51</NormalColor1>
+    <NormalColor2>#FFFFFF</NormalColor2>
+    <WarningColor>#FFFFFF</WarningColor>
+    <TransferToColor>#ff1100</TransferToColor>
+    <TransferFromColor>#1aff00</TransferFromColor>
+    <ControlledColor>#c2fc03</ControlledColor>
+    <Weight>1.0</Weight>
+    <CircleWarnColor>#f8fa7d</CircleWarnColor>
+    <CircleAlarmColor>#fa4646</CircleAlarmColor>
+    <ObsoletedColor>#fae098</ObsoletedColor>
+    <TraceColor>#fa4646</TraceColor>
+    <TraceWeight>2.0</TraceWeight>
+    <TargetLabel>
+        <TextHeight>25.0</TextHeight>
+        <CallsignWidth>145.0</CallsignWidth>
+        <AltitudeWidth>145.0</AltitudeWidth>
+        <SpeedWidth>145.0</SpeedWidth>
+        <HDGNoteWidth>145.0</HDGNoteWidth>
+        <ConnectorSize>60.0</ConnectorSize>
+        <ConnectorWeight>1.0</ConnectorWeight>
+        <ConnectorColor>#11638f</ConnectorColor>
+        <Color>#CCCCCC</Color>
+        <ObsoletedColor>#fae098</ObsoletedColor>
+        <WarningColor>#fa1702</WarningColor>
+        <FontSize>7</FontSize>
+        <ConnectorDefaultAngle>145.0</ConnectorDefaultAngle>
+        <ConnectorAngleStep>10.0</ConnectorAngleStep>
+        <LabelHeight>100.0</LabelHeight>
+        <LabelWidth>150.0</LabelWidth>
+        <TransferToColor>#ff1100</TransferToColor>
+        <TransferFromColor>#1aff00</TransferFromColor>
+        <ControlledColor>#c2fc03</ControlledColor>
+        <ZIndex>-10</ZIndex>
+    </TargetLabel>
+</Target>

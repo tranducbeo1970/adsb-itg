@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="TS658" x="106.5461" y="10.8855"/>
+	<Point name="TS686" x="106.7850" y="11.1472"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="PATMA" x="107.8099" y="12.3363"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="DOVIN" x="108.1080" y="11.9169"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="DILIN" x="108.1386" y="11.6036"/>
+	<Point name="KADUM" x="107.0594" y="11.3572"/>
+	<Point name="PTH" x="108.0719" y="10.9280"/>
+	<Point name="TSC03" x="106.5863" y="10.8494"/>
+	<Point name="TSC04" x="106.5849" y="10.8508"/>
+	<Point name="TS652" x="106.6055" y="10.7994"/>
+	<Point name="TS654" x="106.6036" y="10.8022"/>
+	<Point name="RW25L" x="106.6694" y="10.8236"/>
+	<Point name="RW25R" x="106.6630" y="10.8247"/>
+</ListPoints>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListPoints>
+	<Point name="ARR07-TROM-0-1" x="106.18" y="10.8533"/>
+	<Point name="ARR07-TROM-0-3" x="106.3797" y="10.9286"/>
+	<Point name="ARR07-TROM-0-5" x="106.6128" y="10.89306"/>
+	<Point name="ARR07-TROM-0-7" x="106.6434" y="10.8138"/>
+	<Point name="ARR07-TROM-0-9" x="106.731" y="10.5958"/>
+	<Point name="ARR07-TROM-0-11" x="106.5702" y="10.5348"/>
+	<Point name="ARR07-TROM-0-13" x="106.0986" y="10.3927"/>
+	<Point name="ARR25-TROM-0-1" x="106.945" y="10.21"/>
+	<Point name="ARR25-TROM-0-3" x="106.859" y="10.39"/>
+	<Point name="ARR25-TROM-0-5" x="106.775" y="10.547"/>
+	<Point name="ARR25-TROM-0-7" x="106.663" y="10.825"/>
+	<Point name="ARR25-TROM-0-9" x="106.632" y="10.903"/>
+	<Point name="ARR25-TROM-0-11" x="106.781" y="10.959"/>
+	<Point name="ARR25-TROM-0-13" x="107.096" y="10.949"/>
+	<Point name="ARR25-TROM-0-15" x="107.263" y="10.523"/>
+	<Point name="ARR-TROM-ARC-75" x="106.6455" y="10.8163"/>
+</ListPoints>

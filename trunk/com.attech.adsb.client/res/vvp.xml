@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VVPs>
+    <VVP name="VVP1" color="#FF4D4D" type="POLYGON" levelmin="1500" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="21.106112" x="105.80278" size="0"/>
+        <Point y="21.0225" x="105.87222" size="0"/>
+        <Point y="21.006945" x="105.85667" size="0"/>
+        <Point y="20.982222" x="105.778336" size="0"/>
+        <Point y="21.025" x="105.721664" size="0"/>
+    </VVP>
+    <VVP name="VVP2" color="#2e0af7" type="POLYGON" levelmin="1500" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="20.896667" x="106.68472" size="0"/>
+        <Point y="20.883333" x="106.736115" size="0"/>
+        <Point y="20.82639" x="106.672226" size="0"/>
+        <Point y="20.841667" x="106.66389" size="0"/>
+    </VVP>
+    <VVP name="VVP3" color="#2e0af7" type="POLYGON" levelmin="1500" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="16.083334" x="108.227776" size="0"/>
+        <Point y="16.047222" x="108.219444" size="0"/>
+        <Point y="16.047222" x="108.20695" size="0"/>
+        <Point y="16.071667" x="108.20695" size="0"/>
+    </VVP>
+    <VVP name="VVP4" color="#2e0af7" type="POLYGON" levelmin="3000" radius="0.0" enabled="true" weight="1" z-index="0">
+        <Point y="10.797222" x="106.638885" size="0"/>
+        <Point y="10.822222" x="106.744446" size="0"/>
+        <Point y="10.729167" x="106.64306" size="0"/>
+        <Point y="10.753333" x="106.70611" size="0"/>
+    </VVP>
+</VVPs>

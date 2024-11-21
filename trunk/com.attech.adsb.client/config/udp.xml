@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UDP>
+    <Mode>UNICAST</Mode>
+    <BindingIP>192.168.22.157</BindingIP>
+    <Port>20190</Port>
+    <BufferSize>4096</BufferSize>
+    <RetryInterval>5000</RetryInterval>
+    <RecordEnable>true</RecordEnable>
+    <DataLocation>D:\asd\client</DataLocation>
+    <DataLimit>10</DataLimit>
+    <IdentifyString>SECTOR2-HN</IdentifyString>
+</UDP>

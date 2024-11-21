@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>FDX5194</Callsign>
+    <Address>A9AF32</Address>
+    <FlightLevel>321.5</FlightLevel>
+    <Speed>483.34</Speed>
+    <Heading>209.79750061035156</Heading>
+    <VerticalRate>14.0625</VerticalRate>
+    <Longtitude>105.08189392089844</Longtitude>
+    <Latitude>6.358922958374023</Latitude>
+    <TimeOfDay>3030.6171875</TimeOfDay>
+    <InitialTime>1596133700869</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596133700869</LastUpdateInMil>
+    <Mode3A>5612</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

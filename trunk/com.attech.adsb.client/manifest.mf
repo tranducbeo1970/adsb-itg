@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 1.8.0_111-b14 (Oracle Corporation)
+Project-Name: ASD Client
+Built-Date: 2024-11-14 23:18:01 UTC
+Built-By: tranduc
+Built-Num: 5
+Version: 2.0.0_b5
+SVN-Revision: ${svna.version}
+Company: ATTECH
+URL: http://attech.com.vn
+

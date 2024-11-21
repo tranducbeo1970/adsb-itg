@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>KAL375</Callsign>
+    <Address>71BE03</Address>
+    <FlightLevel>54.75</FlightLevel>
+    <Speed>216.26</Speed>
+    <Heading>50.69900131225586</Heading>
+    <VerticalRate>-7.6875</VerticalRate>
+    <Longtitude>106.77345275878906</Longtitude>
+    <Latitude>10.702110290527344</Latitude>
+    <TimeOfDay>2153.765625</TimeOfDay>
+    <InitialTime>1596132370584</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596132370584</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

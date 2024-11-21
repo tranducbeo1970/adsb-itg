@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Preference>
+    <Sector>SECTOR2-HN</Sector>
+    <Record enable="true">
+        <Location>record</Location>
+        <Length>30</Length>
+    </Record>
+    <SignalQuality nic="4" nac="5" sil="2"/>
+    <TargetTimeoutThreshold>60000</TargetTimeoutThreshold>
+    <FullScreen>false</FullScreen>
+    <Theme>Windows</Theme>
+    <LockFile>lock</LockFile>
+    <TargetUpdateInterval>4</TargetUpdateInterval>
+    <TargetInfoUpdateInterval>20</TargetInfoUpdateInterval>
+    <DebugMode>true</DebugMode>
+    <TmaWarningThreshold>15</TmaWarningThreshold>
+    <Parameters>
+        <SPV>2</SPV>
+        <WarningHitFuture>160</WarningHitFuture>
+        <WarningHitLevel>900.0</WarningHitLevel>
+        <WarningHitYellowDistance>10.5</WarningHitYellowDistance>
+        <WarningHitDistance>0.0</WarningHitDistance>
+        <vectorAhead>15.0</vectorAhead>
+        <heading>false</heading>
+        <assume>true</assume>
+        <AcviteFilter>false</AcviteFilter>
+        <CheckVVPR>false</CheckVVPR>
+        <CheckConflict>false</CheckConflict>
+        <CheckDRAW>false</CheckDRAW>
+        <CheckAMA>false</CheckAMA>
+        <CheckTMA>false</CheckTMA>
+        <CheckMSA>false</CheckMSA>
+        <CheckOutScreen>true</CheckOutScreen>
+        <CheckClimdDesc>false</CheckClimdDesc>
+        <CheckTransfer>true</CheckTransfer>
+        <Client>false</Client>
+        <IsRecording>true</IsRecording>
+        <RecordingStorageLocation>D:\asd\client</RecordingStorageLocation>
+        <amaMargin>8</amaMargin>
+        <to_feet>3.3</to_feet>
+    </Parameters>
+</Preference>

@@ -1,0 +1,1 @@
+java -Djava.library.path="C:\Program Files\Isode\bin" -jar com.attech.asd.amhs.service.jar

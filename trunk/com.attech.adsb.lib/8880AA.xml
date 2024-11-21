@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AirCraft address="8880AA">
+    <CallSigns>VN036</CallSigns>
+    <Messages sic="0" address="8880AA" callsign="VN036" longtitude="21.0" latitude="108.0" flight-level="345.0" nic="2" nac="4" sil="2" distance="0.0" position-time="2333.3" transmiss-time="2333.3" received-time="1212322"/>
+    <Messages sic="0" address="8880AA" callsign="VN036" longtitude="21.0" latitude="108.0" flight-level="345.0" nic="2" nac="4" sil="2" distance="0.0" position-time="2333.3" transmiss-time="2333.3" received-time="1212322"/>
+    <Messages sic="0" address="8880AA" callsign="VN036" longtitude="21.0" latitude="108.0" flight-level="345.0" nic="2" nac="4" sil="2" distance="0.0" position-time="2333.3" transmiss-time="2333.3" received-time="1212322"/>
+</AirCraft>

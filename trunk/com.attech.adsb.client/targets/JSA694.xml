@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>JSA694</Callsign>
+    <Address>76AA6C</Address>
+    <FlightLevel>350.0</FlightLevel>
+    <Speed>458.26</Speed>
+    <Heading>211.5904998779297</Heading>
+    <VerticalRate>-0.625</VerticalRate>
+    <Longtitude>106.58280944824219</Longtitude>
+    <Latitude>8.661355018615723</Latitude>
+    <TimeOfDay>1753.875</TimeOfDay>
+    <InitialTime>1596131742211</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131742211</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

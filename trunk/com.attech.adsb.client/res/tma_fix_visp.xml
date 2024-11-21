@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="TSN-FIX-R294" x="106.4283" y="10.9124"/>
+	<Point name="TSN-FIX-R250" x="106.4219" y="10.7360"/>
+	<Point name="TSN-FIX-R240" x="106.4395" y="10.6999"/>
+	<Point name="TSN-FIX-R232" x="106.4583" y="10.6719"/>
+	<Point name="TSN-FIX-R215" x="106.5077" y="10.6254"/>
+	<Point name="TSN-FIX-R181" x="106.6408" y="10.5825"/>
+	<Point name="TSN-FIX-R135" x="106.8134" y="10.6507"/>
+	<Point name="TSN-FIX-R128" x="106.8348" y="10.6745"/>
+	<Point name="TSN-FIX-T1" x="106.7913" y="11.0010"/>
+	<Point name="TSN-FIX-D.4" x="106.5747" y="10.7896"/>
+	<Point name="TSN-FIX-D.4" x="106.7153" y="10.8430"/>
+	<Point name="TSN-FIX-" x="106.8134" y="10.7878"/>
+	<Point name="TSN-FIX-R150" x="106.7304" y="10.6732"/>
+	<Point name="TSN-VISP-CAN GIUOC" x="106.6713" y="10.6072"/>
+	<Point name="TSN-VISP-NHA BE" x="1067403." y="10.6944"/>
+	<Point name="TSN-VISP-BEN LUC" x="106.4917" y="10.6359"/>
+	<Point name="TSN-VISP-GO CONG" x="106.6744" y="10.3629"/>
+	<Point name="TSN-VISP-TAN AN" x="106.4097" y="10.5409"/>
+	<Point name="TSN-VISP-BEN TRE" x="106.3761" y="10.2386"/>
+	<Point name="TSN-VISP-TAY NINH" x="106.1296" y="11.2828"/>
+	<Point name="TSN-VISP-CUCHI" x="106.4862" y="10.9684"/>
+	<Point name="TSN-VISP-SB B.HOA" x="106.8195" y="10.9753"/>
+	<Point name="TSN-VISP-SB L.THANH" x="106.9598" y="10.8364"/>
+	<Point name="TSN-VISP-CAN DUOC" x="106.6047" y="10.5039"/>
+	<Point name="TSN-VISP-TRUNG LUONG" x="106.3206" y="10.4254"/>
+	<Point name="TSN-VISP-THUDAUMOT" x="106.6557" y="10.9928"/>
+	<Point name="TSN-VISP-C. DONG NAI" x="106.8395" y="10.9014"/>
+	<Point name="TSN-FIX-" x="106.5602" y="10.6736"/>
+	<Point name="NOB-VISP-Y.PHONG" x="105.9546" y="21.1937"/>
+	<Point name="NOB-VISP-B.NINH" x="106.0628" y="21.1807"/>
+	<Point name="NOB-VISP-B.GIANG" x="106.2003" y="21.2756"/>
+	<Point name="NOB-VISP-HAI DUONG" x="106.3234" y="20.9400"/>
+	<Point name="NOB-VISP-H.YEN" x="106.0581" y="20.6667"/>
+	<Point name="NOB-VISP-T.BINH" x="106.3367" y="20.4458"/>
+	<Point name="NOB-VISP-T.HAI" x="106.5421" y="20.3558"/>
+	<Point name="NOB-VISP-SAO DO" x="106.3948" y="21.1156"/>
+	<Point name="NOB-VISP-NINH BINH" x="105.9682" y="20.2658"/>
+	<Point name="NOB-VISP-SB KEP" x="106.2613" y="21.3945"/>
+	<Point name="NOB-VISP-H.BINH" x="105.3423" y="20.8218"/>
+	<Point name="NOB-VISP-V.TRI" x="105.4214" y="21.3071"/>
+	<Point name="NOB-VISP-V.YEN" x="105.5991" y="21.3108"/>
+	<Point name="NOB-VISP-T.NGUYEN" x="105.8388" y="21.5883"/>
+	<Point name="NOB-VISP-H.DONG" x="105.7736" y="20.9694"/>
+	<Point name="NOB-FIX-HALAN" x="105.6455" y="21.0366"/>
+	<Point name="NOB-FIX-LIBEO" x="105.4597" y="21.2113"/>
+	<Point name="NOB-FIX-GOLIN" x="106.0038" y="21.4069"/>
+	<Point name="NOB-VISP-H.LAC" x="105.4858" y="21.0233"/>
+	<Point name="NOB-VISP-D1296" x="105.3692" y="21.0613"/>
+	<Point name="NOB-VISP-D1031" x="105.4458" y="20.9594"/>
+	<Point name="NOB-VISP-D1198" x="105.4143" y="20.6867"/>
+	<Point name="NOB-VISP-D1592" x="105.5511" y="21.5732"/>
+	<Point name="NOB-VISP-T.XUAN" x="105.4688" y="19.9025"/>
+	<Point name="NOB-VISP-YENBAI" x="104.8544" y="21.7318"/>
+	<Point name="NOB-VISP-TH.TIN" x="105.8647" y="20.8714"/>
+	<Point name="NOB-VISP-K.AN" x="106.6061" y="20.8047"/>
+	<Point name="NOB-VISP-DOSON" x="106.8056" y="20.6730"/>
+	<Point name="NOB-VISP-CATBA" x="107.0518" y="20.7245"/>
+	<Point name="NOB-VISP-HALONG" x="107.0426" y="20.9676"/>
+	<Point name="NOB-FIX-D13" x="105.6127" y="21.2769"/>
+	<Point name="NOB-FIX-HUVAN" x="105.1110" y="21.2082"/>
+	<Point name="NOB-FIX-SAMFU" x="105.9953" y="20.5557"/>
+	<Point name="NOB-FIX-THAVI" x="105.8433" y="20.5383"/>
+	<Point name="NOB-FIX-HUNLI" x="105.1371" y="21.0366"/>
+	<Point name="NOB-FIX-VINHA" x="105.1552" y="20.9819"/>
+	<Point name="NOB-FIX-TRANA" x="105.1483" y="21.0038"/>
+	<Point name="NOB-FIX-KUNGA" x="105.1966" y="20.8963"/>
+	<Point name="NOB-FIX-VITRA" x="106.0808" y="20.5794"/>
+	<Point name="NOB-FIX-HAKAO" x="106.2916" y="21.7372"/>
+	<Point name="NOB-VISP-C.TL" x="105.7866" y="21.1010"/>
+	<Point name="NOB-FIX-PHUTA" x="106.4636" y="20.9283"/>
+	<Point name="NOB-FIX-HANKA" x="105.7899" y="20.8372"/>
+	<Point name="CAB-VISP-Y.PHONG" x="105.9546" y="21.1937"/>
+	<Point name="CAB-VISP-B.NINH" x="106.0628" y="21.1807"/>
+	<Point name="CAB-VISP-B.GIANG" x="106.2003" y="21.2756"/>
+	<Point name="CAB-VISP-HAI DUONG" x="106.3234" y="20.9400"/>
+	<Point name="CAB-VISP-H.YEN" x="106.0581" y="20.6667"/>
+	<Point name="CAB-VISP-T.BINH" x="106.3367" y="20.4458"/>
+	<Point name="CAB-VISP-T.HAI" x="106.5421" y="20.3558"/>
+	<Point name="CAB-VISP-SAO DO" x="106.3948" y="21.1156"/>
+	<Point name="CAB-VISP-NINH BINH" x="105.9682" y="20.2658"/>
+	<Point name="CAB-VISP-SB KEP" x="106.2613" y="21.3945"/>
+	<Point name="CAB-VISP-H.BINH" x="105.3423" y="20.8218"/>
+	<Point name="CAB-VISP-V.TRI" x="105.4214" y="21.3071"/>
+	<Point name="CAB-VISP-V.YEN" x="105.5991" y="21.3108"/>
+	<Point name="CAB-VISP-T.NGUYEN" x="105.8388" y="21.5883"/>
+	<Point name="CAB-VISP-H.DONG" x="105.7736" y="20.9694"/>
+	<Point name="CAB-FIX-HALAN" x="105.6455" y="21.0366"/>
+	<Point name="CAB-FIX-LIBEO" x="105.4597" y="21.2113"/>
+	<Point name="CAB-FIX-GOLIN" x="106.0038" y="21.4069"/>
+	<Point name="CAB-VISP-H.LAC" x="105.4858" y="21.0233"/>
+	<Point name="CAB-VISP-T.XUAN" x="105.4688" y="19.9025"/>
+	<Point name="CAB-VISP-YENBAI" x="104.8544" y="21.7318"/>
+	<Point name="CAB-VISP-TH.TIN" x="105.8647" y="20.8714"/>
+	<Point name="CAB-VISP-K.AN" x="106.6061" y="20.8047"/>
+	<Point name="CAB-VISP-DOSON" x="106.8056" y="20.6730"/>
+	<Point name="CAB-VISP-CATBA" x="107.0518" y="20.7245"/>
+	<Point name="CAB-VISP-HALONG" x="107.0426" y="20.9676"/>
+	<Point name="CAB-FIX-VIBAO" x="106.4961" y="20.6552"/>
+	<Point name="CAB-FIX-VANUC" x="106.7216" y="20.5486"/>
+	<Point name="CAB-FIX-LOCHA" x="106.9286" y="20.6294"/>
+	<Point name="CAB-FIX-PHUTA" x="106.4636" y="20.9283"/>
+	<Point name="CAB-FIX-IF" x="106.5188" y="20.7769"/>
+	<Point name="CAB-FIX-" x="106.5563" y="20.6983"/>
+	<Point name="CAB-FIX-IF" x="106.9274" y="20.8891"/>
+	<Point name="VIN-VISP-H.LAC" x="105.4858" y="21.0233"/>
+	<Point name="VIN-VISP-T.XUAN" x="105.4688" y="19.9025"/>
+	<Point name="VIN-VISP-YENBAI" x="104.8544" y="21.7318"/>
+	<Point name="VIN-VISP-K.AN" x="106.6061" y="20.8047"/>
+	<Point name="VIN-VISP-H.NGU" x="105.7761" y="18.8006"/>
+	<Point name="VIN-VISP-D.CHAU" x="105.6006" y="18.9771"/>
+	<Point name="VIN-VISP-Q.LUU" x="105.6303" y="19.1462"/>
+	<Point name="VIN-VISP-T.HOA" x="105.7751" y="19.8113"/>
+	<Point name="VIN-VISP-HATINH" x="105.9028" y="18.3428"/>
+	<Point name="VIN-VISP-DOLUONG" x="105.3108" y="18.9036"/>
+	<Point name="VIN-VISP-GAVINH" x="105.6640" y="18.6886"/>
+	<Point name="VIN-VISP-N.DAN" x="105.5230" y="18.6972"/>
+	<Point name="DIB-VISP-H.LAC" x="105.4858" y="21.0233"/>
+	<Point name="DIB-VISP-T.XUAN" x="105.4688" y="19.9025"/>
+	<Point name="DIB-VISP-YENBAI" x="104.8544" y="21.7318"/>
+	<Point name="DIB-VISP-K.AN" x="106.6061" y="20.8047"/>
+	<Point name="DIB-VISP-T.TRANG" x="102.9219" y="21.2233"/>
+	<Point name="DIB-VISP-PAKHOANG" x="103.1022" y="21.4372"/>
+	<Point name="DIB-VISP-T.CHAU" x="103.6928" y="21.4368"/>
+	<Point name="DIB-FIX-LAITU" x="103.2930" y="21.3461"/>
+	<Point name="BQ-VISP-SONLA" x="103.9095" y="21.3292"/>
+	<Point name="BQ-VISP-T.CHAU" x="103.6928" y="21.4368"/>
+	<Point name="HUE-VISP-TP.HUE" x="107.5868" y="16.4668"/>
+	<Point name="HUE-VISP-LANGCO" x="108.0736" y="16.2479"/>
+	<Point name="DAN-VISP-TP.HUE" x="107.5868" y="16.4668"/>
+	<Point name="DAN-VISP-LANGCO" x="108.0736" y="16.2479"/>
+	<Point name="DAN-VISP-CL.CHAM" x="108.5126" y="15.9556"/>
+	<Point name="DAN-VISP-CUADAI" x="108.3951" y="15.8746"/>
+	<Point name="DAN-VISP-V.PHUOC" x="107.9968" y="15.8543"/>
+	<Point name="DAN-VISP-BANA" x="108.0006" y="15.9924"/>
+	<Point name="DAN-FIX-CAHEO" x="107.9602" y="16.5416"/>
+	<Point name="DAN-FIX-KANGU" x="108.6647" y="16.3541"/>
+	<Point name="DAN-FIX-SAMBO" x="108.7077" y="16.2802"/>
+	<Point name="DAN-FIX-TAMKY" x="108.5366" y="15.6236"/>
+	<Point name="DAN-FIX-TAHUA" x="108.1494" y="15.5150"/>
+	<Point name="DAN-FIX-TANNA" x="107.6588" y="15.9033"/>
+	<Point name="TRN-VISP-TP.CTHO" x="105.7806" y="10.0359"/>
+	<Point name="TRN-VISP-NGA 7" x="105.8220" y="9.80867"/>
+	<Point name="TRN-VISP-CO DO" x="105.4303" y="10.0971"/>
+	<Point name="TRN-FIX-CANTO" x="105.5694" y="10.3166"/>
+	<Point name="TRN-FIX-CHUTA" x="105.8927" y="10.2858"/>
+	<Point name="TRN-FIX-VINLO" x="105.9244" y="10.2524"/>
+	<Point name="TRN-FIX-GIANA" x="105.8616" y="9.86055"/>
+	<Point name="TRN-FIX-XUTHO" x="105.5702" y="9.85083"/>
+	<Point name="TRN-FIX-DOTHA" x="105.4422" y="10.0277"/>
+	<Point name="CN-FIX-VUSON" x="106.6283" y="9.00500"/>
+	<Point name="CN-FIX-CONDA" x="106.4749" y="8.95666"/>
+	<Point name="CN-FIX-D14" x="106.8619" y="8.66888"/>
+	<Point name="CN-FIX-D14" x="106.4183" y="8.82416"/>
+</ListPoints>

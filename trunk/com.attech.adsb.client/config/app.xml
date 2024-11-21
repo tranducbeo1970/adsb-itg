@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<App>
+    <Parameters>
+        <Parameter key="FIX:TAN SON NHAT:FIX POINTS NAME" value="false"/>
+        <Parameter key="VVR/KV51" value="false"/>
+        <Parameter key="MAP/FIXNAV/NDB" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:SADDNEW-05" value="false"/>
+        <Parameter key="TARGET/LABEL/SSR" value="true"/>
+        <Parameter key="VVR/KV53" value="false"/>
+        <Parameter key="RWY:DA NANG:DN17R" value="false"/>
+        <Parameter key="MAP/APP" value="false"/>
+        <Parameter key="VVR/KV50" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 07L/R VICAL 2G" value="false"/>
+        <Parameter key="VVR/KV56" value="false"/>
+        <Parameter key="VVR/KV57" value="false"/>
+        <Parameter key="VVR/KV58" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ROUTE_PR" value="false"/>
+        <Parameter key="WARNING_VVPR" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:RNAV-02" value="false"/>
+        <Parameter key="VVR/VVR_TEST" value="false"/>
+        <Parameter key="TARGET/LABEL/COALT" value="true"/>
+        <Parameter key="SELECTED_ZOOM_LEVEL:SECONDARY:" value="294"/>
+        <Parameter key="RWY:DA NANG:DN17L" value="false"/>
+        <Parameter key="MAP/APP:SECONDARY" value="false"/>
+        <Parameter key="WARNING_CLDC" value="false"/>
+        <Parameter key="TARGET/LABEL/CALT" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU:STAR-RWY28" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R TANOS 2E" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R TANOS 2D" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:SID RNAV RWY 07L/R BASON 1D" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:ILS X RWY 07R" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU-ALL:RWY28-POINTS" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE-ALL:TROMBONE-ALL TSN07RNAV" value="false"/>
+        <Parameter key="CIRCLE:TAN SON NHAT" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:ILS Y RWY 25L" value="false"/>
+        <Parameter key="VVR/KV73" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE-ALL:TROMBONE-ALL TSN07POINTS" value="false"/>
+        <Parameter key="VVR/KV75" value="false"/>
+        <Parameter key="selected-airport" value="CAM RANH"/>
+        <Parameter key="VVR/KV70" value="false"/>
+        <Parameter key="VVR/KV71" value="false"/>
+        <Parameter key="VVD/VVD21MIEUMON" value="false"/>
+        <Parameter key="CIRCLE:CAM RANH:SECONDARY" value="true"/>
+        <Parameter key="VVR/KV72" value="false"/>
+        <Parameter key="TARGET/LABEL/TRACKING" value="true"/>
+        <Parameter key="VVR/KV70G" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:RNAV-20" value="false"/>
+        <Parameter key="TMA:DA NANG" value="false"/>
+        <Parameter key="TARGET/SSR:SECONDARY" value="true"/>
+        <Parameter key="MAP/FIXNAV/VORDME" value="false"/>
+        <Parameter key="CIRCLE:CAM RANH" value="false"/>
+        <Parameter key="VVD/VVD29" value="false"/>
+        <Parameter key="SPEED_VECTOR" value="0"/>
+        <Parameter key="VVD/VVD_TEST" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:STAR-20:SECONDARY" value="true"/>
+        <Parameter key="ROUTE:SECONDARY" value="false"/>
+        <Parameter key="MAP/FIXNAV/WAYPOINT" value="true"/>
+        <Parameter key="TARGET/LABEL/HEADING" value="true"/>
+        <Parameter key="PROC:DA NANG:TMA:SID-02" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R ANTRI 2D" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R ANTRI 2F" value="false"/>
+        <Parameter key="VVD/VVD31" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R ANTRI 2E" value="false"/>
+        <Parameter key="VVD/VVD30" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU:STAR-RWY10" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 07L/R 2A" value="false"/>
+        <Parameter key="ARR:TAN SON NHAT:ARR 07-PMS" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX POINTS" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS-ALL:TSN25RNAV" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 25L/R BITIS 2J" value="false"/>
+        <Parameter key="VVR/KV469c" value="false"/>
+        <Parameter key="ARC:DA NANG:SECONDARY" value="false"/>
+        <Parameter key="VVR/KV469b" value="false"/>
+        <Parameter key="MAP/FIXNAV/ROUTE" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS-ALL:TSN07RNAV" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:SID-02:SECONDARY" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 25L/R DALAP 2J" value="false"/>
+        <Parameter key="VVD/VVD24" value="false"/>
+        <Parameter key="VVD/VVD23" value="false"/>
+        <Parameter key="WARNING_MTCA" value="false"/>
+        <Parameter key="VVD/VVD26" value="false"/>
+        <Parameter key="VVD/VVD25" value="false"/>
+        <Parameter key="VVD/VVD28" value="false"/>
+        <Parameter key="VVD/VVD27" value="false"/>
+        <Parameter key="MAP/FIXNAV/NAME:SECONDARY" value="true"/>
+        <Parameter key="APP:CAM RANH:SECONDARY" value="true"/>
+        <Parameter key="FIX:DA NANG:FIX VISP:SECONDARY" value="true"/>
+        <Parameter key="TMA:CAM RANH" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:SID-20" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ROUTE_PR:SECONDARY" value="true"/>
+        <Parameter key="ARC:NOI BAI" value="false"/>
+        <Parameter key="MAP/FIXNAV/ROUTE:SECONDARY" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC:SID-20:SECONDARY" value="true"/>
+        <Parameter key="MAP/CIRCLE:DA NANG" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX POINTS:SECONDARY" value="true"/>
+        <Parameter key="FIX:DA NANG:FIX POINTS:SECONDARY" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC:STAR-02" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:RNAV-02:SECONDARY" value="true"/>
+        <Parameter key="WARNING_OUTSCR" value="false"/>
+        <Parameter key="RWY:TAN SON NHAT:TS07R" value="false"/>
+        <Parameter key="VVR/KVDinh" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ILSZ 02:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS-ALL:TSN07POINTS" value="false"/>
+        <Parameter key="MAP/FIXNAV/NAME" value="true"/>
+        <Parameter key="WARNING_STCA" value="false"/>
+        <Parameter key="VVR/KV470" value="false"/>
+        <Parameter key="TARGET/SPD:SECONDARY" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC:ILSZ 02" value="false"/>
+        <Parameter key="TOPOGRAPHIC" value="false"/>
+        <Parameter key="RWY:TAN SON NHAT:TS07L" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:SID-02" value="false"/>
+        <Parameter key="APP:CAM RANH" value="false"/>
+        <Parameter key="MAP/AMA" value="false"/>
+        <Parameter key="TARGET/ALT:SECONDARY" value="true"/>
+        <Parameter key="BACKGROUND-COLOR" value="#000066"/>
+        <Parameter key="VVD/VVD32MAYTAO" value="false"/>
+        <Parameter key="MAP/FIXNAV/WAYPOINT:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 25L/R ELAS 2H" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX POINTS NAME:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:SID RNAV RWY 25L/R ANTRI 1E" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:SID RNAV RWY 25L/R ANTRI 1C" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:STAR-20" value="false"/>
+        <Parameter key="RWY:TAN SON NHAT:TS25L" value="false"/>
+        <Parameter key="RWY:TAN SON NHAT:TS25R" value="false"/>
+        <Parameter key="VVR/VVR19" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU-ALL:RWY28" value="false"/>
+        <Parameter key="ARC:TAN SON NHAT" value="false"/>
+        <Parameter key="VVR/KV465a" value="false"/>
+        <Parameter key="FIX:CAM RANH:PROC:SID-02" value="true"/>
+        <Parameter key="RWY:DA NANG:DN35R:SECONDARY" value="true"/>
+        <Parameter key="SECONDARY:SELECTED_ZOOM_LEVEL" value="187"/>
+        <Parameter key="FIX:DA NANG:FIX VISP NAME:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R BASON 2D" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:RNAV-02" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:SID-02" value="false"/>
+        <Parameter key="VVD/VVD20CAMSON" value="false"/>
+        <Parameter key="WARNING_TRANSFER" value="true"/>
+        <Parameter key="LOCAL_SECTOR" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE-ALL:TROMBONE-ALL TSN25POINTS" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 07L/R LANHI 2B" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU-ALL:RWY10" value="false"/>
+        <Parameter key="VVR/KV467" value="false"/>
+        <Parameter key="VVR/KV466" value="false"/>
+        <Parameter key="VVR/KV469" value="false"/>
+        <Parameter key="VVR/KV468" value="false"/>
+        <Parameter key="VVR/KV463" value="false"/>
+        <Parameter key="VVR/KV462" value="false"/>
+        <Parameter key="FIX:DA NANG:FIX POINTS NAME" value="false"/>
+        <Parameter key="VVR/KV465" value="false"/>
+        <Parameter key="VVR/KV461" value="false"/>
+        <Parameter key="VVR/KV460" value="false"/>
+        <Parameter key="MAP/TMA" value="true"/>
+        <Parameter key="TARGET/CALLSIGN:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:STAR RNAV RWY 07L/R BAOMY 1D" value="false"/>
+        <Parameter key="RWY:DA NANG:DN35R" value="false"/>
+        <Parameter key="HISTORY_LENGTH" value="0"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ROUTE_PR" value="false"/>
+        <Parameter key="VVD/VVD22KHAMDUC" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR20R" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:STAR-02:SECONDARY" value="true"/>
+        <Parameter key="MAP/TMA:SECONDARY" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:STAR RNAV RWY 25L/R BAOMY 1F" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE-ALL:TROMBONE-ALL TSN25RNAV" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR20L" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:SADDNEW-05" value="false"/>
+        <Parameter key="VVR/VVR33_1" value="false"/>
+        <Parameter key="TMA:CAM RANH:SECONDARY" value="true"/>
+        <Parameter key="TMA:TAN SON NHAT" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:RNAV-20" value="false"/>
+        <Parameter key="ARC:DA NANG" value="false"/>
+        <Parameter key="ARC:CAM RANH:SECONDARY" value="true"/>
+        <Parameter key="RWY:DA NANG:DN35L" value="false"/>
+        <Parameter key="SELECTED_AIRPORT" value="DA NANG"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU-ALL:RWY10-POINTS" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX VISP:SECONDARY" value="true"/>
+        <Parameter key="VVP/VVP_TEST" value="true"/>
+        <Parameter key="SELECTED_ZOOM_LEVEL:SECONDARY" value="300"/>
+        <Parameter key="TMA:NOI BAI" value="false"/>
+        <Parameter key="TARGET/LABEL/HDGNOTE" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 07L/R ANTRI 2B" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:ILS X RWY 25R" value="false"/>
+        <Parameter key="FIX:DA NANG:FIX POINTS" value="false"/>
+        <Parameter key="WARNING_DRAW" value="false"/>
+        <Parameter key="MAP/ARC:DA NANG" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR02L" value="false"/>
+        <Parameter key="ARC:CAM RANH" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 25L/R ELAS 2H *" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR02L:SECONDARY" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR02R" value="false"/>
+        <Parameter key="PROC:NOI BAI:PROC:SID-02" value="false"/>
+        <Parameter key="SELECTED_AIRPORT:SECONDARY" value="DA NANG"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 25L/R KADUM 2F" value="false"/>
+        <Parameter key="SECTORS" value="true"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX VISP NAME" value="false"/>
+        <Parameter key="TARGET/LABEL/INFO" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 07L/R BASON 2C" value="false"/>
+        <Parameter key="TARGET/LABEL/CALLSIGN" value="true"/>
+        <Parameter key="VVD/VTV" value="false"/>
+        <Parameter key="FIX:DA NANG:FIX POINTS NAME:SECONDARY" value="true"/>
+        <Parameter key="FIX:DA NANG:FIX VISP" value="false"/>
+        <Parameter key="VVR/KV86" value="false"/>
+        <Parameter key="WARNING_MSA" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:STAR-20" value="false"/>
+        <Parameter key="VVR/KV80" value="false"/>
+        <Parameter key="TARGET/HDGNOTE:SECONDARY" value="true"/>
+        <Parameter key="VVR/KV81" value="false"/>
+        <Parameter key="VVR/KV463A" value="false"/>
+        <Parameter key="VVR/KV82" value="false"/>
+        <Parameter key="VVR/KV83" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU:SID-RWY28" value="false"/>
+        <Parameter key="VVR/VVR40" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:SID RNAV 07L/R LATHA 2B" value="false"/>
+        <Parameter key="CIRCLE:DA NANG" value="false"/>
+        <Parameter key="CIRCLE:DA NANG:SECONDARY" value="false"/>
+        <Parameter key="ARR:TAN SON NHAT:ARR 25-TROM" value="false"/>
+        <Parameter key="RWY:DA NANG:DN17L:SECONDARY" value="true"/>
+        <Parameter key="VVR/VVR37" value="false"/>
+        <Parameter key="VVR/VVR36" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX VISP" value="false"/>
+        <Parameter key="VVR/VVR39" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PQU:SID-RWY10" value="false"/>
+        <Parameter key="VVR/VVR38" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:RNAV-20:SECONDARY" value="true"/>
+        <Parameter key="VVR/VVR33" value="false"/>
+        <Parameter key="NAME:SECONDARY" value="false"/>
+        <Parameter key="VVR/VVR35" value="false"/>
+        <Parameter key="FIX:DA NANG:FIX VISP NAME" value="false"/>
+        <Parameter key="VVR/VVR34" value="false"/>
+        <Parameter key="RWY:CAM RANH:CR02R:SECONDARY" value="false"/>
+        <Parameter key="FIX:TAN SON NHAT:FIX VISP NAME:SECONDARY" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ADDNEW-03" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ILSZ 02" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ADDNEW-02" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:SID-20" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ADDNEW-04" value="false"/>
+        <Parameter key="TARGET/LABEL/CTRL" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:ADDNEW-01" value="false"/>
+        <Parameter key="TMA:DA NANG:SECONDARY" value="false"/>
+        <Parameter key="SELECTED_ZOOM_LEVEL" value="300"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS:STAR RNAV RWY 07L/R SAPEN 2G" value="false"/>
+        <Parameter key="TARGET/LABEL/ALT" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC-1:STAR-02" value="false"/>
+        <Parameter key="ARR:TAN SON NHAT:ARR 25-PMS" value="false"/>
+        <Parameter key="WARNING_AMA" value="false"/>
+        <Parameter key="RWY:DA NANG:DN17R:SECONDARY" value="true"/>
+        <Parameter key="PROC:TAN SON NHAT:TROMBONE:SID RNAV RWY 07L/R ANTRI 1A" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ADDNEW-02:SECONDARY" value="false"/>
+        <Parameter key="ARR:TAN SON NHAT:ARR 07-TROM" value="false"/>
+        <Parameter key="WAYPOINT:SECONDARY" value="true"/>
+        <Parameter key="command" value="true"/>
+        <Parameter key="RWY:DA NANG:DN35L:SECONDARY" value="true"/>
+        <Parameter key="tma-display" value="true"/>
+        <Parameter key="RWY:CAM RANH:CR20R:SECONDARY" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ADDNEW-04" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ADDNEW-02" value="false"/>
+        <Parameter key="TARGET/LABEL/SPD" value="true"/>
+        <Parameter key="PROC:CAM RANH:PROC:ADDNEW-03" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:ADDNEW-01" value="false"/>
+        <Parameter key="PROC:CAM RANH:PROC:SID-02:SECONDARY" value="true"/>
+        <Parameter key="VVP/VVP4" value="false"/>
+        <Parameter key="VVP/VVP3" value="false"/>
+        <Parameter key="VVP/VVP2" value="false"/>
+        <Parameter key="PROC:TAN SON NHAT:PMS-ALL:TSN25POINTS" value="false"/>
+        <Parameter key="VVP/VVP1" value="false"/>
+    </Parameters>
+    <FilterCondition active="false" hide-target="true">
+        <AltitudeLow>1</AltitudeLow>
+        <AltitudeHigh>340</AltitudeHigh>
+        <Callsign></Callsign>
+    </FilterCondition>
+</App>

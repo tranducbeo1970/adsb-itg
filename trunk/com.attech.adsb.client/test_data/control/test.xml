@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<FlightControl> 
+    <address>078908</address> 
+    <assumTime>2020-08-10T12:12:00+07:00</assumTime> 
+    <callSign>HVN123</callSign> 
+    <controller>SECTOR1</controller> 
+    <lastUpdate>2020-08-10T12:12:00+07:00</lastUpdate> 
+    <status>0</status> 
+</FlightControl> 

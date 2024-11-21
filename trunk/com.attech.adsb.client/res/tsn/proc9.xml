@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListPoints>
+	<Point name="TS616" x="106.5344" y="10.7725"/>
+	<Point name="TS618" x="106.3086" y="10.6863"/>
+	<Point name="TS622" x="106.0677" y="10.6069"/>
+	<Point name="TS624" x="106.1322" y="10.4163"/>
+	<Point name="TS626" x="106.6327" y="10.6358"/>
+	<Point name="TS632" x="106.8430" y="10.7152"/>
+	<Point name="TANOS" x="107.3236" y="10.7150"/>
+	<Point name="PTH" x="108.0719" y="10.9280"/>
+	<Point name="TANOS" x="107.3236" y="10.7150"/>
+	<Point name="DOVIN" x="108.1080" y="11.9169"/>
+	<Point name="TANOS" x="107.3236" y="10.7150"/>
+	<Point name="DILIN" x="108.1386" y="11.6036"/>
+	<Point name="RW25L" x="106.6694" y="10.8236"/>
+	<Point name="RW25R" x="106.6630" y="10.8247"/>
+</ListPoints>

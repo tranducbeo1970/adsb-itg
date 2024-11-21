@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airports>
+    <Ref>res/cra/airport.xml</Ref>
+    <Ref>res/dan/airport.xml</Ref>
+    <Ref>res/nob/airport.xml</Ref>
+    <Ref>res/tsn/airport.xml</Ref>
+</Airports>

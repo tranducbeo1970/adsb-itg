@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Graphics>
+    <zoom-level>1.0</zoom-level>
+    <home-location-x>0.0</home-location-x>
+    <home-location-y>0.0</home-location-y>
+    <background-color>#FFFFFF</background-color>
+    <waypoints-display>true</waypoints-display>
+    <ndb-display>true</ndb-display>
+    <vordme-display>true</vordme-display>
+    <label-display>true</label-display>
+    <corridor-display>true</corridor-display>
+    <route-display>true</route-display>
+    <sector-display>true</sector-display>
+    <localsector-display>true</localsector-display>
+    <TargetLabelDisplay>
+        <target-callsign-visible>true</target-callsign-visible>
+        <target-ssr-visible>true</target-ssr-visible>
+        <target-speed-visible>true</target-speed-visible>
+        <target-altitude-visible>true</target-altitude-visible>
+        <target-calt-visible>true</target-calt-visible>
+        <target-coalt-visible>true</target-coalt-visible>
+        <target-controller-visible>true</target-controller-visible>
+        <target-hdgnote-visible>true</target-hdgnote-visible>
+        <target-info-visible>true</target-info-visible>
+        <target-heading-visible>true</target-heading-visible>
+        <target-tracking-visible>true</target-tracking-visible>
+    </TargetLabelDisplay>
+</Graphics>

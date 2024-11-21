@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListPoints>
+	<Point>TSN-FIX-R294</Point>
+	<Point>TSN-FIX-R250</Point>
+	<Point>TSN-FIX-R240</Point>
+	<Point>TSN-FIX-R232</Point>
+	<Point>TSN-FIX-R215</Point>
+	<Point>TSN-FIX-R181</Point>
+	<Point>TSN-FIX-R135</Point>
+	<Point>TSN-FIX-R128</Point>
+	<Point>TSN-FIX-T1</Point>
+	<Point>TSN-FIX-D.4</Point>
+	<Point>TSN-FIX-D.4</Point>
+	<Point>TSN-FIX-</Point>
+	<Point>TSN-FIX-R150</Point>
+	<Point>TSN-VISP-CAN GIUOC</Point>
+	<Point>TSN-VISP-NHA BE</Point>
+	<Point>TSN-VISP-BEN LUC</Point>
+	<Point>TSN-VISP-GO CONG</Point>
+	<Point>TSN-VISP-TAN AN</Point>
+	<Point>TSN-VISP-BEN TRE</Point>
+	<Point>TSN-VISP-TAY NINH</Point>
+	<Point>TSN-VISP-CUCHI</Point>
+	<Point>TSN-VISP-SB B.HOA</Point>
+	<Point>TSN-VISP-SB L.THANH</Point>
+	<Point>TSN-VISP-CAN DUOC</Point>
+	<Point>TSN-VISP-TRUNG LUONG</Point>
+	<Point>TSN-VISP-THUDAUMOT</Point>
+	<Point>TSN-VISP-C. DONG NAI</Point>
+	<Point>TSN-FIX-</Point>
+	<Point>NOB-VISP-Y.PHONG</Point>
+	<Point>NOB-VISP-B.NINH</Point>
+	<Point>NOB-VISP-B.GIANG</Point>
+	<Point>NOB-VISP-HAI DUONG</Point>
+	<Point>NOB-VISP-H.YEN</Point>
+	<Point>NOB-VISP-T.BINH</Point>
+	<Point>NOB-VISP-T.HAI</Point>
+	<Point>NOB-VISP-SAO DO</Point>
+	<Point>NOB-VISP-NINH BINH</Point>
+	<Point>NOB-VISP-SB KEP</Point>
+	<Point>NOB-VISP-H.BINH</Point>
+	<Point>NOB-VISP-V.TRI</Point>
+	<Point>NOB-VISP-V.YEN</Point>
+	<Point>NOB-VISP-T.NGUYEN</Point>
+	<Point>NOB-VISP-H.DONG</Point>
+	<Point>NOB-FIX-HALAN</Point>
+	<Point>NOB-FIX-LIBEO</Point>
+	<Point>NOB-FIX-GOLIN</Point>
+	<Point>NOB-VISP-H.LAC</Point>
+	<Point>NOB-VISP-D1296</Point>
+	<Point>NOB-VISP-D1031</Point>
+	<Point>NOB-VISP-D1198</Point>
+	<Point>NOB-VISP-D1592</Point>
+	<Point>NOB-VISP-T.XUAN</Point>
+	<Point>NOB-VISP-YENBAI</Point>
+	<Point>NOB-VISP-TH.TIN</Point>
+	<Point>NOB-VISP-K.AN</Point>
+	<Point>NOB-VISP-DOSON</Point>
+	<Point>NOB-VISP-CATBA</Point>
+	<Point>NOB-VISP-HALONG</Point>
+	<Point>NOB-FIX-D13</Point>
+	<Point>NOB-FIX-HUVAN</Point>
+	<Point>NOB-FIX-SAMFU</Point>
+	<Point>NOB-FIX-THAVI</Point>
+	<Point>NOB-FIX-HUNLI</Point>
+	<Point>NOB-FIX-VINHA</Point>
+	<Point>NOB-FIX-TRANA</Point>
+	<Point>NOB-FIX-KUNGA</Point>
+	<Point>NOB-FIX-VITRA</Point>
+	<Point>NOB-FIX-HAKAO</Point>
+	<Point>NOB-VISP-C.TL</Point>
+	<Point>NOB-FIX-PHUTA</Point>
+	<Point>NOB-FIX-HANKA</Point>
+	<Point>CAB-VISP-Y.PHONG</Point>
+	<Point>CAB-VISP-B.NINH</Point>
+	<Point>CAB-VISP-B.GIANG</Point>
+	<Point>CAB-VISP-HAI DUONG</Point>
+	<Point>CAB-VISP-H.YEN</Point>
+	<Point>CAB-VISP-T.BINH</Point>
+	<Point>CAB-VISP-T.HAI</Point>
+	<Point>CAB-VISP-SAO DO</Point>
+	<Point>CAB-VISP-NINH BINH</Point>
+	<Point>CAB-VISP-SB KEP</Point>
+	<Point>CAB-VISP-H.BINH</Point>
+	<Point>CAB-VISP-V.TRI</Point>
+	<Point>CAB-VISP-V.YEN</Point>
+	<Point>CAB-VISP-T.NGUYEN</Point>
+	<Point>CAB-VISP-H.DONG</Point>
+	<Point>CAB-FIX-HALAN</Point>
+	<Point>CAB-FIX-LIBEO</Point>
+	<Point>CAB-FIX-GOLIN</Point>
+	<Point>CAB-VISP-H.LAC</Point>
+	<Point>CAB-VISP-T.XUAN</Point>
+	<Point>CAB-VISP-YENBAI</Point>
+	<Point>CAB-VISP-TH.TIN</Point>
+	<Point>CAB-VISP-K.AN</Point>
+	<Point>CAB-VISP-DOSON</Point>
+	<Point>CAB-VISP-CATBA</Point>
+	<Point>CAB-VISP-HALONG</Point>
+	<Point>CAB-FIX-VIBAO</Point>
+	<Point>CAB-FIX-VANUC</Point>
+	<Point>CAB-FIX-LOCHA</Point>
+	<Point>CAB-FIX-PHUTA</Point>
+	<Point>CAB-FIX-IF</Point>
+	<Point>CAB-FIX-</Point>
+	<Point>CAB-FIX-IF</Point>
+	<Point>VIN-VISP-H.LAC</Point>
+	<Point>VIN-VISP-T.XUAN</Point>
+	<Point>VIN-VISP-YENBAI</Point>
+	<Point>VIN-VISP-K.AN</Point>
+	<Point>VIN-VISP-H.NGU</Point>
+	<Point>VIN-VISP-D.CHAU</Point>
+	<Point>VIN-VISP-Q.LUU</Point>
+	<Point>VIN-VISP-T.HOA</Point>
+	<Point>VIN-VISP-HATINH</Point>
+	<Point>VIN-VISP-DOLUONG</Point>
+	<Point>VIN-VISP-GAVINH</Point>
+	<Point>VIN-VISP-N.DAN</Point>
+	<Point>DIB-VISP-H.LAC</Point>
+	<Point>DIB-VISP-T.XUAN</Point>
+	<Point>DIB-VISP-YENBAI</Point>
+	<Point>DIB-VISP-K.AN</Point>
+	<Point>DIB-VISP-T.TRANG</Point>
+	<Point>DIB-VISP-PAKHOANG</Point>
+	<Point>DIB-VISP-T.CHAU</Point>
+	<Point>DIB-FIX-LAITU</Point>
+	<Point>BQ-VISP-SONLA</Point>
+	<Point>BQ-VISP-T.CHAU</Point>
+	<Point>HUE-VISP-TP.HUE</Point>
+	<Point>HUE-VISP-LANGCO</Point>
+	<Point>DAN-VISP-TP.HUE</Point>
+	<Point>DAN-VISP-LANGCO</Point>
+	<Point>DAN-VISP-CL.CHAM</Point>
+	<Point>DAN-VISP-CUADAI</Point>
+	<Point>DAN-VISP-V.PHUOC</Point>
+	<Point>DAN-VISP-BANA</Point>
+	<Point>DAN-FIX-CAHEO</Point>
+	<Point>DAN-FIX-KANGU</Point>
+	<Point>DAN-FIX-SAMBO</Point>
+	<Point>DAN-FIX-TAMKY</Point>
+	<Point>DAN-FIX-TAHUA</Point>
+	<Point>DAN-FIX-TANNA</Point>
+	<Point>TRN-VISP-TP.CTHO</Point>
+	<Point>TRN-VISP-NGA 7</Point>
+	<Point>TRN-VISP-CO DO</Point>
+	<Point>TRN-FIX-CANTO</Point>
+	<Point>TRN-FIX-CHUTA</Point>
+	<Point>TRN-FIX-VINLO</Point>
+	<Point>TRN-FIX-GIANA</Point>
+	<Point>TRN-FIX-XUTHO</Point>
+	<Point>TRN-FIX-DOTHA</Point>
+	<Point>CN-FIX-VUSON</Point>
+	<Point>CN-FIX-CONDA</Point>
+	<Point>CN-FIX-D14</Point>
+	<Point>CN-FIX-D14</Point>
+</ListPoints>

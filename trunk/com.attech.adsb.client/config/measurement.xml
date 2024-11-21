@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MeasurementConfig>
+    <MaximumRuler>10</MaximumRuler>
+    <MaximumRulerPoint>20</MaximumRulerPoint>
+    <LineWeight>1</LineWeight>
+    <LineStyle>0xAAAA</LineStyle>
+    <LineColor>#FFFFFF</LineColor>
+    <PointWeight>4</PointWeight>
+    <Unit>NM</Unit>
+    <MaxRulerNumber>5</MaxRulerNumber>
+    <MaxMeasurePointPerRuler>10</MaxMeasurePointPerRuler>
+    <Label Enabled="true" Padding-X="10" Padding-Y="-5">
+        <Z-Index>1000</Z-Index>
+        <Font-Size>6</Font-Size>
+        <Color>#FFFF00</Color>
+        <Draw-Background>true</Draw-Background>
+        <Background-Color>#f70000</Background-Color>
+        <Content-Unit-Size>12</Content-Unit-Size>
+        <Content-Height>20</Content-Height>
+    </Label>
+</MeasurementConfig>

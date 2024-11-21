@@ -1,0 +1,230 @@
+2022-05-12 14:59:34,553 INFO   [Run] PROGRAM START 
+2022-05-12 14:59:37,582 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-12 14:59:37,668 INFO   [Main] Set zoom level to 300:1.9865723 
+2022-05-12 14:59:38,084 INFO   [VVDsGraphic] Set display VVD20CAMSON to false 
+2022-05-12 14:59:38,085 INFO   [VVDsGraphic] Set display VVD21MIEUMON to false 
+2022-05-12 14:59:38,086 INFO   [VVDsGraphic] Set display VVD22KHAMDUC to false 
+2022-05-12 14:59:38,086 INFO   [VVDsGraphic] Set display VVD23 to false 
+2022-05-12 14:59:38,087 INFO   [VVDsGraphic] Set display VVD24 to false 
+2022-05-12 14:59:38,088 INFO   [VVDsGraphic] Set display VVD25 to false 
+2022-05-12 14:59:38,088 INFO   [VVDsGraphic] Set display VVD26 to false 
+2022-05-12 14:59:38,091 INFO   [VVDsGraphic] Set display VVD27 to false 
+2022-05-12 14:59:38,092 INFO   [VVDsGraphic] Set display VVD28 to false 
+2022-05-12 14:59:38,092 INFO   [VVDsGraphic] Set display VVD29 to false 
+2022-05-12 14:59:38,093 INFO   [VVDsGraphic] Set display VVD30 to false 
+2022-05-12 14:59:38,093 INFO   [VVDsGraphic] Set display VVD31 to false 
+2022-05-12 14:59:38,094 INFO   [VVDsGraphic] Set display VVD32MAYTAO to false 
+2022-05-12 14:59:38,095 INFO   [VVDsGraphic] Set display VTV to false 
+2022-05-12 14:59:38,118 INFO   [VVPsGraphic] Set display VVP1 to false 
+2022-05-12 14:59:38,118 INFO   [VVPsGraphic] Set display VVP2 to false 
+2022-05-12 14:59:38,119 INFO   [VVPsGraphic] Set display VVP3 to false 
+2022-05-12 14:59:38,122 INFO   [VVPsGraphic] Set display VVP4 to false 
+2022-05-12 14:59:38,147 INFO   [VVRsGraphic] Set display VVR19 to false 
+2022-05-12 14:59:38,150 INFO   [VVRsGraphic] Set display VVR33 to false 
+2022-05-12 14:59:38,152 INFO   [VVRsGraphic] Set display VVR33_1 to false 
+2022-05-12 14:59:38,152 INFO   [VVRsGraphic] Set display VVR34 to false 
+2022-05-12 14:59:38,154 INFO   [VVRsGraphic] Set display VVR35 to false 
+2022-05-12 14:59:38,156 INFO   [VVRsGraphic] Set display VVR36 to false 
+2022-05-12 14:59:38,160 INFO   [VVRsGraphic] Set display VVR37 to false 
+2022-05-12 14:59:38,163 INFO   [VVRsGraphic] Set display VVR38 to false 
+2022-05-12 14:59:38,164 INFO   [VVRsGraphic] Set display VVR39 to false 
+2022-05-12 14:59:38,165 INFO   [VVRsGraphic] Set display VVR40 to false 
+2022-05-12 14:59:38,165 INFO   [VVRsGraphic] Set display KV80 to false 
+2022-05-12 14:59:38,166 INFO   [VVRsGraphic] Set display KV81 to false 
+2022-05-12 14:59:38,166 INFO   [VVRsGraphic] Set display KV82 to false 
+2022-05-12 14:59:38,167 INFO   [VVRsGraphic] Set display KV83 to false 
+2022-05-12 14:59:38,167 INFO   [VVRsGraphic] Set display KV86 to false 
+2022-05-12 14:59:38,168 INFO   [VVRsGraphic] Set display KVDinh to false 
+2022-05-12 14:59:38,168 INFO   [VVRsGraphic] Set display KV465 to false 
+2022-05-12 14:59:38,169 INFO   [VVRsGraphic] Set display KV465a to false 
+2022-05-12 14:59:38,170 INFO   [VVRsGraphic] Set display KV466 to false 
+2022-05-12 14:59:38,170 INFO   [VVRsGraphic] Set display KV467 to false 
+2022-05-12 14:59:38,171 INFO   [VVRsGraphic] Set display KV468 to false 
+2022-05-12 14:59:38,171 INFO   [VVRsGraphic] Set display KV469 to false 
+2022-05-12 14:59:38,172 INFO   [VVRsGraphic] Set display KV469b to false 
+2022-05-12 14:59:38,173 INFO   [VVRsGraphic] Set display KV469c to false 
+2022-05-12 14:59:38,173 INFO   [VVRsGraphic] Set display KV470 to false 
+2022-05-12 14:59:38,174 INFO   [VVRsGraphic] Set display KV460 to false 
+2022-05-12 14:59:38,174 INFO   [VVRsGraphic] Set display KV461 to false 
+2022-05-12 14:59:38,175 INFO   [VVRsGraphic] Set display KV462 to false 
+2022-05-12 14:59:38,175 INFO   [VVRsGraphic] Set display KV463 to false 
+2022-05-12 14:59:38,176 INFO   [VVRsGraphic] Set display KV463A to false 
+2022-05-12 14:59:38,176 INFO   [VVRsGraphic] Set display KV70 to false 
+2022-05-12 14:59:38,177 INFO   [VVRsGraphic] Set display KV70G to false 
+2022-05-12 14:59:38,177 INFO   [VVRsGraphic] Set display KV71 to false 
+2022-05-12 14:59:38,178 INFO   [VVRsGraphic] Set display KV72 to false 
+2022-05-12 14:59:38,179 INFO   [VVRsGraphic] Set display KV73 to false 
+2022-05-12 14:59:38,179 INFO   [VVRsGraphic] Set display KV75 to false 
+2022-05-12 14:59:38,180 INFO   [VVRsGraphic] Set display KV50 to false 
+2022-05-12 14:59:38,180 INFO   [VVRsGraphic] Set display KV51 to false 
+2022-05-12 14:59:38,181 INFO   [VVRsGraphic] Set display KV53 to false 
+2022-05-12 14:59:38,182 INFO   [VVRsGraphic] Set display KV56 to false 
+2022-05-12 14:59:38,182 INFO   [VVRsGraphic] Set display KV57 to false 
+2022-05-12 14:59:38,183 INFO   [VVRsGraphic] Set display KV58 to false 
+2022-05-12 14:59:38,210 INFO   [TargetManager] Set current setup position is SECTOR2-HN 
+2022-05-12 14:59:38,557 INFO   [CustomDrawGraphic] Set custom drawing validation to false 
+2022-05-12 14:59:38,558 INFO   [VVDsGraphic] Set target validation to false 
+2022-05-12 14:59:38,558 INFO   [VVPsGraphic] Set target validation to false 
+2022-05-12 14:59:38,558 INFO   [VVRsGraphic] Set target validation to false 
+2022-05-12 14:59:43,634 INFO   [TargetManager] Start target recalculate interval at 4 second 
+2022-05-12 14:59:43,642 INFO   [SocketReceivingHandler] Start listenning on port 20163 (192.168.22.180) 
+2022-05-12 14:59:43,668 ERROR  [Main] Cannot load program built info 
+2022-05-12 14:59:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 14:59:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 14:59:51,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 14:59:55,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 14:59:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:00:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:11,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:19,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:23,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:26,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:00:27,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:31,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:35,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:43,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:00:47,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:51,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:55,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:00:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:06,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:01:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:11,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:19,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:23,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:26,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:01:27,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:31,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:35,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:43,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:46,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:01:47,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:51,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:55,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:01:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:02:07,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:11,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:15,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:19,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:23,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:26,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:02:27,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:31,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:35,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:43,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:02:47,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:51,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:55,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:02:59,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:06,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:03:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:11,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:19,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:23,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:26,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:03:27,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:31,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:35,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:39,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:43,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:03:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:51,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:55,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:03:59,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:04:07,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:11,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:15,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:19,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:23,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:26,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:04:27,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:31,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:35,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:43,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:04:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:51,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:55,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:04:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:03,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:05:07,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:11,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:19,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:23,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:26,649 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:05:27,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:31,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:35,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:43,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:46,649 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:05:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:51,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:55,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:05:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:03,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:06:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:11,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:19,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:23,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:26,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:06:27,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:31,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:35,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:39,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:43,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:06:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:51,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:55,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:06:59,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:03,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:06,650 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:07:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:11,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:19,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:23,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:26,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:07:27,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:31,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:35,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:39,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:43,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:46,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:07:47,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:51,648 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:55,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:07:59,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:03,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:06,651 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:08:07,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:11,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:15,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:19,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:23,649 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:26,649 INFO   [TargetManager] Start updating target info 
+2022-05-12 15:08:27,650 INFO   [TargetManager] Calculate target status (size: 0) 
+2022-05-12 15:08:28,039 WARN   [ShutdownHook] PROGRAM END 

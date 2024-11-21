@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>HVN108</Callsign>
+    <Address>8880F0</Address>
+    <FlightLevel>229.0</FlightLevel>
+    <Speed>439.34</Speed>
+    <Heading>34.93050003051758</Heading>
+    <VerticalRate>10.875</VerticalRate>
+    <Longtitude>107.12162780761719</Longtitude>
+    <Latitude>11.804396629333496</Latitude>
+    <TimeOfDay>1753.34375</TimeOfDay>
+    <InitialTime>1596131741164</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596131741164</LastUpdateInMil>
+    <Mode3A>5752</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>

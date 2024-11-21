@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="playbackserver">
+            <file>file:/F:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/PlaybackTask.java</file>
+            <file>file:/F:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/Broadcaster.java</file>
+            <file>file:/F:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/Main.java</file>
+            <file>file:/F:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/Run.java</file>
+        </group>
+        <group name="playback">
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/PlaybackTask.java</file>
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/FilesTableModel.java</file>
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/gui/config/ConfigDialog.java</file>
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/Run.java</file>
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/Main.java</file>
+            <file>file:/D:/playback/com.attech.adsb.playbackserver/src/com/attech/adsb/playbackserver/PlaybackFile.java</file>
+        </group>
+    </open-files>
+</project-private>

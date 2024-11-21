@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FlightTrace call-sign="VN036" address="8880AA">
+    <Trace z-index="1.0" line-weight="1" color="#000000">
+        <Points y="0.0" x="0.0"/>
+        <Points y="1.0" x="0.0"/>
+    </Trace>
+</FlightTrace>

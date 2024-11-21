@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Airport name="TAN SON NHAT" type="INTERNATIONAL" code="TSN" iata="SGN" icao="VVTS" displayCircle="false" displayArc="false" enabled="true" selected="false">
+    <Point y="10.8164" x="106.6456" size="0"/>
+</Airport>

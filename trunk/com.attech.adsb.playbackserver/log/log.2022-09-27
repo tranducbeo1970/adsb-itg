@@ -1,0 +1,963 @@
+2022-09-27 11:20:43,581 INFO   [PlaybackTask] background start 
+2022-09-27 11:20:43,629 INFO   [Main] STARTED 
+2022-09-27 11:20:43,692 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,692 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,737 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,737 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,737 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,737 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,738 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,739 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,739 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,765 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,765 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,766 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,766 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,766 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,766 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,766 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,819 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,819 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,819 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,819 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,820 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,820 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,820 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,820 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,820 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,821 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,821 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,821 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,821 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,822 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,822 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,822 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,822 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,822 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,823 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,823 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,823 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,823 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,824 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,824 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,824 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,824 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,824 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,825 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,825 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,825 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,825 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,825 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,825 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,826 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,826 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,826 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,826 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,826 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,826 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,827 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,827 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,827 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,827 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,827 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,827 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,828 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,828 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,828 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,828 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,828 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,829 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,829 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,829 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,829 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,829 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,829 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,830 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,830 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,830 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,830 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,830 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,830 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,831 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,831 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,831 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,831 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,831 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,832 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,832 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,833 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,833 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,833 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,833 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,833 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,833 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,980 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,981 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,981 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,981 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,981 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,982 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,982 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,982 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,982 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,982 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,982 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,983 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,983 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,984 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,984 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,984 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,984 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,984 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,984 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,985 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,985 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,985 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,985 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,985 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,985 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:43,986 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,986 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,986 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,986 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:43,986 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,986 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,987 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:43,987 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,987 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,987 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:43,987 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,203 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,203 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,203 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,203 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,203 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,204 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,204 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,204 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,204 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,204 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,204 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,205 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,205 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,205 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,205 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,205 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,205 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,206 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,206 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,206 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,206 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,206 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,206 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,207 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,207 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,207 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,207 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,207 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,208 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,208 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,208 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,208 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,208 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,208 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,209 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,209 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,209 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,209 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,209 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,209 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,210 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,373 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,373 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,373 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,373 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,374 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,374 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,374 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,374 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,374 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,374 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,375 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,375 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,375 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,375 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,375 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,376 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,376 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,376 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,376 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,376 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,376 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,377 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,377 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,377 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,377 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,377 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,377 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,378 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,378 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,378 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,378 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,378 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,378 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,379 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,379 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,379 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,379 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,379 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,380 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,380 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,380 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,508 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,508 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,509 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,509 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,509 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,509 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,509 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,509 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,510 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,510 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,510 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,510 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,510 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,510 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,511 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,511 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,512 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,512 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,512 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,512 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,512 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,513 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,513 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,513 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,513 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,513 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,513 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,514 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,514 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,514 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,515 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,515 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,516 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,516 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,516 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,516 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,635 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,635 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,635 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,636 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,636 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,637 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,637 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,637 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,637 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,637 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,638 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,638 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,638 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,638 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,638 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,639 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,639 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,639 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,639 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,639 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,639 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,640 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,640 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,640 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,640 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,640 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,641 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,641 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,641 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,641 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,641 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,642 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,642 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,642 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,642 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,642 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,802 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,802 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,803 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,803 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,803 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,803 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,804 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,804 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,804 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,804 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,804 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,804 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,805 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,805 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,805 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,805 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,806 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,806 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,806 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,806 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,806 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,807 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,807 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,807 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,807 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,807 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,807 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,808 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,808 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,809 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,809 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,961 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,961 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,961 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,962 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,962 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,963 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,963 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,964 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,964 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,964 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,964 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,965 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,965 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,965 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,965 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,966 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,966 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,966 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,966 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:44,966 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,966 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,967 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,967 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,967 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,967 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,968 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:44,968 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,968 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,968 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:44,968 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:44,969 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,123 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,123 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,124 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,124 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,125 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,125 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,126 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,126 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,126 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,126 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,126 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,127 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,127 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,127 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,127 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,128 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,128 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,128 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,128 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,128 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,129 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,129 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,130 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,242 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,242 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,242 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,242 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,242 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,243 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,243 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,244 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,244 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,245 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,245 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,246 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,246 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,247 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,247 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,372 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,373 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,373 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,373 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,374 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,374 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,375 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,375 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,376 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,376 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,377 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,377 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,377 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,377 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,377 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,378 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,378 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,378 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,483 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,483 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,483 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,483 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,484 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,484 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,485 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,485 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,486 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,486 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,487 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,487 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,488 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,488 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,489 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,617 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,617 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,617 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,618 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,618 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,618 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,618 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,618 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,619 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,619 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,619 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,619 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,619 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,620 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,620 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,620 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,620 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,620 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,620 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,621 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,621 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,621 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,622 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,622 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,623 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,623 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,623 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,623 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,624 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,624 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,625 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,786 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,786 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,786 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,786 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,787 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,787 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,788 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,788 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,788 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,789 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,789 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,789 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,789 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,790 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,790 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,790 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,790 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,790 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,791 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,791 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,792 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,792 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,793 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,793 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,793 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,793 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,983 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,984 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,984 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,984 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,984 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,984 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,984 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,985 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,985 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,996 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,996 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,996 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,997 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,997 INFO   [PlaybackFile] File: 2022-09-15.15.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,998 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,998 INFO   [PlaybackFile] File: 2022-09-15.17.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,999 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.17.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackFile] Counting number of message on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackFile] None asterix cat21 message 's detected on file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:45,999 INFO   [PlaybackFile] File: 2022-09-15.18.000.160.rcd has 0 (messages) 
+2022-09-27 11:20:45,999 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:46,124 INFO   [Main] DONE 
+2022-09-27 11:20:46,124 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 11:20:46,125 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 11:21:36,479 INFO   [PlaybackTask] background start 
+2022-09-27 11:21:36,521 INFO   [Main] STARTED 
+2022-09-27 11:21:36,583 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:21:36,583 ERROR  [PlaybackTask]  
+2022-09-27 11:21:37,633 INFO   [Main] DONE 
+2022-09-27 11:21:41,734 INFO   [PlaybackTask] background start 
+2022-09-27 11:21:41,777 INFO   [Main] STARTED 
+2022-09-27 11:21:41,839 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:21:41,840 ERROR  [PlaybackTask]  
+2022-09-27 11:21:42,890 INFO   [Main] DONE 
+2022-09-27 11:23:53,048 INFO   [PlaybackTask] background start 
+2022-09-27 11:23:53,093 INFO   [Main] STARTED 
+2022-09-27 11:23:53,154 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:23:53,155 ERROR  [PlaybackTask]  
+2022-09-27 11:23:54,209 INFO   [Main] DONE 
+2022-09-27 11:24:05,741 INFO   [PlaybackTask] background start 
+2022-09-27 11:24:05,788 INFO   [Main] STARTED 
+2022-09-27 11:24:05,849 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:24:05,849 ERROR  [PlaybackTask]  
+2022-09-27 11:24:06,905 INFO   [Main] DONE 
+2022-09-27 11:24:26,478 INFO   [PlaybackTask] background start 
+2022-09-27 11:24:26,524 INFO   [Main] STARTED 
+2022-09-27 11:24:26,588 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:24:26,588 ERROR  [PlaybackTask]  
+2022-09-27 11:24:27,639 INFO   [Main] DONE 
+2022-09-27 11:26:08,062 INFO   [PlaybackTask] background start 
+2022-09-27 11:26:08,108 INFO   [Main] STARTED 
+2022-09-27 11:26:08,169 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 11:26:08,169 ERROR  [PlaybackTask]  
+2022-09-27 11:26:09,224 INFO   [Main] DONE 
+2022-09-27 11:26:48,643 INFO   [PlaybackTask] background start 
+2022-09-27 11:26:48,680 INFO   [Main] STARTED 
+2022-09-27 11:26:48,759 INFO   [PlaybackTask] Loading file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 11:26:48,759 INFO   [PlaybackFile] Counting number of message on file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 11:26:48,875 INFO   [PlaybackFile] File: 2022-05-10.00-00-00.254.0000.rcd has 3418 (messages) 
+2022-09-27 11:26:48,876 INFO   [PlaybackTask] Start playingback file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 11:26:48,876 INFO   [PlaybackFile] Open file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 11:26:55,612 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 11:26:55,612 INFO   [Main] DONE 
+2022-09-27 13:35:46,637 INFO   [PlaybackTask] background start 
+2022-09-27 13:35:46,679 INFO   [Main] STARTED 
+2022-09-27 13:35:46,741 INFO   [PlaybackTask] Loading file 2022-05-10.02-00-00.959.0000.rcd 
+2022-09-27 13:35:46,741 INFO   [PlaybackFile] Counting number of message on file 2022-05-10.02-00-00.959.0000.rcd 
+2022-09-27 13:35:46,833 INFO   [PlaybackFile] File: 2022-05-10.02-00-00.959.0000.rcd has 3398 (messages) 
+2022-09-27 13:35:46,834 INFO   [PlaybackTask] Start playingback file 2022-05-10.02-00-00.959.0000.rcd 
+2022-09-27 13:35:46,834 INFO   [PlaybackFile] Open file 2022-05-10.02-00-00.959.0000.rcd 
+2022-09-27 13:36:49,029 INFO   [PlaybackTask] background start 
+2022-09-27 13:36:49,073 INFO   [Main] STARTED 
+2022-09-27 13:36:49,134 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:36:49,134 ERROR  [PlaybackTask]  
+2022-09-27 13:36:50,190 INFO   [Main] DONE 
+2022-09-27 13:36:54,389 INFO   [PlaybackTask] background start 
+2022-09-27 13:36:54,432 INFO   [Main] STARTED 
+2022-09-27 13:36:54,493 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:36:54,493 ERROR  [PlaybackTask]  
+2022-09-27 13:36:55,545 INFO   [Main] DONE 
+2022-09-27 13:36:55,957 INFO   [PlaybackTask] background start 
+2022-09-27 13:36:55,996 INFO   [Main] STARTED 
+2022-09-27 13:36:56,059 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:36:56,059 ERROR  [PlaybackTask]  
+2022-09-27 13:36:57,111 INFO   [Main] DONE 
+2022-09-27 13:38:44,822 INFO   [PlaybackTask] background start 
+2022-09-27 13:38:44,854 INFO   [Main] STARTED 
+2022-09-27 13:38:44,931 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:38:44,931 ERROR  [PlaybackTask]  
+2022-09-27 13:38:45,991 INFO   [Main] DONE 
+2022-09-27 13:39:26,807 INFO   [PlaybackTask] background start 
+2022-09-27 13:39:26,855 INFO   [Main] STARTED 
+2022-09-27 13:39:26,918 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:39:26,918 ERROR  [PlaybackTask]  
+2022-09-27 13:39:27,972 INFO   [Main] DONE 
+2022-09-27 13:43:56,197 INFO   [PlaybackTask] background start 
+2022-09-27 13:43:56,233 INFO   [Main] STARTED 
+2022-09-27 13:43:56,310 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:43:56,310 ERROR  [PlaybackTask]  
+2022-09-27 13:43:57,370 INFO   [Main] DONE 
+2022-09-27 13:44:05,356 INFO   [PlaybackTask] background start 
+2022-09-27 13:44:05,397 INFO   [Main] STARTED 
+2022-09-27 13:44:05,459 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 13:44:05,459 ERROR  [PlaybackTask]  
+2022-09-27 13:44:06,512 INFO   [Main] DONE 
+2022-09-27 13:44:55,384 INFO   [PlaybackTask] background start 
+2022-09-27 13:44:55,418 INFO   [Main] STARTED 
+2022-09-27 13:44:55,496 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:44:55,496 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:44:55,497 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:58:37,558 INFO   [PlaybackTask] background start 
+2022-09-27 13:58:37,605 INFO   [Main] STARTED 
+2022-09-27 13:58:37,666 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:58:37,666 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:58:37,667 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 13:58:47,807 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 13:58:47,808 INFO   [Main] DONE 
+2022-09-27 13:58:48,048 INFO   [PlaybackTask] background start 
+2022-09-27 13:58:48,094 INFO   [Main] STARTED 
+2022-09-27 13:58:48,156 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 13:58:48,156 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 13:58:48,156 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 13:59:18,263 INFO   [Main] DONE 
+2022-09-27 13:59:18,263 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 13:59:18,528 INFO   [PlaybackTask] background start 
+2022-09-27 13:59:18,577 INFO   [Main] STARTED 
+2022-09-27 13:59:18,639 INFO   [PlaybackTask] Loading file 2022-09-15.17.000.160.rcd 
+2022-09-27 13:59:18,639 INFO   [PlaybackTask] Start playingback file 2022-09-15.17.000.160.rcd 
+2022-09-27 13:59:18,639 INFO   [PlaybackFile] Open file 2022-09-15.17.000.160.rcd 
+2022-09-27 14:29:11,009 INFO   [PlaybackTask] background start 
+2022-09-27 14:29:11,053 INFO   [Main] STARTED 
+2022-09-27 14:29:11,114 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:29:11,115 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:29:11,115 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:29:11,115 ERROR  [PlaybackTask]  
+2022-09-27 14:29:12,176 INFO   [Main] DONE 
+2022-09-27 14:31:39,611 INFO   [PlaybackTask] background start 
+2022-09-27 14:31:39,653 INFO   [Main] STARTED 
+2022-09-27 14:31:39,716 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:31:39,716 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:31:39,716 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:32:16,943 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 14:32:16,943 INFO   [Main] DONE 
+2022-09-27 14:32:17,176 INFO   [PlaybackTask] background start 
+2022-09-27 14:32:17,215 INFO   [Main] STARTED 
+2022-09-27 14:32:17,292 INFO   [PlaybackTask] Loading file 2022-09-15.18.000.160.rcd 
+2022-09-27 14:32:17,292 INFO   [PlaybackTask] Start playingback file 2022-09-15.18.000.160.rcd 
+2022-09-27 14:32:17,292 INFO   [PlaybackFile] Open file 2022-09-15.18.000.160.rcd 
+2022-09-27 14:33:38,388 INFO   [PlaybackTask] background start 
+2022-09-27 14:33:38,423 INFO   [Main] STARTED 
+2022-09-27 14:33:38,501 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:33:38,501 ERROR  [PlaybackTask]  
+2022-09-27 14:33:39,552 INFO   [Main] DONE 
+2022-09-27 14:43:58,121 INFO   [PlaybackTask] background start 
+2022-09-27 14:43:58,164 INFO   [Main] STARTED 
+2022-09-27 14:43:58,225 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:43:58,226 ERROR  [PlaybackTask]  
+2022-09-27 14:43:59,284 INFO   [Main] DONE 
+2022-09-27 14:44:04,358 INFO   [PlaybackTask] background start 
+2022-09-27 14:44:04,394 INFO   [Main] STARTED 
+2022-09-27 14:44:04,472 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:44:04,473 ERROR  [PlaybackTask]  
+2022-09-27 14:44:05,527 INFO   [Main] DONE 
+2022-09-27 14:45:20,348 INFO   [PlaybackTask] background start 
+2022-09-27 14:45:20,385 INFO   [Main] STARTED 
+2022-09-27 14:45:20,464 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:45:20,464 ERROR  [PlaybackTask]  
+2022-09-27 14:45:21,524 INFO   [Main] DONE 
+2022-09-27 14:49:02,540 INFO   [PlaybackTask] background start 
+2022-09-27 14:49:02,575 INFO   [Main] STARTED 
+2022-09-27 14:49:02,653 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 14:49:02,653 ERROR  [PlaybackTask]  
+2022-09-27 14:49:03,709 INFO   [Main] DONE 
+2022-09-27 14:57:57,893 INFO   [PlaybackTask] background start 
+2022-09-27 14:57:57,927 INFO   [Main] STARTED 
+2022-09-27 14:57:58,005 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:57:58,006 ERROR  [PlaybackTask]  
+2022-09-27 14:57:59,060 INFO   [Main] DONE 
+2022-09-27 14:58:39,408 INFO   [PlaybackTask] background start 
+2022-09-27 14:58:39,454 INFO   [Main] STARTED 
+2022-09-27 14:58:39,515 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 14:58:39,515 ERROR  [PlaybackTask]  
+2022-09-27 14:58:40,568 INFO   [Main] DONE 
+2022-09-27 15:07:49,906 INFO   [PlaybackTask] background start 
+2022-09-27 15:07:49,943 INFO   [Main] STARTED 
+2022-09-27 15:07:50,021 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 15:07:50,021 ERROR  [PlaybackTask]  
+2022-09-27 15:07:51,081 INFO   [Main] DONE 
+2022-09-27 15:09:09,690 INFO   [PlaybackTask] background start 
+2022-09-27 15:09:09,725 INFO   [Main] STARTED 
+2022-09-27 15:09:09,803 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 15:09:09,803 ERROR  [PlaybackTask]  
+2022-09-27 15:09:10,861 INFO   [Main] DONE 
+2022-09-27 15:10:04,779 INFO   [PlaybackTask] background start 
+2022-09-27 15:10:04,818 INFO   [Main] STARTED 
+2022-09-27 15:10:04,881 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:10:04,881 ERROR  [PlaybackTask]  
+2022-09-27 15:10:05,941 INFO   [Main] DONE 
+2022-09-27 15:10:13,903 INFO   [PlaybackTask] background start 
+2022-09-27 15:10:13,937 INFO   [Main] STARTED 
+2022-09-27 15:10:14,016 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:10:14,016 ERROR  [PlaybackTask]  
+2022-09-27 15:10:15,073 INFO   [Main] DONE 
+2022-09-27 15:10:18,295 INFO   [PlaybackTask] background start 
+2022-09-27 15:10:18,335 INFO   [Main] STARTED 
+2022-09-27 15:10:18,397 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:10:18,397 ERROR  [PlaybackTask]  
+2022-09-27 15:10:19,455 INFO   [Main] DONE 
+2022-09-27 15:10:21,023 INFO   [PlaybackTask] background start 
+2022-09-27 15:10:21,071 INFO   [Main] STARTED 
+2022-09-27 15:10:21,134 INFO   [PlaybackTask] Loading file 2020-06-21.06.000.a.rcd 
+2022-09-27 15:10:21,134 ERROR  [PlaybackTask]  
+2022-09-27 15:10:22,191 INFO   [Main] DONE 
+2022-09-27 15:10:58,442 INFO   [PlaybackTask] background start 
+2022-09-27 15:10:58,489 INFO   [Main] STARTED 
+2022-09-27 15:10:58,549 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:10:58,549 ERROR  [PlaybackTask]  
+2022-09-27 15:10:59,606 INFO   [Main] DONE 
+2022-09-27 15:12:16,590 INFO   [PlaybackTask] background start 
+2022-09-27 15:12:16,627 INFO   [Main] STARTED 
+2022-09-27 15:12:16,705 INFO   [PlaybackTask] Loading file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 15:12:16,705 INFO   [PlaybackTask] Start playingback file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 15:12:16,705 INFO   [PlaybackFile] Open file 2022-05-10.00-00-00.254.0000.rcd 
+2022-09-27 15:12:18,973 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 15:12:18,973 INFO   [Main] DONE 
+2022-09-27 15:12:19,214 INFO   [PlaybackTask] background start 
+2022-09-27 15:12:19,256 INFO   [Main] STARTED 
+2022-09-27 15:12:19,318 INFO   [PlaybackTask] Loading file 2022-05-10.12-00-00.176.0000.rcd 
+2022-09-27 15:12:19,319 INFO   [PlaybackTask] Start playingback file 2022-05-10.12-00-00.176.0000.rcd 
+2022-09-27 15:12:19,319 INFO   [PlaybackFile] Open file 2022-05-10.12-00-00.176.0000.rcd 
+2022-09-27 15:16:41,502 INFO   [PlaybackTask] background start 
+2022-09-27 15:16:41,536 INFO   [Main] STARTED 
+2022-09-27 15:16:41,613 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:16:41,613 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:16:41,613 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:18:15,160 INFO   [PlaybackTask] background start 
+2022-09-27 15:18:15,201 INFO   [Main] STARTED 
+2022-09-27 15:18:15,264 INFO   [PlaybackTask] Loading file 2020-06-21.05.000.a.rcd 
+2022-09-27 15:18:15,264 ERROR  [PlaybackTask]  
+2022-09-27 15:18:16,321 INFO   [Main] DONE 
+2022-09-27 15:18:43,812 INFO   [PlaybackTask] background start 
+2022-09-27 15:18:43,853 INFO   [Main] STARTED 
+2022-09-27 15:18:43,914 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:18:43,915 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:18:43,915 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:23:28,972 INFO   [PlaybackTask] background start 
+2022-09-27 15:23:29,018 INFO   [Main] STARTED 
+2022-09-27 15:23:29,081 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:23:29,081 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:23:29,081 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:23:29,105 ERROR  [PlaybackTask] com.attech.lib.record.RecordItem cannot be cast to com.attech.adsb.record.RecordItem 
+2022-09-27 15:23:30,165 INFO   [Main] DONE 
+2022-09-27 15:25:36,924 INFO   [PlaybackTask] background start 
+2022-09-27 15:25:36,965 INFO   [Main] STARTED 
+2022-09-27 15:25:37,026 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:25:37,026 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:25:37,027 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:26:04,892 INFO   [PlaybackTask] background start 
+2022-09-27 15:26:04,925 INFO   [Main] STARTED 
+2022-09-27 15:26:05,001 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:26:05,001 ERROR  [PlaybackTask]  
+2022-09-27 15:26:06,059 INFO   [Main] DONE 
+2022-09-27 15:26:28,451 INFO   [PlaybackTask] background start 
+2022-09-27 15:26:28,488 INFO   [Main] STARTED 
+2022-09-27 15:26:28,565 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:26:28,565 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:26:28,565 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:28:10,283 INFO   [PlaybackTask] background start 
+2022-09-27 15:28:10,325 INFO   [Main] STARTED 
+2022-09-27 15:28:10,389 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:28:10,389 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:28:10,389 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:28:11,937 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 15:28:11,938 INFO   [Main] DONE 
+2022-09-27 15:36:04,674 INFO   [PlaybackTask] background start 
+2022-09-27 15:36:04,713 INFO   [Main] STARTED 
+2022-09-27 15:36:04,789 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:36:04,789 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:36:04,789 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:36:07,904 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 15:36:07,904 INFO   [Main] DONE 
+2022-09-27 15:36:13,592 INFO   [PlaybackTask] background start 
+2022-09-27 15:36:13,636 INFO   [Main] STARTED 
+2022-09-27 15:36:13,699 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:36:13,699 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:36:13,699 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:37:23,893 INFO   [PlaybackTask] background start 
+2022-09-27 15:37:23,934 INFO   [Main] STARTED 
+2022-09-27 15:37:23,995 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:37:23,995 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:37:23,995 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:37:24,017 ERROR  [PlaybackTask] com.attech.lib.record.RecordItem cannot be cast to com.attech.adsb.record.RecordItem 
+2022-09-27 15:37:25,067 INFO   [Main] DONE 
+2022-09-27 15:38:03,177 INFO   [PlaybackTask] background start 
+2022-09-27 15:38:03,220 INFO   [Main] STARTED 
+2022-09-27 15:38:03,282 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:38:03,282 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:38:03,282 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:38:03,283 ERROR  [PlaybackTask] com.attech.lib.record.RecordItem cannot be cast to com.attech.adsb.record.RecordItem 
+2022-09-27 15:38:04,342 INFO   [Main] DONE 
+2022-09-27 15:41:18,253 INFO   [PlaybackTask] background start 
+2022-09-27 15:41:18,288 INFO   [Main] STARTED 
+2022-09-27 15:41:18,368 INFO   [PlaybackTask] Loading file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:41:18,369 INFO   [PlaybackTask] Start playingback file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:41:18,369 INFO   [PlaybackFile] Open file 2020-06-21.01.000.a.rcd 
+2022-09-27 15:41:19,390 ERROR  [PlaybackTask] sleep interrupted 
+2022-09-27 15:41:19,390 INFO   [Main] DONE 
+2022-09-27 15:42:13,524 INFO   [PlaybackTask] background start 
+2022-09-27 15:42:13,569 INFO   [Main] STARTED 
+2022-09-27 15:42:13,631 INFO   [PlaybackTask] Loading file 2022-09-15.15.000.160.rcd 
+2022-09-27 15:42:13,632 INFO   [PlaybackTask] Start playingback file 2022-09-15.15.000.160.rcd 
+2022-09-27 15:42:13,632 INFO   [PlaybackFile] Open file 2022-09-15.15.000.160.rcd 

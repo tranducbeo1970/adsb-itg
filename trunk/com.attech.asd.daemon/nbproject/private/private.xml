@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="ASD_2020">
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/Run.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/Data.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/RecordItem.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/recorder/DataRecorder.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/DataFusion.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/ServerInfo.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/FusedItem.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceivingHandler.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/PackageBuilder.java</file>
+            <file>file:/F:/ASD-2020/trunk/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceiverManager.java</file>
+        </group>
+        <group name="ADS-B Integrator"/>
+        <group name="adsb-itg"/>
+        <group name="sms-tool">
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/ServerInfo.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/UpdatingManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/DataFusion.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/ServiceProviderThread.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/UpdatingThread.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/recorder/DataRecorder.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/Run.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/SendFile.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceiverManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/InformationItem.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceivingHandler.java</file>
+        </group>
+        <group name="adsb-itg-09092021">
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/Run.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/client/ClientManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceiverManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunk%20-%2009092021/com.attech.asd.daemon/src/com/attech/asd/daemon/DataFusion.java</file>
+        </group>
+        <group name="adsb_itgss">
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceivingHandler.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/UpdatingThread.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/socket/UpdatingManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/InformationManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/InformationItem.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/recorder/DataRecorder.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/receiver/ReceiverManager.java</file>
+            <file>file:/D:/ADS-B%20Integrator/trunks/com.attech.asd.daemon/src/com/attech/asd/daemon/Run.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>

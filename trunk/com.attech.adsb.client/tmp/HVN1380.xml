@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Target>
+    <Callsign>HVN1380</Callsign>
+    <Address>888061</Address>
+    <FlightLevel>84.75</FlightLevel>
+    <Speed>0.0</Speed>
+    <Heading>0.0</Heading>
+    <VerticalRate>0.0</VerticalRate>
+    <Longtitude>108.15156555175781</Longtitude>
+    <Latitude>11.61254596710205</Latitude>
+    <TimeOfDay>2153.8046875</TimeOfDay>
+    <InitialTime>1596132370584</InitialTime>
+    <NIC>7</NIC>
+    <NAC>8</NAC>
+    <SIL>2</SIL>
+    <LastUpdateInMil>1596132370584</LastUpdateInMil>
+    <Mode3A>0</Mode3A>
+    <TargetStatus>0</TargetStatus>
+    <Available>true</Available>
+</Target>
